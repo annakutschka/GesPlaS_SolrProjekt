@@ -1,0 +1,1 @@
+# GesPlaS_SolrProjekt
