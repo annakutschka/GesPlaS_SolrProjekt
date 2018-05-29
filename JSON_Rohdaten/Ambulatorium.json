@@ -1,0 +1,1161 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "OBJECTID": "OBJECTID",
+    "ID": "ID",
+    "KA_NUMMER": "KA_NUMMER",
+    "BEZEICHN": "BEZEICHN",
+    "TYP": "TYP",
+    "STRASSE": "STRASSE",
+    "HAUSNR": "HAUSNR",
+    "PLZ": "PLZ",
+    "ORT": "ORT"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 31258,
+    "latestWkid": 31258
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ID"
+    },
+    {
+      "name": "KA_NUMMER",
+      "type": "esriFieldTypeDouble",
+      "alias": "KA_NUMMER"
+    },
+    {
+      "name": "BEZEICHN",
+      "type": "esriFieldTypeString",
+      "alias": "BEZEICHN",
+      "length": 50
+    },
+    {
+      "name": "TYP",
+      "type": "esriFieldTypeString",
+      "alias": "TYP",
+      "length": 70
+    },
+    {
+      "name": "STRASSE",
+      "type": "esriFieldTypeString",
+      "alias": "STRASSE",
+      "length": 40
+    },
+    {
+      "name": "HAUSNR",
+      "type": "esriFieldTypeString",
+      "alias": "HAUSNR",
+      "length": 16
+    },
+    {
+      "name": "PLZ",
+      "type": "esriFieldTypeDouble",
+      "alias": "PLZ"
+    },
+    {
+      "name": "ORT",
+      "type": "esriFieldTypeString",
+      "alias": "ORT",
+      "length": 40
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "ID": 1,
+        "KA_NUMMER": 5001,
+        "BEZEICHN": "Ambulatorium f\u00fcr digitale Bilddiagnostik",
+        "TYP": "Ambulatorium f\u00fcr digitale Bilddiagnostik (Computertomographie)",
+        "STRASSE": "Berchtesgadenerstrasse",
+        "HAUSNR": "66",
+        "PLZ": 5020,
+        "ORT": "Salzburr"
+      },
+      "geometry": {
+        "x": 428224.76970351,
+        "y": 293124.42956538
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "ID": 2,
+        "KA_NUMMER": 5020,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sportorthop\u00e4die und Trainingsther",
+        "TYP": "Sportmedizin",
+        "STRASSE": "Aignerstrasse",
+        "HAUSNR": "29",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 430505.37258564,
+        "y": 295066.04006318
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "ID": 3,
+        "KA_NUMMER": 5021,
+        "BEZEICHN": "Ambulatorium f\u00fcr Schielbehandlung und Neuroophthal",
+        "TYP": "Sehschule",
+        "STRASSE": "Augustinergasse",
+        "HAUSNR": "11",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427486.78519082,
+        "y": 296057.59462411
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "ID": 4,
+        "KA_NUMMER": 5022,
+        "BEZEICHN": "Institut f\u00fcr Computertomographie",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Schallmooser Hauptstrasse",
+        "HAUSNR": "49-51",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429298.46263251,
+        "y": 296536.81843255
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "ID": 5,
+        "KA_NUMMER": 5023,
+        "BEZEICHN": "Tagesklinik Dr. Damisch",
+        "TYP": "Tagesklinik",
+        "STRASSE": "Firmianstrasse",
+        "HAUSNR": "5",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427520.90487086,
+        "y": 294281.18220645
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "ID": 6,
+        "KA_NUMMER": 5024,
+        "BEZEICHN": "Klimatrix; Institut f\u00fcr klimakterische Beschwerden",
+        "TYP": "Ambulatorium f\u00fcr klimakterisches Syndrom",
+        "STRASSE": "Schallmooser Hauptstrasse",
+        "HAUSNR": "51\/1",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429308.00733652,
+        "y": 296538.09100856
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "ID": 7,
+        "KA_NUMMER": 5025,
+        "BEZEICHN": "Ambulatorium f\u00fcr Herz-Kreislauf-Diagnostik und The",
+        "TYP": "Ambulatorium f\u00fcr Herz-Kreislauf-Diagnostik und Therapie",
+        "STRASSE": "Imbergstrasse",
+        "HAUSNR": "22",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429049.14423228,
+        "y": 295728.9720318
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "ID": 8,
+        "KA_NUMMER": 5026,
+        "BEZEICHN": "Ambulatorium f\u00fcr Unterwassertherapie; Dr. H. Beind",
+        "TYP": "Ambulatorium f\u00fcr Unterwassertherapie",
+        "STRASSE": "Kaltnergasse",
+        "HAUSNR": "5",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429777.61552896,
+        "y": 295260.48793536
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "ID": 9,
+        "KA_NUMMER": 5027,
+        "BEZEICHN": "Institut f\u00fcr Sportmedizin des Landes Salzburg",
+        "TYP": "Ambulatorium f\u00fcr Unfallchirugie, Sportmedizin oder Rehabilitation",
+        "STRASSE": "Lindhofstrasse",
+        "HAUSNR": "20",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427414.37431076,
+        "y": 296264.9241603
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "ID": 10,
+        "KA_NUMMER": 5028,
+        "BEZEICHN": "Dialyseambulatorium Dr. Bolzano",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Maxglaner Hauptstrasse",
+        "HAUSNR": "72",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 426467.62973388,
+        "y": 295924.53785598
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "ID": 11,
+        "KA_NUMMER": 5029,
+        "BEZEICHN": "Institut f\u00fcr hypostatische Beinleiden",
+        "TYP": "Ambulatorium f\u00fcr hypostatische Beinleiden",
+        "STRASSE": "Plainstrasse",
+        "HAUSNR": "32",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428156.11562345,
+        "y": 297279.52256124
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "ID": 12,
+        "KA_NUMMER": 5030,
+        "BEZEICHN": "Sehschule Dr. Rudolf Pekar",
+        "TYP": "Sehschule",
+        "STRASSE": "Schwarzstrasse",
+        "HAUSNR": "21",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428122.23811942,
+        "y": 296184.24934422
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "ID": 13,
+        "KA_NUMMER": 5043,
+        "BEZEICHN": "Zahnambulatorium der Vers. der \u00f6sterr. Eisenbahner",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "S\u00fcdtirolerplatz",
+        "HAUSNR": "1",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428466.59779974,
+        "y": 297203.44550517
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "ID": 14,
+        "KA_NUMMER": 5044,
+        "BEZEICHN": "Zahnambulatorium der Vers. \u00f6ffentl. Bediensteter",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Faberstrasse",
+        "HAUSNR": "2a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428476.59229575,
+        "y": 296330.13427236
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "ID": 15,
+        "KA_NUMMER": 5045,
+        "BEZEICHN": "Ambulatorium f\u00fcr entwicklungsgest\u00f6rte Kinder, Juge",
+        "TYP": "Ambulatorium f\u00fcr Behinderte",
+        "STRASSE": "Ernest-Thun-Strasse",
+        "HAUSNR": "9",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428026.42627933,
+        "y": 296680.18022469
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "ID": 16,
+        "KA_NUMMER": 5047,
+        "BEZEICHN": "Dr. Ernst Doringer - Institut f\u00fcr CT und MRT",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Innbrucker Bundesstrasse",
+        "HAUSNR": "83a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 425808.78326926,
+        "y": 295615.2494077
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "ID": 17,
+        "KA_NUMMER": 5049,
+        "BEZEICHN": "Allergieambulatorium DDr. Wagner",
+        "TYP": "Allergieambulatorium",
+        "STRASSE": "Ferdinand-Porsche-Strasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428273.77936756,
+        "y": 297143.49260912
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "ID": 18,
+        "KA_NUMMER": 5052,
+        "BEZEICHN": "Tagesklinik f\u00fcr Mund-, Kiefer- und Gesichtschirugi",
+        "TYP": "Tagesklinik f\u00fcr Mund-, Kiefer- und Gesichtschirugie",
+        "STRASSE": "Ferdinand-Porsche-Strasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428277.59709556,
+        "y": 297139.25068911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "ID": 19,
+        "KA_NUMMER": 5053,
+        "BEZEICHN": "Therapie am Rainberg",
+        "TYP": "Physikalische Therapie",
+        "STRASSE": "Rainbergtsrasse",
+        "HAUSNR": "3a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427639.28208697,
+        "y": 295383.97670348
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 20,
+        "ID": 20,
+        "KA_NUMMER": 5055,
+        "BEZEICHN": "Dr. Holzer-Medizin.-diagn. Laboratorium",
+        "TYP": "Medizinische Labordiagnostik",
+        "STRASSE": "Bergstrasse",
+        "HAUSNR": "14",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428482.55709575,
+        "y": 296185.18476823
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 21,
+        "ID": 21,
+        "KA_NUMMER": 5056,
+        "BEZEICHN": "Inst. f\u00fcr Physikalische Therapie Herrnau",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Stumpfeggergasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429717.2427929,
+        "y": 293620.42751784
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 22,
+        "ID": 22,
+        "KA_NUMMER": 5057,
+        "BEZEICHN": "Amb. f\u00fcr Psychosomatik und Psychotherapie",
+        "TYP": "Amb. f\u00fcr Psychosomatik und Psychotherapie",
+        "STRASSE": "Guggenbichlerstrasse",
+        "HAUSNR": "20",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 430786.4749219,
+        "y": 294435.5287026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 23,
+        "ID": 23,
+        "KA_NUMMER": 5059,
+        "BEZEICHN": "Servicestuhl der niedergelassenen Zahn\u00e4rzte",
+        "TYP": "Ambulatorium f\u00fcr Zahnmedizin",
+        "STRASSE": "Bergstrasse",
+        "HAUSNR": "14",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428476.83037575,
+        "y": 296181.79123222
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "ID": 24,
+        "KA_NUMMER": 5064,
+        "BEZEICHN": "Tageshospiz Kleingmainerhof",
+        "TYP": "Tageshospiz f\u00fcr palliative care",
+        "STRASSE": "Morzgertrasse",
+        "HAUSNR": "27",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429300.97732051,
+        "y": 293562.11634978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 25,
+        "ID": 25,
+        "KA_NUMMER": 5002,
+        "BEZEICHN": "Haut-Vorsorge-Zentrum EMCO-Privatklinik-Allergieam",
+        "TYP": "Allergieambulatorium",
+        "STRASSE": "Martin-Hell-Strasse",
+        "HAUSNR": "7-9",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431885.77245892,
+        "y": 280344.47896147
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 26,
+        "ID": 26,
+        "KA_NUMMER": 5051,
+        "BEZEICHN": "Amb. f\u00fcr physikalische Therapie in der EMCO-Klinik",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Martin-Hell-Strasse",
+        "HAUSNR": "7-9",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431875.16740291,
+        "y": 280366.96139349
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 27,
+        "ID": 27,
+        "KA_NUMMER": 5003,
+        "BEZEICHN": "Inst. f\u00fcr Rheumatologie, Rehab. und Ganzheitssmedi",
+        "TYP": "Ambulatorium f\u00fcr Unterwassertherapie",
+        "STRASSE": "Badbergstrasse",
+        "HAUSNR": "1",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein"
+      },
+      "geometry": {
+        "x": 435260.13303806,
+        "y": 220085.97112935
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 28,
+        "ID": 28,
+        "KA_NUMMER": 5004,
+        "BEZEICHN": "B\u00e4renhof am Felsenbad",
+        "TYP": "Di\u00e4tambulatorium",
+        "STRASSE": "Pyrkerh\u00f6henstrasse",
+        "HAUSNR": "11",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein"
+      },
+      "geometry": {
+        "x": 434920.13585375,
+        "y": 219287.90162461
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "ID": 29,
+        "KA_NUMMER": 5005,
+        "BEZEICHN": "Hotel Palace Gastein",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Alexander-Moser-Allee",
+        "HAUSNR": "13",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432972.50525993,
+        "y": 225375.07577428
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
+        "ID": 30,
+        "KA_NUMMER": 5006,
+        "BEZEICHN": "Gesundheitszentrum \"St. Georg\"",
+        "TYP": "Di\u00e4tambulatorium",
+        "STRASSE": "Dr. Zimmermann-Strasse",
+        "HAUSNR": "7",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432408.15197941,
+        "y": 225786.75219066
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 31,
+        "ID": 31,
+        "KA_NUMMER": 5007,
+        "BEZEICHN": "Kur- und Sporthotel Norica",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Rudolf-Bachbauer-Gasse",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432805.60401178,
+        "y": 225845.37798272
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 32,
+        "ID": 32,
+        "KA_NUMMER": 5008,
+        "BEZEICHN": "Inst. f\u00fcr Rheumatologie, Rehab. und Sportmedizin",
+        "TYP": "Ambulatorium f\u00fcr Rheumatologie",
+        "STRASSE": "Senator-Wilfling-Platz",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432765.84925974,
+        "y": 225702.16108658
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 33,
+        "ID": 33,
+        "KA_NUMMER": 5046,
+        "BEZEICHN": "Dialyse im Kurzentrum Bad Hofgastein",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Senator-Wilfling-Platz",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432773.08330775,
+        "y": 225701.33420658
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 34,
+        "ID": 34,
+        "KA_NUMMER": 5011,
+        "BEZEICHN": "Gasteiner Heilstollen",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Heilstollenstrasse",
+        "HAUSNR": "19",
+        "PLZ": 5645,
+        "ORT": "B\u00f6ckstein"
+      },
+      "geometry": {
+        "x": 433358.96516429,
+        "y": 216475.08370199
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 35,
+        "ID": 35,
+        "KA_NUMMER": 5009,
+        "BEZEICHN": "Amb. f\u00fcr digitale Diagnostik Dr. Mosshammer",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Alte Bundesstrasse",
+        "HAUSNR": "34",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441173.24817957,
+        "y": 253234.90709623
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 36,
+        "ID": 36,
+        "KA_NUMMER": 5010,
+        "BEZEICHN": "Ambulatorium \"Linea\" Dr. Hans Walkner",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Salzburger Strasse",
+        "HAUSNR": "72",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441197.97624359,
+        "y": 253806.21180076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 37,
+        "ID": 37,
+        "KA_NUMMER": 5037,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Bischofshofen",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Gasteinerstrasse",
+        "HAUSNR": "29",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441293.10661168,
+        "y": 252632.92181566
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 38,
+        "ID": 38,
+        "KA_NUMMER": 5035,
+        "BEZEICHN": "Inst. f\u00fcr digitale Diagnostik Zell am See",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Paracelsusstrasse",
+        "HAUSNR": "8",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 410895.91208737,
+        "y": 244613.5676962
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 39,
+        "ID": 39,
+        "KA_NUMMER": 5036,
+        "BEZEICHN": "Feriendialyse Zell am See GesmbH",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Paracelsusstrasse",
+        "HAUSNR": "8",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 410874.74549535,
+        "y": 244618.3300642
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 40,
+        "ID": 40,
+        "KA_NUMMER": 5042,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Zell am See",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Ebenbergstrasse",
+        "HAUSNR": "3",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 409325.02261391,
+        "y": 242717.10100643
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 41,
+        "ID": 41,
+        "KA_NUMMER": 5013,
+        "BEZEICHN": "Sport-Physiotherapie Hallein",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Wichtelhuberstrasse",
+        "HAUSNR": "5-7",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 431910.80951494,
+        "y": 282712.02251568
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 42,
+        "ID": 42,
+        "KA_NUMMER": 5060,
+        "BEZEICHN": "Amb. f\u00fcr physikal. Therapie Editha Wehrle",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Bayrhammerplatz",
+        "HAUSNR": "7",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 432120.06570714,
+        "y": 282647.97003562
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 43,
+        "ID": 43,
+        "KA_NUMMER": 5016,
+        "BEZEICHN": "Inst. f\u00fcr physikalische Medizin und Rehabilitation",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Salzburger Strasse",
+        "HAUSNR": "35",
+        "PLZ": 5110,
+        "ORT": "Oberndorf"
+      },
+      "geometry": {
+        "x": 420910.0136007,
+        "y": 311137.15995015
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 44,
+        "ID": 44,
+        "KA_NUMMER": 5018,
+        "BEZEICHN": "Physiotherapeutisches Ambulatorium Radstadt",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Stadtplatz",
+        "HAUSNR": "10",
+        "PLZ": 5550,
+        "ORT": "Radstadt"
+      },
+      "geometry": {
+        "x": 459865.43379698,
+        "y": 249502.34619675
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 45,
+        "ID": 45,
+        "KA_NUMMER": 5032,
+        "BEZEICHN": "Private Krankenanstalt Wieshof",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Wiesenhofgasse",
+        "HAUSNR": "10",
+        "PLZ": 5600,
+        "ORT": "St. Johann im Pongau"
+      },
+      "geometry": {
+        "x": 439369.37899389,
+        "y": 245238.60628878
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 46,
+        "ID": 46,
+        "KA_NUMMER": 5048,
+        "BEZEICHN": "Kurhaus St. Josef",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Dorf",
+        "HAUSNR": "1",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431817.56842686,
+        "y": 280676.31076978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 47,
+        "ID": 47,
+        "KA_NUMMER": 5062,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sport-Physiotherapie Abtenau",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Markt",
+        "HAUSNR": "220",
+        "PLZ": 5441,
+        "ORT": "Abtenau"
+      },
+      "geometry": {
+        "x": 451189.8971489,
+        "y": 269258.15498315
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 48,
+        "ID": 49,
+        "KA_NUMMER": 5039,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Mittersill",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Gerlosstrasse",
+        "HAUSNR": "4",
+        "PLZ": 5730,
+        "ORT": "Mittersill"
+      },
+      "geometry": {
+        "x": 385547.07059177,
+        "y": 238334.86765835
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 49,
+        "ID": 50,
+        "KA_NUMMER": 5038,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Hallein",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Burgfriedstrasse",
+        "HAUSNR": "2",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 432499.19197949,
+        "y": 282787.91525175
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 50,
+        "ID": 51,
+        "KA_NUMMER": 5040,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Salzburg",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Markus-Sittikus-Strasse",
+        "HAUSNR": "22",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428297.84515958,
+        "y": 296676.07193668
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 51,
+        "ID": 52,
+        "KA_NUMMER": 5017,
+        "BEZEICHN": "Kurhotel Vollererhof",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Thurnberg",
+        "HAUSNR": "158",
+        "PLZ": 5412,
+        "ORT": "Puch bei Hallein"
+      },
+      "geometry": {
+        "x": 433656.72286057,
+        "y": 288683.87788124
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 52,
+        "ID": 53,
+        "KA_NUMMER": 5019,
+        "BEZEICHN": "Ambulante Tageschirurgie Saalfelden",
+        "TYP": "Tagesklinik",
+        "STRASSE": "Loferer Strasse",
+        "HAUSNR": "24",
+        "PLZ": 5760,
+        "ORT": "Saalfelden"
+      },
+      "geometry": {
+        "x": 413533.02927383,
+        "y": 254333.55490525
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 53,
+        "ID": 54,
+        "KA_NUMMER": 5034,
+        "BEZEICHN": "Inst. f\u00fcr physikalische Medizin Dr. Schiefer Gesmb",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "St. Leonhardgasse",
+        "HAUSNR": "122a",
+        "PLZ": 5580,
+        "ORT": "Tamsweg"
+      },
+      "geometry": {
+        "x": 486119.26524543,
+        "y": 220881.57970609
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 54,
+        "ID": 55,
+        "KA_NUMMER": 5041,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Tamsweg",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Br\u00f6llsteigweg",
+        "HAUSNR": "625",
+        "PLZ": 5580,
+        "ORT": "Tamsweg"
+      },
+      "geometry": {
+        "x": 485919.31823724,
+        "y": 221454.66207463
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 55,
+        "ID": 56,
+        "KA_NUMMER": 5050,
+        "BEZEICHN": "Ambulatorium Vigaun",
+        "TYP": "Amb. f\u00fcr Unfallchirurgie, Sportmedizin u. Rehabilitation",
+        "STRASSE": "Karl-R\u00f6dhammerweg",
+        "HAUSNR": "91",
+        "PLZ": 5424,
+        "ORT": "Bad Vigaun"
+      },
+      "geometry": {
+        "x": 435109.92554992,
+        "y": 281353.15736241
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 56,
+        "ID": 57,
+        "KA_NUMMER": 5063,
+        "BEZEICHN": "Hildegardzentrum",
+        "TYP": "Amb. f\u00fcr Physiotherapie und Psychotherapie",
+        "STRASSE": "Winkl",
+        "HAUSNR": "80",
+        "PLZ": 5340,
+        "ORT": "St. Gilgen"
+      },
+      "geometry": {
+        "x": 453889.20979141,
+        "y": 293136.45081339
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 57,
+        "ID": 58,
+        "KA_NUMMER": 5058,
+        "BEZEICHN": "Sportmedizinische Ambulatorium Olympiast\u00fctzpunkt S",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "Obertauern",
+        "HAUSNR": "154",
+        "PLZ": 5562,
+        "ORT": "Obertauen"
+      },
+      "geometry": {
+        "x": 467242.86177185,
+        "y": 234685.97498295
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 58,
+        "ID": 59,
+        "KA_NUMMER": 5012,
+        "BEZEICHN": "Physiotherapeutische Station Gesinger",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Hofmark",
+        "HAUSNR": "9",
+        "PLZ": 5622,
+        "ORT": "Goldegg"
+      },
+      "geometry": {
+        "x": 432378.52330738,
+        "y": 242071.40679783
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 59,
+        "ID": 60,
+        "KA_NUMMER": 5014,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sportmedizin",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "H\u00e4uslhofstrasse",
+        "HAUSNR": "668",
+        "PLZ": 5710,
+        "ORT": "Kaprun"
+      },
+      "geometry": {
+        "x": 406947.4308037,
+        "y": 237421.2886495
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 60,
+        "ID": 61,
+        "KA_NUMMER": 5015,
+        "BEZEICHN": "Ambulatorium f\u00fcr physikalische Therapie Dr. Hubner",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Markt",
+        "HAUSNR": "107",
+        "PLZ": 5570,
+        "ORT": "Mauterndorf"
+      },
+      "geometry": {
+        "x": 476489.89794046,
+        "y": 221701.08537086
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 61,
+        "ID": 62,
+        "KA_NUMMER": 5131,
+        "BEZEICHN": "Sehschule Dr. Wilhelm Jordan",
+        "TYP": "Sehschule",
+        "STRASSE": "Markt",
+        "HAUSNR": "3",
+        "PLZ": 5620,
+        "ORT": "Schwarzach"
+      },
+      "geometry": {
+        "x": 436350.70430308,
+        "y": 242454.34311819
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 62,
+        "ID": 63,
+        "KA_NUMMER": 5033,
+        "BEZEICHN": "Alpenmoorbad Schlo\u00df Strobl Prof. Wiesinger",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Ischlerstrasse",
+        "HAUSNR": "27",
+        "PLZ": 5350,
+        "ORT": "Strobl"
+      },
+      "geometry": {
+        "x": 461406.87994242,
+        "y": 286859.02642354
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 63,
+        "ID": 64,
+        "KA_NUMMER": 5054,
+        "BEZEICHN": "Ambulatorium Glemmtal",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "Hinterglemm",
+        "HAUSNR": "162",
+        "PLZ": 5754,
+        "ORT": "Saalbach-Hinterglemm"
+      },
+      "geometry": {
+        "x": 394407.69012002,
+        "y": 249141.63477241
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 64,
+        "ID": 65,
+        "KA_NUMMER": 5061,
+        "BEZEICHN": "Privat Krankenanstalt Gro\u00dfgmainerhof",
+        "TYP": "Amb. f\u00fcr Regenerationskur nach Dr. F.X. Mayr",
+        "STRASSE": "Sanatoriumstrasse",
+        "HAUSNR": "287",
+        "PLZ": 5084,
+        "ORT": "Gro\u00dfgmain"
+      },
+      "geometry": {
+        "x": 418418.82665438,
+        "y": 287320.71371997
+      }
+    }
+  ]
+}

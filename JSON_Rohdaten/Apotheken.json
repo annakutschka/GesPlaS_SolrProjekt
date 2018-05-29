@@ -1,0 +1,1555 @@
+{
+  "displayFieldName": "",
+  "fieldAliases": {
+    "OBJECTID": "OBJECTID",
+    "ID": "ID",
+    "BEZEICHN": "BEZEICHN",
+    "STRASSE": "STRASSE",
+    "PLZ": "PLZ",
+    "ORT": "ORT",
+    "ANMERKUNG": "ANMERKUNG",
+    "HAUSNUMMER": "HAUSNUMMER"
+  },
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": {
+    "wkid": 31258,
+    "latestWkid": 31258
+  },
+  "fields": [
+    {
+      "name": "OBJECTID",
+      "type": "esriFieldTypeOID",
+      "alias": "OBJECTID"
+    },
+    {
+      "name": "ID",
+      "type": "esriFieldTypeInteger",
+      "alias": "ID"
+    },
+    {
+      "name": "BEZEICHN",
+      "type": "esriFieldTypeString",
+      "alias": "BEZEICHN",
+      "length": 55
+    },
+    {
+      "name": "STRASSE",
+      "type": "esriFieldTypeString",
+      "alias": "STRASSE",
+      "length": 50
+    },
+    {
+      "name": "PLZ",
+      "type": "esriFieldTypeDouble",
+      "alias": "PLZ"
+    },
+    {
+      "name": "ORT",
+      "type": "esriFieldTypeString",
+      "alias": "ORT",
+      "length": 50
+    },
+    {
+      "name": "ANMERKUNG",
+      "type": "esriFieldTypeString",
+      "alias": "ANMERKUNG",
+      "length": 50
+    },
+    {
+      "name": "HAUSNUMMER",
+      "type": "esriFieldTypeString",
+      "alias": "HAUSNUMMER",
+      "length": 16
+    }
+  ],
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 928,
+        "ID": 70084,
+        "BEZEICHN": "Tassilo-Apotheke",
+        "STRASSE": "Marktplatz",
+        "PLZ": 5163,
+        "ORT": "Mattsee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 432973.56498349,
+        "y": 314694.16979991
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 929,
+        "ID": 70092,
+        "BEZEICHN": "Tauern-Apotheke",
+        "STRASSE": "Kirchgasse",
+        "PLZ": 5730,
+        "ORT": "Mittersill",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 385638.0357874,
+        "y": 238313.44480078
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 930,
+        "ID": 70106,
+        "BEZEICHN": "Apotheke \"Zum goldenen Engel\"",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5202,
+        "ORT": "Neumarkt am Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 441940.99468784,
+        "y": 311733.18970116
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 931,
+        "ID": 70017,
+        "BEZEICHN": "Apotheke  Abtenau",
+        "STRASSE": "Markt",
+        "PLZ": 5441,
+        "ORT": "Abtenau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "253 A"
+      },
+      "geometry": {
+        "x": 450817.0466641,
+        "y": 269594.27516591
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 932,
+        "ID": 70076,
+        "BEZEICHN": "Burgfried-Apotheke",
+        "STRASSE": "Davisstrasse",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2a"
+      },
+      "geometry": {
+        "x": 432394.31019895,
+        "y": 282691.91921011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 933,
+        "ID": 70025,
+        "BEZEICHN": "Kurapotheke",
+        "STRASSE": "B\u00f6cksteiner Bundesstra\u00dfe",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1c"
+      },
+      "geometry": {
+        "x": 434918.8319933,
+        "y": 218934.16894273
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 934,
+        "ID": 70033,
+        "BEZEICHN": "Kurapotheke Bad Hofgastein",
+        "STRASSE": "Pyrkerstrasse",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 432977.70059949,
+        "y": 225770.7761811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 935,
+        "ID": 70041,
+        "BEZEICHN": "Marien-Apotheke",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 441380.94739132,
+        "y": 253048.4581905
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 936,
+        "ID": 70068,
+        "BEZEICHN": "Stadtapotheke Hallein",
+        "STRASSE": "Bayrhamerplatz",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 432120.86181469,
+        "y": 282646.16420207
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 937,
+        "ID": 70114,
+        "BEZEICHN": "Apotheke \"Zur Mariahilf\"",
+        "STRASSE": "Br\u00fcckenstrasse",
+        "PLZ": 5110,
+        "ORT": "Oberndorf bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 420737.06538809,
+        "y": 311312.31405276
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 938,
+        "ID": 70122,
+        "BEZEICHN": "Stadtapotheke",
+        "STRASSE": "Ernest Thun-Gasse",
+        "PLZ": 5550,
+        "ORT": "Radstadt",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 2"
+      },
+      "geometry": {
+        "x": 459797.33537647,
+        "y": 249614.8064753
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 939,
+        "ID": 70130,
+        "BEZEICHN": "Stadtapotheke \"Zum heiligen Antonius\"",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1A"
+      },
+      "geometry": {
+        "x": 413345.45565321,
+        "y": 254361.46651173
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 940,
+        "ID": 70149,
+        "BEZEICHN": "Alte f.e. Hofapotheke",
+        "STRASSE": "Alter Markt",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 428484.58392331,
+        "y": 295681.57970221
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 941,
+        "ID": 70203,
+        "BEZEICHN": "St. Erhard-Apotheke",
+        "STRASSE": "Petersbrunnstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "13"
+      },
+      "geometry": {
+        "x": 428995.29182778,
+        "y": 295101.84184567
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 942,
+        "ID": 70211,
+        "BEZEICHN": "Elisabeth-Apotheke",
+        "STRASSE": "Elisabethstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1a"
+      },
+      "geometry": {
+        "x": 428209.51301105,
+        "y": 296864.53291931
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 943,
+        "ID": 70238,
+        "BEZEICHN": "Salvator-Apotheke",
+        "STRASSE": "Mirabellplatz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 428334.53528317,
+        "y": 296349.62610283
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 944,
+        "ID": 70246,
+        "BEZEICHN": "Apotheke \"Zum heiligen Rupertus\"",
+        "STRASSE": "Maxglaner Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "13"
+      },
+      "geometry": {
+        "x": 426926.37489786,
+        "y": 295369.81656592
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 945,
+        "ID": 70157,
+        "BEZEICHN": "Apotheke \"Zum goldenen Biber\"",
+        "STRASSE": "Getreidegasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 428381.55096321,
+        "y": 295764.49611828
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 946,
+        "ID": 70165,
+        "BEZEICHN": "Engel-Apotheke",
+        "STRASSE": "Linzer Gasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 428487.25617931,
+        "y": 295999.2839585
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 947,
+        "ID": 70173,
+        "BEZEICHN": "Borrom\u00e4us-Apotheke",
+        "STRASSE": "Gaisbergstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "20"
+      },
+      "geometry": {
+        "x": 430147.75109285,
+        "y": 295937.87199045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 948,
+        "ID": 70181,
+        "BEZEICHN": "Wolf-Dietrich-Apotheke",
+        "STRASSE": "Linzer Gasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 428804.7065476,
+        "y": 296260.64306275
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 949,
+        "ID": 70254,
+        "BEZEICHN": "Landesapotheke am St. Johanns-Spital",
+        "STRASSE": "M\u00fcllner Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 50"
+      },
+      "geometry": {
+        "x": 427376.74712227,
+        "y": 296500.66175097
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 950,
+        "ID": 70262,
+        "BEZEICHN": "Gnigler Apotheke",
+        "STRASSE": "Linzer Bundesstrasse",
+        "PLZ": 5023,
+        "ORT": "Salzburg-Gnigl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "30a"
+      },
+      "geometry": {
+        "x": 430208.65074091,
+        "y": 297260.59320768
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 951,
+        "ID": 70270,
+        "BEZEICHN": "Johannes Stadtapotheke",
+        "STRASSE": "Hans-Kappacher-Strasse",
+        "PLZ": 5600,
+        "ORT": "Sankt Johann im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 8"
+      },
+      "geometry": {
+        "x": 440138.26412616,
+        "y": 245355.34976734
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 952,
+        "ID": 70289,
+        "BEZEICHN": "Apotheke zur Sonnenterrasse",
+        "STRASSE": "Salzburger Strasse",
+        "PLZ": 5620,
+        "ORT": "Schwarzach im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "29"
+      },
+      "geometry": {
+        "x": 436021.70591433,
+        "y": 242398.43110858
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 953,
+        "ID": 70343,
+        "BEZEICHN": "Josefiau-Apotheke",
+        "STRASSE": "Friedensstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 429998.04293272,
+        "y": 294167.6429968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 954,
+        "ID": 70351,
+        "BEZEICHN": "Paracelsus-Apotheke",
+        "STRASSE": "Raintal",
+        "PLZ": 5340,
+        "ORT": "Sankt Gilgen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 452245.99840944,
+        "y": 292080.27749085
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 955,
+        "ID": 70378,
+        "BEZEICHN": "Riedenburg-Apotheke",
+        "STRASSE": "Neutorstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "32"
+      },
+      "geometry": {
+        "x": 427453.00165035,
+        "y": 295506.45848604
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 956,
+        "ID": 70386,
+        "BEZEICHN": "Paracelsus-Apotheke",
+        "STRASSE": "M\u00fcnchner Bundesstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "17"
+      },
+      "geometry": {
+        "x": 426476.94148944,
+        "y": 297795.71301618
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 957,
+        "ID": 70394,
+        "BEZEICHN": "Untersberg-Apotheke",
+        "STRASSE": "Marktstrasse",
+        "PLZ": 5082,
+        "ORT": "Gr\u00f6dig",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "19"
+      },
+      "geometry": {
+        "x": 428027.72933088,
+        "y": 288885.98788788
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 958,
+        "ID": 70408,
+        "BEZEICHN": "Adler-Apotheke",
+        "STRASSE": "Klessheimer Allee",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "96"
+      },
+      "geometry": {
+        "x": 425496.61086452,
+        "y": 297092.61099952
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 959,
+        "ID": 70416,
+        "BEZEICHN": "Adler-Apotheke",
+        "STRASSE": "Brucker Bundesstrasse",
+        "PLZ": 5700,
+        "ORT": "Zell am See-Sch\u00fcttdorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "29-31"
+      },
+      "geometry": {
+        "x": 409197.37558534,
+        "y": 240974.99616326
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 960,
+        "ID": 70424,
+        "BEZEICHN": "L\u00f6wen-Apotheke",
+        "STRASSE": "Gasteinerstra\u00dfe",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "44"
+      },
+      "geometry": {
+        "x": 441232.68441518,
+        "y": 252489.00903798
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 961,
+        "ID": 70475,
+        "BEZEICHN": "Antonius Apotheke",
+        "STRASSE": "Itzlinger Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2a"
+      },
+      "geometry": {
+        "x": 428431.99518726,
+        "y": 297878.85733625
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 962,
+        "ID": 70483,
+        "BEZEICHN": "Apotheke \"Zum heiligen Michael\"",
+        "STRASSE": "Marktstrasse",
+        "PLZ": 5582,
+        "ORT": "Sankt Michael im Lungau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "87"
+      },
+      "geometry": {
+        "x": 473222.17961297,
+        "y": 217834.55108571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 963,
+        "ID": 70491,
+        "BEZEICHN": "Apotheke Himmelreich",
+        "STRASSE": "Fachmarktstra\u00df",
+        "PLZ": 5073,
+        "ORT": "Wals-Siezenheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1, Top 215"
+      },
+      "geometry": {
+        "x": 424042.19383917,
+        "y": 294970.82987755
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 964,
+        "ID": 70505,
+        "BEZEICHN": "Apotheke \"Zum heiligen Martin\"",
+        "STRASSE": "Marktplatz",
+        "PLZ": 5204,
+        "ORT": "Strasswalchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 444142.55174589,
+        "y": 315669.18816882
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 965,
+        "ID": 70564,
+        "BEZEICHN": "Apotheke Zum heiligen Josef",
+        "STRASSE": "Markt",
+        "PLZ": 5431,
+        "ORT": "Kuchl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "26\/1"
+      },
+      "geometry": {
+        "x": 435959.55929027,
+        "y": 276481.25456433
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 966,
+        "ID": 70572,
+        "BEZEICHN": "Apotheke \"Zum heiligen Lukas\"",
+        "STRASSE": "Karl-Zillner-Platz",
+        "PLZ": 5111,
+        "ORT": "B\u00fcrmoos",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 419133.7776426,
+        "y": 316300.60295341
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 967,
+        "ID": 70580,
+        "BEZEICHN": "St. Rupertus-Apotheke",
+        "STRASSE": "Markt",
+        "PLZ": 5090,
+        "ORT": "Lofer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "107"
+      },
+      "geometry": {
+        "x": 401928.56783457,
+        "y": 272042.93872019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 968,
+        "ID": 70599,
+        "BEZEICHN": "Apotheke \"Zum heiligen Georg\"",
+        "STRASSE": "Dorfstrasse",
+        "PLZ": 5101,
+        "ORT": "Bergheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 426867.7003378,
+        "y": 300153.16447437
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 969,
+        "ID": 70645,
+        "BEZEICHN": "Anna Apotheke",
+        "STRASSE": "Siebenst\u00e4dterstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "14"
+      },
+      "geometry": {
+        "x": 427588.12401847,
+        "y": 297114.45272754
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 970,
+        "ID": 70653,
+        "BEZEICHN": "Bahnhof-Apotheke",
+        "STRASSE": "Karl-Wurmb-Stra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 428452.28881928,
+        "y": 297326.08402374
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 971,
+        "ID": 70661,
+        "BEZEICHN": "Moos-Apotheke",
+        "STRASSE": "Moosstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "108"
+      },
+      "geometry": {
+        "x": 426720.27832166,
+        "y": 293005.41022772
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 972,
+        "ID": 70688,
+        "BEZEICHN": "Schloss-Apotheke",
+        "STRASSE": "Salzachtal Bundestra\u00dfe",
+        "PLZ": 5081,
+        "ORT": "Anif",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 430082.73816479,
+        "y": 289794.27300872
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 973,
+        "ID": 70742,
+        "BEZEICHN": "Anna Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5600,
+        "ORT": "Sankt Johann im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 439700.33286175,
+        "y": 245307.65210329
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 974,
+        "ID": 70750,
+        "BEZEICHN": "Theresien-Apotheke im Europark",
+        "STRASSE": "Europastrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 425519.27569654,
+        "y": 297542.05906394
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 975,
+        "ID": 70769,
+        "BEZEICHN": "Apotheke Wartenfels",
+        "STRASSE": "Salzburger Strasse",
+        "PLZ": 5303,
+        "ORT": "Thalgau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 443849.04000162,
+        "y": 300304.77996251
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 976,
+        "ID": 70777,
+        "BEZEICHN": "Nautilus Apotheke",
+        "STRASSE": "Gemeindeweg",
+        "PLZ": 5061,
+        "ORT": "Elsbethen-Glasenbach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 431824.84235842,
+        "y": 292304.87403506
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 977,
+        "ID": 70300,
+        "BEZEICHN": "St. Leonhard-Apotheke",
+        "STRASSE": "Amtsgasse",
+        "PLZ": 5580,
+        "ORT": "Tamsweg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 486336.41117719,
+        "y": 220874.93918454
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 978,
+        "ID": 70319,
+        "BEZEICHN": "See-Apotheke Zell am See",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5700,
+        "ORT": "Zell am See",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 409593.50780971,
+        "y": 242774.81389293
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 979,
+        "ID": 70327,
+        "BEZEICHN": "Lehener L\u00f6wen-Apotheke",
+        "STRASSE": "Ignaz-Harrer-Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "54"
+      },
+      "geometry": {
+        "x": 427083.427634,
+        "y": 297057.68773549
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 980,
+        "ID": 70335,
+        "BEZEICHN": "Flachgau-Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5201,
+        "ORT": "Seekirchen am Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "16a"
+      },
+      "geometry": {
+        "x": 434583.86770499,
+        "y": 306051.45215986
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 981,
+        "ID": 70432,
+        "BEZEICHN": "Apotheke \"Zum heiligen Geist\"",
+        "STRASSE": "Aigner Strasse",
+        "PLZ": 5026,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "50"
+      },
+      "geometry": {
+        "x": 430675.78379735,
+        "y": 294648.83160525
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 982,
+        "ID": 70440,
+        "BEZEICHN": "Salzach-Apotheke",
+        "STRASSE": "Ginzkeyplatz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "9"
+      },
+      "geometry": {
+        "x": 430420.27666111,
+        "y": 292761.35057949
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 983,
+        "ID": 70459,
+        "BEZEICHN": "Apotheke Oberalm",
+        "STRASSE": "Halleiner Landesstrasse",
+        "PLZ": 5411,
+        "ORT": "Oberalm",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "34"
+      },
+      "geometry": {
+        "x": 432553.5207591,
+        "y": 284403.7638837
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 984,
+        "ID": 70467,
+        "BEZEICHN": "Apotheke \"Zur Gemse\"",
+        "STRASSE": "Markt",
+        "PLZ": 5440,
+        "ORT": "Golling an der Salzach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "43"
+      },
+      "geometry": {
+        "x": 437642.03097183,
+        "y": 273352.77161741
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 985,
+        "ID": 70513,
+        "BEZEICHN": "Alpen-Apotheke",
+        "STRASSE": "Glemmtaler Landesstrasse",
+        "PLZ": 5753,
+        "ORT": "Saalbach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 397090.71682207,
+        "y": 250452.39738809
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 986,
+        "ID": 70521,
+        "BEZEICHN": "F\u00fcrstenallee-Apotheke",
+        "STRASSE": "Nonntaler Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "61"
+      },
+      "geometry": {
+        "x": 429003.76952379,
+        "y": 294085.00574872
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 987,
+        "ID": 70548,
+        "BEZEICHN": "Pinzgau-Apotheke",
+        "STRASSE": "Leoganger Strasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "39"
+      },
+      "geometry": {
+        "x": 412846.49091674,
+        "y": 254671.60808001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 988,
+        "ID": 70556,
+        "BEZEICHN": "B\u00e4ren-Apotheke",
+        "STRASSE": "Zeller Strasse",
+        "PLZ": 5671,
+        "ORT": "Bruck an der Grossglocknerstrasse",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "9"
+      },
+      "geometry": {
+        "x": 411480.09257947,
+        "y": 238921.30041735
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 989,
+        "ID": 70602,
+        "BEZEICHN": "Tauern-Apotheke",
+        "STRASSE": "Obere Marktstra\u00dfe",
+        "PLZ": 5541,
+        "ORT": "Altenmarkt im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "46"
+      },
+      "geometry": {
+        "x": 456439.98202934,
+        "y": 249150.88621887
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 990,
+        "ID": 70610,
+        "BEZEICHN": "Virgil-Apotheke",
+        "STRASSE": "Gabelsbergerstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7-9"
+      },
+      "geometry": {
+        "x": 428636.95992345,
+        "y": 296823.34789527
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 991,
+        "ID": 70629,
+        "BEZEICHN": "Steinbock-Apotheke",
+        "STRASSE": "Sigmund Thun Stra\u00dfe",
+        "PLZ": 5710,
+        "ORT": "Kaprun",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "22"
+      },
+      "geometry": {
+        "x": 406549.00233488,
+        "y": 237278.23142382
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 992,
+        "ID": 70637,
+        "BEZEICHN": "Sonnen-Apotheke",
+        "STRASSE": "Markt",
+        "PLZ": 5450,
+        "ORT": "Werfen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 439179.65644527,
+        "y": 259825.49608481
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 993,
+        "ID": 70696,
+        "BEZEICHN": "Apotheke \"Zum heiligen Petrus\"",
+        "STRASSE": "M\u00fcnchner Bundesstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "116"
+      },
+      "geometry": {
+        "x": 425448.86308848,
+        "y": 299099.67007339
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 994,
+        "ID": 70718,
+        "BEZEICHN": "Die Apotheke",
+        "STRASSE": "Kirchenstrasse",
+        "PLZ": 5301,
+        "ORT": "Eugendorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 434724.37842512,
+        "y": 302848.51276488
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 995,
+        "ID": 70726,
+        "BEZEICHN": "Salus-Apotheke",
+        "STRASSE": "Handelsstrasse",
+        "PLZ": 5162,
+        "ORT": "Obertrum",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 431288.31262992,
+        "y": 310983.42579646
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 996,
+        "ID": 70734,
+        "BEZEICHN": "Raphael-Apotheke",
+        "STRASSE": "Hans-Schmid-Platz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 426453.44478541,
+        "y": 296242.92895073
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 997,
+        "ID": 70785,
+        "BEZEICHN": "Barbara-Apotheke",
+        "STRASSE": "Wiener Bundesstrasse",
+        "PLZ": 5300,
+        "ORT": "Hallwang-Mayrwies",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5a"
+      },
+      "geometry": {
+        "x": 431410.70552603,
+        "y": 299179.41292147
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 998,
+        "ID": 70793,
+        "BEZEICHN": "Arnika Apotheke",
+        "STRASSE": "Halleiner Landesstrasse",
+        "PLZ": 5412,
+        "ORT": "Puch bei Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 431822.27218241,
+        "y": 286249.79575742
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 999,
+        "ID": 70807,
+        "BEZEICHN": "Apotheke zum Lebensbaum",
+        "STRASSE": "Berchtesgadner Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "35b"
+      },
+      "geometry": {
+        "x": 428207.99742705,
+        "y": 292906.45067562
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1000,
+        "ID": 70815,
+        "BEZEICHN": "Aesculus Apotheke",
+        "STRASSE": "Almerstrasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "24"
+      },
+      "geometry": {
+        "x": 413622.00957346,
+        "y": 253890.42926329
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1001,
+        "ID": 70823,
+        "BEZEICHN": "Wallersee-Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5302,
+        "ORT": "Henndorf\/Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "34"
+      },
+      "geometry": {
+        "x": 439037.39007713,
+        "y": 306528.74579231
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1002,
+        "ID": 70297,
+        "BEZEICHN": "Apotheke Wals",
+        "STRASSE": "Walserfeldstrasse",
+        "PLZ": 5071,
+        "ORT": "Wals-Siezenheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "36"
+      },
+      "geometry": {
+        "x": 423172.21457436,
+        "y": 294616.40690122
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1003,
+        "ID": 70831,
+        "BEZEICHN": "Linden-Apotheke",
+        "STRASSE": "Andreas-Thalhammer-Stra\u00dfe",
+        "PLZ": 5204,
+        "ORT": "Strasswalchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "17"
+      },
+      "geometry": {
+        "x": 444561.48576228,
+        "y": 315381.52858455
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1004,
+        "ID": 70858,
+        "BEZEICHN": "Wiestal-Apotheke",
+        "STRASSE": "Kletzlgutweg",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 433035.96715955,
+        "y": 282867.01316227
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1005,
+        "ID": 170513,
+        "BEZEICHN": "Alpen-Apotheke Hinterglemm",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5754,
+        "ORT": "Saalbach-Hinterglemm",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "374"
+      },
+      "geometry": {
+        "x": 394174.86926735,
+        "y": 249067.6455148
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1006,
+        "ID": 70866,
+        "BEZEICHN": "Weidmoos-Apotheke",
+        "STRASSE": "Holzhauserweg",
+        "PLZ": 5112,
+        "ORT": "Lamprechtshausen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 421841.64574112,
+        "y": 317100.42394616
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1007,
+        "ID": 170629,
+        "BEZEICHN": "Filialapotheke Piesendorf",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5721,
+        "ORT": "Piesendorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 403374.55554792,
+        "y": 239417.98003381
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1008,
+        "ID": 70874,
+        "BEZEICHN": "Herz-Apotheke",
+        "STRASSE": "F\u00fcrbergstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18-20"
+      },
+      "geometry": {
+        "x": 429954.91774868,
+        "y": 296651.18251911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1009,
+        "ID": 70882,
+        "BEZEICHN": "Apotheke Hof",
+        "STRASSE": "Wolfgangseestra\u00dfe",
+        "PLZ": 5322,
+        "ORT": "Hof bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 440669.12921465,
+        "y": 297931.6986163
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1010,
+        "ID": 70890,
+        "BEZEICHN": "VitaMia-Apotheke",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5751,
+        "ORT": "Maishofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 410318.84662639,
+        "y": 247053.27060092
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1011,
+        "ID": 170602,
+        "BEZEICHN": "Apotheke am Dorfplatz",
+        "STRASSE": "Dorfplatz",
+        "PLZ": 5531,
+        "ORT": "Eben im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "60"
+      },
+      "geometry": {
+        "x": 454761.66996378,
+        "y": 252029.30151755
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1012,
+        "ID": 70904,
+        "BEZEICHN": "Kristall Apotheke",
+        "STRASSE": "Sportstra\u00dfe",
+        "PLZ": 5733,
+        "ORT": "Bramberg am Wildkogel",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "331"
+      },
+      "geometry": {
+        "x": 375991.52179442,
+        "y": 237626.96364814
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1013,
+        "ID": 70920,
+        "BEZEICHN": "Iris-Apotheke",
+        "STRASSE": "M\u00fchlbachstra\u00dfe",
+        "PLZ": 5201,
+        "ORT": "Seekirchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 434034.49484047,
+        "y": 306375.07936017
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1014,
+        "ID": 70947,
+        "BEZEICHN": "Apotheke Leogang",
+        "STRASSE": "Nr.",
+        "PLZ": 5771,
+        "ORT": "Leogang",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "19"
+      },
+      "geometry": {
+        "x": 406907.35023921,
+        "y": 255768.29307304
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1015,
+        "ID": 70955,
+        "BEZEICHN": "Apotheke Itzling \"Zur Sonne\"",
+        "STRASSE": "Bahnhofstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 428893.87320369,
+        "y": 298261.31052061
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1016,
+        "ID": 70939,
+        "BEZEICHN": "Wald-Apotheke Wagrain",
+        "STRASSE": "Markt",
+        "PLZ": 5602,
+        "ORT": "Wagrain",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "96"
+      },
+      "geometry": {
+        "x": 447336.76979686,
+        "y": 243945.31911002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1017,
+        "ID": 70912,
+        "BEZEICHN": "Naturpark Apotheke",
+        "STRASSE": "Aigner Stra\u00dfe",
+        "PLZ": 5026,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 431092.16267774,
+        "y": 293907.11557255
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1018,
+        "ID": 70963,
+        "BEZEICHN": "Apotheke Gro\u00dfarl",
+        "STRASSE": "Unterberg",
+        "PLZ": 5611,
+        "ORT": "Gro\u00dfarl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "133"
+      },
+      "geometry": {
+        "x": 439637.17740569,
+        "y": 233588.41708438
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1019,
+        "ID": 70971,
+        "BEZEICHN": "Helios-Apotheke",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5161,
+        "ORT": "Elixhausen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 430013.24638873,
+        "y": 303182.24230119
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1020,
+        "ID": 70998,
+        "BEZEICHN": "Karolinen Apotheke",
+        "STRASSE": "Paracelsusstra\u00dfe",
+        "PLZ": 5110,
+        "ORT": "Oberndorf bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "45"
+      },
+      "geometry": {
+        "x": 421096.65194843,
+        "y": 310960.75718844
+      }
+    }
+  ]
+}
