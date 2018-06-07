@@ -1,96 +1,4 @@
 {
-  "displayFieldName": "",
-  "fieldAliases": {
-    "OBJECTID": "OBJECTID",
-    "Titel": "Titel",
-    "Nachname": "Nachname",
-    "Vorname": "Vorname",
-    "TitelNachg": "TitelNachg",
-    "HNR": "HNR",
-    "SKZ_HNR": "SKZ_HNR",
-    "Strasse": "Strasse",
-    "Ort": "Ort",
-    "PLZ": "PLZ",
-    "Fach": "Fach",
-    "Kategorie": "Kategorie"
-  },
-  "geometryType": "esriGeometryPoint",
-  "spatialReference": {
-    "wkid": 31258,
-    "latestWkid": 31258
-  },
-  "fields": [
-    {
-      "name": "OBJECTID",
-      "type": "esriFieldTypeOID",
-      "alias": "OBJECTID"
-    },
-    {
-      "name": "Titel",
-      "type": "esriFieldTypeString",
-      "alias": "Titel",
-      "length": 254
-    },
-    {
-      "name": "Nachname",
-      "type": "esriFieldTypeString",
-      "alias": "Nachname",
-      "length": 254
-    },
-    {
-      "name": "Vorname",
-      "type": "esriFieldTypeString",
-      "alias": "Vorname",
-      "length": 254
-    },
-    {
-      "name": "TitelNachg",
-      "type": "esriFieldTypeString",
-      "alias": "TitelNachg",
-      "length": 254
-    },
-    {
-      "name": "HNR",
-      "type": "esriFieldTypeString",
-      "alias": "HNR",
-      "length": 50
-    },
-    {
-      "name": "SKZ_HNR",
-      "type": "esriFieldTypeString",
-      "alias": "SKZ_HNR",
-      "length": 50
-    },
-    {
-      "name": "Strasse",
-      "type": "esriFieldTypeString",
-      "alias": "Strasse",
-      "length": 50
-    },
-    {
-      "name": "Ort",
-      "type": "esriFieldTypeString",
-      "alias": "Ort",
-      "length": 50
-    },
-    {
-      "name": "PLZ",
-      "type": "esriFieldTypeSmallInteger",
-      "alias": "PLZ"
-    },
-    {
-      "name": "Fach",
-      "type": "esriFieldTypeString",
-      "alias": "Fach",
-      "length": 100
-    },
-    {
-      "name": "Kategorie",
-      "type": "esriFieldTypeString",
-      "alias": "Kategorie",
-      "length": 50
-    }
-  ],
   "features": [
     {
       "attributes": {
@@ -28250,6 +28158,5166 @@
       "geometry": {
         "x": 409262.7749,
         "y": 240000.6349
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 634,
+        "Strasse": "Markt",
+        "Name": "DDr. ERB, Richard",
+        "PLZ": 5441,
+        "Ort": "Abtenau",
+        "HNR": "192",
+        "SKZ_HNR": "75177\/192"
+      },
+      "geometry": {
+        "x": 450421.5331,
+        "y": 269877.5981
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 635,
+        "Strasse": "Markt",
+        "Name": "Dr. WEISS-SPIESS, Renate",
+        "PLZ": 5441,
+        "Ort": "Abtenau",
+        "HNR": "184",
+        "SKZ_HNR": "75177\/184"
+      },
+      "geometry": {
+        "x": 451116.3621,
+        "y": 269662.6281
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 636,
+        "Strasse": "Adnet",
+        "Name": "Dr. KUTTNER, Peter",
+        "PLZ": 5421,
+        "Ort": "Adnet",
+        "HNR": "400",
+        "SKZ_HNR": "87557\/400"
+      },
+      "geometry": {
+        "x": 434370.7861,
+        "y": 284313.0481
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 637,
+        "Strasse": "Teichweg",
+        "Name": "Dr. MOLLNAR, Ulf",
+        "PLZ": 5541,
+        "Ort": "Altenmarkt im Pongau",
+        "HNR": "3",
+        "SKZ_HNR": "65601\/3"
+      },
+      "geometry": {
+        "x": 456404.2681,
+        "y": 248972.1951
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 638,
+        "Strasse": "Michael-Walchhofer-Stra\u00dfe",
+        "Name": "Dr. PoeTTLER, Elisabeth",
+        "PLZ": 5541,
+        "Ort": "Altenmarkt im Pongau",
+        "HNR": "13",
+        "SKZ_HNR": "122681\/13"
+      },
+      "geometry": {
+        "x": 456715.7241,
+        "y": 248655.6951
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 639,
+        "Strasse": "Brunnhausstra\u00dfe",
+        "Name": "Dr. WUTSCHER-SCHueFFL, Roswitha",
+        "PLZ": 5081,
+        "Ort": "Anif",
+        "HNR": "7",
+        "SKZ_HNR": "67361\/7"
+      },
+      "geometry": {
+        "x": 429813.1553,
+        "y": 290329.7581
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 640,
+        "Strasse": "Plainbachstra\u00dfe",
+        "Name": "Dr. med. dent DEMMELMAIER, Hans",
+        "PLZ": 5101,
+        "Ort": "Bergheim",
+        "HNR": "12",
+        "SKZ_HNR": "62815\/12"
+      },
+      "geometry": {
+        "x": 428441.0351,
+        "y": 300541.0481
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 641,
+        "Strasse": "Annaberg",
+        "Name": "Dr. ROYA, Jilani",
+        "PLZ": 5524,
+        "Ort": "Annaberg-Lung\u00f6tz",
+        "HNR": "70",
+        "SKZ_HNR": "87562\/70"
+      },
+      "geometry": {
+        "x": 457492.4641,
+        "y": 263880.4411
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 642,
+        "Strasse": "Rainweg",
+        "Name": "Dr. SCHOLING, Stefan",
+        "PLZ": 5102,
+        "Ort": "Anthering",
+        "HNR": "7",
+        "SKZ_HNR": "32923\/7"
+      },
+      "geometry": {
+        "x": 426247.0001,
+        "y": 304612.0001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 643,
+        "Strasse": "Stubnerkogelstra\u00dfe",
+        "Name": "DDr. LINECKER, Alexander",
+        "PLZ": 5640,
+        "Ort": "Bad Gastein",
+        "HNR": "50",
+        "SKZ_HNR": "2012\/50"
+      },
+      "geometry": {
+        "x": 435054.4761,
+        "y": 218879.7571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 644,
+        "Strasse": "Poserstra\u00dfe",
+        "Name": "Dr. SALBRECHTER, Erwin",
+        "PLZ": 5640,
+        "Ort": "Bad Gastein",
+        "HNR": "10",
+        "SKZ_HNR": "1899\/10"
+      },
+      "geometry": {
+        "x": 435072.1553,
+        "y": 218944.5631
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 645,
+        "Strasse": "Kirchplatz",
+        "Name": "Dr. ZETTINIG-SCHNITZHOFER, Anna Elisabeth",
+        "PLZ": 5630,
+        "Ort": "Bad Hofgastein",
+        "HNR": "9",
+        "SKZ_HNR": "45614\/9"
+      },
+      "geometry": {
+        "x": 432847.0001,
+        "y": 225797.0001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 646,
+        "Strasse": "Achenstra\u00dfe",
+        "Name": "Dr. MORAWA, Reinhard",
+        "PLZ": 5630,
+        "Ort": "Bad Hofgastein",
+        "HNR": "17",
+        "SKZ_HNR": "45627\/17"
+      },
+      "geometry": {
+        "x": 432273.5001,
+        "y": 226013.5001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 647,
+        "Strasse": "Tauernstra\u00dfe",
+        "Name": "Dr. med. univ. et med. dent. RAINER, Roland",
+        "PLZ": 5630,
+        "Ort": "Bad Hofgastein",
+        "HNR": "9",
+        "SKZ_HNR": "45624\/9"
+      },
+      "geometry": {
+        "x": 432630.4821,
+        "y": 225863.3311
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 648,
+        "Strasse": "Dorfstra\u00dfe",
+        "Name": "Dr. LEINDECKER, Bernd",
+        "PLZ": 5101,
+        "Ort": "Bergheim",
+        "HNR": "33",
+        "SKZ_HNR": "62798\/33"
+      },
+      "geometry": {
+        "x": 426865.4001,
+        "y": 300143.3251
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 649,
+        "Strasse": "Plainbachstra\u00dfe",
+        "Name": "Dr. THUIS, Johannes",
+        "PLZ": 5101,
+        "Ort": "Bergheim",
+        "HNR": "14",
+        "SKZ_HNR": "62815\/14"
+      },
+      "geometry": {
+        "x": 428443.4164,
+        "y": 300573.3273
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 650,
+        "Strasse": "Bahnhofstra\u00dfe",
+        "Name": "Dr. RASKA, Josef",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "28",
+        "SKZ_HNR": "32753\/28"
+      },
+      "geometry": {
+        "x": 441409.8951,
+        "y": 253125.5841
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 651,
+        "Strasse": "Dr.-Hans-Liebherr-Stra\u00dfe",
+        "Name": "Dr. MAYR, Evelyn",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "34",
+        "SKZ_HNR": "75735\/34"
+      },
+      "geometry": {
+        "x": 441568.6901,
+        "y": 250873.5861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 652,
+        "Strasse": "Alte Bundesstra\u00dfe",
+        "Name": "Dr. med. univ. et med. dent. LoeWENSTERN VON, Arved",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "4",
+        "SKZ_HNR": "32749\/4"
+      },
+      "geometry": {
+        "x": 441347.7481,
+        "y": 253021.4431
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 653,
+        "Strasse": "Dr.-Hans-Liebherr-Stra\u00dfe",
+        "Name": "Dr. MAYR, Hans",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "34",
+        "SKZ_HNR": "75735\/34"
+      },
+      "geometry": {
+        "x": 441568.6901,
+        "y": 250873.5861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 654,
+        "Strasse": "Wennser Stra\u00dfe",
+        "Name": "Dr. HIRNER, Manfred",
+        "PLZ": 5733,
+        "Ort": "Bramberg am Wildkogel",
+        "HNR": "170",
+        "SKZ_HNR": "97371\/170"
+      },
+      "geometry": {
+        "x": 375821.6861,
+        "y": 237613.2871
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 655,
+        "Strasse": "Zellerstra\u00dfe",
+        "Name": "Dr. RAITH, Karin",
+        "PLZ": 5671,
+        "Ort": "Bruck an der Gro\u00dfglocknerstra\u00dfe",
+        "HNR": "27",
+        "SKZ_HNR": "55859\/27"
+      },
+      "geometry": {
+        "x": 411353.0011,
+        "y": 238966.0971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 656,
+        "Strasse": "Pichldorfstra\u00dfe",
+        "Name": "Dr. RACHELSPERGER, Johann",
+        "PLZ": 5671,
+        "Ort": "Bruck an der Gro\u00dfglocknerstra\u00dfe",
+        "HNR": "22",
+        "SKZ_HNR": "55848\/22"
+      },
+      "geometry": {
+        "x": 412236.1423,
+        "y": 237422.7621
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 657,
+        "Strasse": "Anton-Seywald-Gasse",
+        "Name": "Dr. KOHLPAINTNER, Klaus",
+        "PLZ": 5111,
+        "Ort": "B\u00fcrmoos",
+        "HNR": "7",
+        "SKZ_HNR": "32216\/7"
+      },
+      "geometry": {
+        "x": 419294.5551,
+        "y": 316186.1221
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 658,
+        "Strasse": "Edtsiedlung",
+        "Name": "DDr. WIDMANN, Claudia",
+        "PLZ": 5531,
+        "Ort": "Eben im Pongau",
+        "HNR": "222",
+        "SKZ_HNR": "112158\/222"
+      },
+      "geometry": {
+        "x": 454800.6821,
+        "y": 252415.9951
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 659,
+        "Strasse": "Handelspark",
+        "Name": "Dr. HOSNER, Klaus",
+        "PLZ": 5161,
+        "Ort": "Elixhausen",
+        "HNR": "2",
+        "SKZ_HNR": "100783\/2"
+      },
+      "geometry": {
+        "x": 430140.0381,
+        "y": 303612.4911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 660,
+        "Strasse": "General-Albori-Stra\u00dfe",
+        "Name": "DDr. TRIESSNIG, Robin",
+        "PLZ": 5061,
+        "Ort": "Elsbethen",
+        "HNR": "17",
+        "SKZ_HNR": "32288\/17"
+      },
+      "geometry": {
+        "x": 431279.5531,
+        "y": 291690.7951
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 661,
+        "Strasse": "Gemeindeweg",
+        "Name": "Dr. DULMOVITS, Stephan",
+        "PLZ": 5061,
+        "Ort": "Elsbethen",
+        "HNR": "2",
+        "SKZ_HNR": "32287\/2"
+      },
+      "geometry": {
+        "x": 431822.3761,
+        "y": 292297.6671
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 662,
+        "Strasse": "Kirchenstra\u00dfe",
+        "Name": "Dr. med. dent. SOMMER, Stephan",
+        "PLZ": 5301,
+        "Ort": "Eugendorf",
+        "HNR": "37",
+        "SKZ_HNR": "66725\/37"
+      },
+      "geometry": {
+        "x": 434736.2181,
+        "y": 302938.1531
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 663,
+        "Strasse": "Dorf",
+        "Name": "Dr. LAIMER, Johann",
+        "PLZ": 5301,
+        "Ort": "Eugendorf",
+        "HNR": "31",
+        "SKZ_HNR": "74334\/31"
+      },
+      "geometry": {
+        "x": 434245.4511,
+        "y": 303255.8531
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 664,
+        "Strasse": "M\u00f6belstra\u00dfe",
+        "Name": "Zahnarzt FIOOLE, Jacobus",
+        "PLZ": 5301,
+        "Ort": "Eugendorf",
+        "HNR": "12",
+        "SKZ_HNR": "123559\/12"
+      },
+      "geometry": {
+        "x": 434613.2821,
+        "y": 302369.9721
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 665,
+        "Strasse": "Dorfstra\u00dfe",
+        "Name": "Dr. AUFMESSER, Andrea",
+        "PLZ": 5542,
+        "Ort": "Flachau",
+        "HNR": "259",
+        "SKZ_HNR": "94610\/259"
+      },
+      "geometry": {
+        "x": 454480.8801,
+        "y": 245105.7601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 666,
+        "Strasse": "Bahnhofstra\u00dfe",
+        "Name": "Dr. med. dent. BENZINGER, Helfried",
+        "PLZ": 5440,
+        "Ort": "Golling an der Salzach",
+        "HNR": "98",
+        "SKZ_HNR": "92125\/98"
+      },
+      "geometry": {
+        "x": 437414.6471,
+        "y": 273535.4101
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 667,
+        "Strasse": "Gangsteig",
+        "Name": "Dr. SCHATTAUER, Anna",
+        "PLZ": 5440,
+        "Ort": "Golling an der Salzach",
+        "HNR": "138A",
+        "SKZ_HNR": "92126\/138A"
+      },
+      "geometry": {
+        "x": 437550.3261,
+        "y": 273518.0511
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 668,
+        "Strasse": "Markt",
+        "Name": "Dr. PROKESCH, Birgit",
+        "PLZ": 5440,
+        "Ort": "Golling an der Salzach",
+        "HNR": "80A",
+        "SKZ_HNR": "87570\/80A"
+      },
+      "geometry": {
+        "x": 437572.3481,
+        "y": 273085.8301
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 669,
+        "Strasse": "Neue-Heimat-Stra\u00dfe",
+        "Name": "Dr. SCHoeNLEITNER, Roland Johannes",
+        "PLZ": 5082,
+        "Ort": "Gr\u00f6dig",
+        "HNR": "6",
+        "SKZ_HNR": "32407\/6"
+      },
+      "geometry": {
+        "x": 428098.5341,
+        "y": 288825.6621
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 670,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "Dr. KEIDEL, Walter",
+        "PLZ": 5082,
+        "Ort": "Gr\u00f6dig",
+        "HNR": "5",
+        "SKZ_HNR": "32403\/5"
+      },
+      "geometry": {
+        "x": 427889.3101,
+        "y": 288925.5701
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 671,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "Dr. KEIDEL-LIEPOLD, Astrid",
+        "PLZ": 5082,
+        "Ort": "Gr\u00f6dig",
+        "HNR": "5",
+        "SKZ_HNR": "32403\/5"
+      },
+      "geometry": {
+        "x": 427889.3101,
+        "y": 288925.5701
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 672,
+        "Strasse": "Oberfeldstra\u00dfe",
+        "Name": "Dr. SUCHANEK, Joerg",
+        "PLZ": 5082,
+        "Ort": "Gr\u00f6dig",
+        "HNR": "5",
+        "SKZ_HNR": "32408\/5"
+      },
+      "geometry": {
+        "x": 428097.9471,
+        "y": 288960.4931
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 673,
+        "Strasse": "Oberfeldstra\u00dfe",
+        "Name": "DDr. ENZINGER, Simon",
+        "PLZ": 5082,
+        "Ort": "Gr\u00f6dig",
+        "HNR": "5",
+        "SKZ_HNR": "32408\/5"
+      },
+      "geometry": {
+        "x": 428097.9471,
+        "y": 288960.4931
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 674,
+        "Strasse": "Schulgasse",
+        "Name": "Dr. WEISS, Rupert",
+        "PLZ": 5611,
+        "Ort": "Gro\u00dfarl",
+        "HNR": "7",
+        "SKZ_HNR": "129167\/7"
+      },
+      "geometry": {
+        "x": 439944.1701,
+        "y": 233177.9301
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 675,
+        "Strasse": "Salzburger Stra\u00dfe",
+        "Name": "DDr. MOSER, Paul",
+        "PLZ": 5084,
+        "Ort": "Gro\u00dfgmain",
+        "HNR": "127",
+        "SKZ_HNR": "32015\/127"
+      },
+      "geometry": {
+        "x": 417969.6381,
+        "y": 287412.1151
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 676,
+        "Strasse": "Degelestra\u00dfe",
+        "Name": "Dr. TaeUBL-NEUREITER, Herta",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "2A",
+        "SKZ_HNR": "31959\/2A"
+      },
+      "geometry": {
+        "x": 432482.7151,
+        "y": 283202.7673
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 677,
+        "Strasse": "Schiemerstra\u00dfe",
+        "Name": "Dr. HUF, Peter",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "2",
+        "SKZ_HNR": "32144\/2"
+      },
+      "geometry": {
+        "x": 431983.5801,
+        "y": 282799.4841
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 678,
+        "Strasse": "Praschweg",
+        "Name": "Dr. med. dent. BACHMAYER, Martha Lucia",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "22",
+        "SKZ_HNR": "32110\/22"
+      },
+      "geometry": {
+        "x": 432566.1683,
+        "y": 283099.1471
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 679,
+        "Strasse": "B\u00fcrgerspitalplatz",
+        "Name": "Dr. med. univ. ANGERMAYR, Klaus",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "8",
+        "SKZ_HNR": "31952\/8"
+      },
+      "geometry": {
+        "x": 431860.7673,
+        "y": 282740.2851
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 680,
+        "Strasse": "Salzachtalstra\u00dfe",
+        "Name": "Dr. WASS, Johann",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "5",
+        "SKZ_HNR": "32135\/5"
+      },
+      "geometry": {
+        "x": 432566.0081,
+        "y": 282703.8001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 681,
+        "Strasse": "Wichtlhuberstra\u00dfe",
+        "Name": "Dr. LINHUBER, Sieglinde",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "9",
+        "SKZ_HNR": "32196\/9"
+      },
+      "geometry": {
+        "x": 431894.8181,
+        "y": 282728.9601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 682,
+        "Strasse": "Wichtlhuberstra\u00dfe",
+        "Name": "DDr. HoeFNER, Klaus",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "3",
+        "SKZ_HNR": "32196\/3"
+      },
+      "geometry": {
+        "x": 431938.0303,
+        "y": 282702.1061
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 683,
+        "Strasse": "Wiener Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. KLEIN, Alfred",
+        "PLZ": 5300,
+        "Ort": "Hallwang",
+        "HNR": "5a",
+        "SKZ_HNR": "73144\/5a"
+      },
+      "geometry": {
+        "x": 431412.9711,
+        "y": 299176.5601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 684,
+        "Strasse": "Dorfstra\u00dfe",
+        "Name": "Dr. MAITZ, Philipp",
+        "PLZ": 5300,
+        "Ort": "Hallwang",
+        "HNR": "48",
+        "SKZ_HNR": "73111\/48"
+      },
+      "geometry": {
+        "x": 431692.8261,
+        "y": 301458.2651
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 685,
+        "Strasse": "Dorfgasse",
+        "Name": "Dr. FueRNTRATH, Ulrike",
+        "PLZ": 5302,
+        "Ort": "Henndorf am Wallersee",
+        "HNR": "5",
+        "SKZ_HNR": "32445\/5"
+      },
+      "geometry": {
+        "x": 439043.9321,
+        "y": 306588.0091
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 686,
+        "Strasse": "Hauptstra\u00dfe",
+        "Name": "Dr. PUHR, Roland",
+        "PLZ": 5302,
+        "Ort": "Henndorf am Wallersee",
+        "HNR": "61a",
+        "SKZ_HNR": "32461\/61a"
+      },
+      "geometry": {
+        "x": 439245.2431,
+        "y": 306840.2011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 687,
+        "Strasse": "Wolfgangseestra\u00dfe",
+        "Name": "Dr. STEINER, Meinhard",
+        "PLZ": 5322,
+        "Ort": "Hof bei Salzburg",
+        "HNR": "28",
+        "SKZ_HNR": "109918\/28"
+      },
+      "geometry": {
+        "x": 441198.0071,
+        "y": 297819.1851
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 688,
+        "Strasse": "Teichstra\u00dfe",
+        "Name": "DDr. BACHER, Wolfgang J.",
+        "PLZ": 5322,
+        "Ort": "Hof bei Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "109957\/1"
+      },
+      "geometry": {
+        "x": 441365.4331,
+        "y": 297785.6041
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 689,
+        "Strasse": "H\u00fcttau",
+        "Name": "Dr. SILLI, Erwin",
+        "PLZ": 5511,
+        "Ort": "H\u00fcttau",
+        "HNR": "51",
+        "SKZ_HNR": "87871\/51"
+      },
+      "geometry": {
+        "x": 448208.3831,
+        "y": 252887.0741
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 690,
+        "Strasse": "Wilhelm-Fazokas-Stra\u00dfe",
+        "Name": "Dr. med. dent. FIEREDER, Robert",
+        "PLZ": 5710,
+        "Ort": "Kaprun",
+        "HNR": "2b-e",
+        "SKZ_HNR": "32855\/2b-e"
+      },
+      "geometry": {
+        "x": 406583.4313,
+        "y": 237227.0501
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 691,
+        "Strasse": "Markt",
+        "Name": "DDr. KONSTANTINIUK, Christof",
+        "PLZ": 5431,
+        "Ort": "Kuchl",
+        "HNR": "408",
+        "SKZ_HNR": "74074\/408"
+      },
+      "geometry": {
+        "x": 435935.8961,
+        "y": 275913.1451
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 692,
+        "Strasse": "Markt",
+        "Name": "Dr. WOLFSGRUBER, Peter",
+        "PLZ": 5431,
+        "Ort": "Kuchl",
+        "HNR": "45",
+        "SKZ_HNR": "74074\/45"
+      },
+      "geometry": {
+        "x": 435890.9151,
+        "y": 276468.7451
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 693,
+        "Strasse": "Hauptstra\u00dfe",
+        "Name": "Dr. KREUZBAUER, Wolfgang",
+        "PLZ": 5112,
+        "Ort": "Lamprechtshausen",
+        "HNR": "1a",
+        "SKZ_HNR": "91310\/1a"
+      },
+      "geometry": {
+        "x": 421898.1241,
+        "y": 317131.6683
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 694,
+        "Strasse": "Leogang",
+        "Name": "Dr. DEFANT, Bernd",
+        "PLZ": 5771,
+        "Ort": "Leogang",
+        "HNR": "85",
+        "SKZ_HNR": "87991\/85"
+      },
+      "geometry": {
+        "x": 406498.5231,
+        "y": 255745.0641
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 695,
+        "Strasse": "Lofer",
+        "Name": "DDr. PETER, Torsten",
+        "PLZ": 5090,
+        "Ort": "Lofer",
+        "HNR": "108",
+        "SKZ_HNR": "88005\/108"
+      },
+      "geometry": {
+        "x": 401912.4501,
+        "y": 272015.8911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 696,
+        "Strasse": "Am Feld",
+        "Name": "Dr. FueRTHAUER, Ulrike",
+        "PLZ": 5751,
+        "Ort": "Maishofen",
+        "HNR": "17",
+        "SKZ_HNR": "93651\/17"
+      },
+      "geometry": {
+        "x": 410314.1921,
+        "y": 247355.9641
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 697,
+        "Strasse": "Neunbrunnen",
+        "Name": "Dr. POHL, Johann",
+        "PLZ": 5751,
+        "Ort": "Maishofen",
+        "HNR": "5",
+        "SKZ_HNR": "93689\/5"
+      },
+      "geometry": {
+        "x": 410091.0151,
+        "y": 248424.5781
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 698,
+        "Strasse": "Hochk\u00f6nigstra\u00dfe",
+        "Name": "Dr. SCHWAIGER, Christian",
+        "PLZ": 5761,
+        "Ort": "Maria Alm am Steinernen Meer",
+        "HNR": "10",
+        "SKZ_HNR": "117015\/10"
+      },
+      "geometry": {
+        "x": 416934.0001,
+        "y": 252131.0001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 699,
+        "Strasse": "Pfarrstra\u00dfe",
+        "Name": "Dr. EICHHORN, Johannes",
+        "PLZ": 5571,
+        "Ort": "Mariapfarr",
+        "HNR": "12",
+        "SKZ_HNR": "59245\/12"
+      },
+      "geometry": {
+        "x": 481332.0001,
+        "y": 223480.7281
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 700,
+        "Strasse": "M\u00fcnsterholzstra\u00dfe",
+        "Name": "Dr. ZIMMERMANN, Klaus",
+        "PLZ": 5163,
+        "Ort": "Mattsee",
+        "HNR": "19",
+        "SKZ_HNR": "49423\/19"
+      },
+      "geometry": {
+        "x": 433063.0061,
+        "y": 314404.9771
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 701,
+        "Strasse": "Markt",
+        "Name": "Dr. FUCHS, Roland",
+        "PLZ": 5570,
+        "Ort": "Mauterndorf",
+        "HNR": "236",
+        "SKZ_HNR": "87918\/236"
+      },
+      "geometry": {
+        "x": 476799.8581,
+        "y": 221644.9471
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 702,
+        "Strasse": "Rathausgasse",
+        "Name": "Dr. BREITFUSS, Susanne",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "9A",
+        "SKZ_HNR": "42655\/9A"
+      },
+      "geometry": {
+        "x": 385549.0751,
+        "y": 238459.2391
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 703,
+        "Strasse": "Klausgasse",
+        "Name": "Dr. med. dent. STRASSER, Stefan",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "49",
+        "SKZ_HNR": "42579\/49"
+      },
+      "geometry": {
+        "x": 385884.1101,
+        "y": 237691.4971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 704,
+        "Strasse": "Klausgasse",
+        "Name": "DDr. ZWICKNAGEL, Cornelia",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "49",
+        "SKZ_HNR": "42579\/49"
+      },
+      "geometry": {
+        "x": 385884.1101,
+        "y": 237691.4971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 705,
+        "Strasse": "Kreuzgasse",
+        "Name": "DDr. HAAS, Markus",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "10",
+        "SKZ_HNR": "42583\/10"
+      },
+      "geometry": {
+        "x": 385341.8321,
+        "y": 237931.3041
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 706,
+        "Strasse": "Kreuzgasse",
+        "Name": "DDr. HAAS, Ulrike Alexandra",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "10",
+        "SKZ_HNR": "42583\/10"
+      },
+      "geometry": {
+        "x": 385341.8321,
+        "y": 237931.3041
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 707,
+        "Strasse": "Klausgasse",
+        "Name": "Dr. SCHNELLE, Christoph",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "49",
+        "SKZ_HNR": "42579\/49"
+      },
+      "geometry": {
+        "x": 385884.1101,
+        "y": 237691.4971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 708,
+        "Strasse": "Hauptstra\u00dfe",
+        "Name": "Dr. KueRSTEN, Burkhard",
+        "PLZ": 5202,
+        "Ort": "Neumarkt am Wallersee",
+        "HNR": "38",
+        "SKZ_HNR": "32504\/38"
+      },
+      "geometry": {
+        "x": 441960.7091,
+        "y": 311959.9391
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 709,
+        "Strasse": "Hauptstra\u00dfe",
+        "Name": "Dr. MAURER-STADLMEYER, Sabina",
+        "PLZ": 5202,
+        "Ort": "Neumarkt am Wallersee",
+        "HNR": "22a",
+        "SKZ_HNR": "32504\/22a"
+      },
+      "geometry": {
+        "x": 441979.4681,
+        "y": 311761.1813
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 710,
+        "Strasse": "Wallmannhofweg",
+        "Name": "Dr. KASERER, Raimund",
+        "PLZ": 5411,
+        "Ort": "Oberalm",
+        "HNR": "2",
+        "SKZ_HNR": "66495\/2"
+      },
+      "geometry": {
+        "x": 432556.9601,
+        "y": 283899.8601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 711,
+        "Strasse": "Paracelsusstra\u00dfe",
+        "Name": "Dr. WOLF, Hans-Peter",
+        "PLZ": 5110,
+        "Ort": "Oberndorf bei Salzburg",
+        "HNR": "13",
+        "SKZ_HNR": "32571\/13"
+      },
+      "geometry": {
+        "x": 421042.2461,
+        "y": 311351.0351
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 712,
+        "Strasse": "Salzburger Stra\u00dfe",
+        "Name": "Dr. MINICH, Willi",
+        "PLZ": 5110,
+        "Ort": "Oberndorf bei Salzburg",
+        "HNR": "56",
+        "SKZ_HNR": "32576\/56"
+      },
+      "geometry": {
+        "x": 420918.0351,
+        "y": 311673.5551
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 713,
+        "Strasse": "Br\u00fcckenstra\u00dfe",
+        "Name": "DDr. OBERASCHER, Markus",
+        "PLZ": 5110,
+        "Ort": "Oberndorf bei Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "32542\/10"
+      },
+      "geometry": {
+        "x": 420719.3481,
+        "y": 311336.1381
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 714,
+        "Strasse": "Franz-Xaver-Grimm-Stra\u00dfe",
+        "Name": "Dr. VASVARY, Imre",
+        "PLZ": 5110,
+        "Ort": "Oberndorf bei Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "32545\/2"
+      },
+      "geometry": {
+        "x": 420895.0931,
+        "y": 311414.0721
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 715,
+        "Strasse": "Salzburger Stra\u00dfe",
+        "Name": "Zahn\u00e4rztin Dr. SWITALA, Alexandra",
+        "PLZ": 5162,
+        "Ort": "Obertrum am See",
+        "HNR": "3",
+        "SKZ_HNR": "32622\/3"
+      },
+      "geometry": {
+        "x": 431208.1553,
+        "y": 310757.6631
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 716,
+        "Strasse": "Handelsstra\u00dfe",
+        "Name": "Dr. SCHLoeMICHER, Luise",
+        "PLZ": 5162,
+        "Ort": "Obertrum am See",
+        "HNR": "6",
+        "SKZ_HNR": "60333\/6"
+      },
+      "geometry": {
+        "x": 431272.9071,
+        "y": 311031.8711
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 717,
+        "Strasse": "Dorfwerfen",
+        "Name": "Dr. FRueHMANN, Othmar",
+        "PLZ": 5452,
+        "Ort": "Pfarrwerfen",
+        "HNR": "155",
+        "SKZ_HNR": "87883\/155"
+      },
+      "geometry": {
+        "x": 440035.5001,
+        "y": 258101.6961
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 718,
+        "Strasse": "Halleiner Landesstra\u00dfe",
+        "Name": "Dr. MueLLER-CANAVAL, Sabine",
+        "PLZ": 5412,
+        "Ort": "Puch bei Hallein",
+        "HNR": "776",
+        "SKZ_HNR": "59112\/776"
+      },
+      "geometry": {
+        "x": 431828.5191,
+        "y": 286220.9071
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 719,
+        "Strasse": "Stadtplatz",
+        "Name": "Dr. KOPPENSTEINER, Peter",
+        "PLZ": 5550,
+        "Ort": "Radstadt",
+        "HNR": "3",
+        "SKZ_HNR": "57735\/3"
+      },
+      "geometry": {
+        "x": 459840.0433,
+        "y": 249615.2881
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 720,
+        "Strasse": "Stadtplatz",
+        "Name": "Dr. med. dent. GLOCKENGIESSER, Joerg",
+        "PLZ": 5550,
+        "Ort": "Radstadt",
+        "HNR": "11",
+        "SKZ_HNR": "57735\/11"
+      },
+      "geometry": {
+        "x": 459861.5871,
+        "y": 249487.7451
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 721,
+        "Strasse": "Gemeindeplatz",
+        "Name": "Dr. JESNER, Michael",
+        "PLZ": 5591,
+        "Ort": "Ramingstein",
+        "HNR": "223",
+        "SKZ_HNR": "59256\/223"
+      },
+      "geometry": {
+        "x": 488661.8601,
+        "y": 215346.6951
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 722,
+        "Strasse": "Glemmtaler Landesstra\u00dfe",
+        "Name": "Dr. POELL, Thomas",
+        "PLZ": 5753,
+        "Ort": "Saalbach-Hinterglemm",
+        "HNR": "23",
+        "SKZ_HNR": "94730\/23"
+      },
+      "geometry": {
+        "x": 397092.1861,
+        "y": 250456.5811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 723,
+        "Strasse": "Rathausplatz",
+        "Name": "Dr. STEINER, Helmut",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "3",
+        "SKZ_HNR": "60409\/3"
+      },
+      "geometry": {
+        "x": 413459.3361,
+        "y": 254289.6761
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 724,
+        "Strasse": "Sonnweg",
+        "Name": "DDr. KELDERER, Horst",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "13",
+        "SKZ_HNR": "32982\/13"
+      },
+      "geometry": {
+        "x": 413217.1251,
+        "y": 254922.2071
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 725,
+        "Strasse": "Ehrenbergerweg",
+        "Name": "Dr. DE MOURA, Ronaldo",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "4",
+        "SKZ_HNR": "60415\/4"
+      },
+      "geometry": {
+        "x": 413963.9381,
+        "y": 254430.6591
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 726,
+        "Strasse": "Rathausplatz",
+        "Name": "Dr. med. univ. STEINER, MSc, Christoph",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "3",
+        "SKZ_HNR": "60409\/3"
+      },
+      "geometry": {
+        "x": 413459.3361,
+        "y": 254289.6761
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 727,
+        "Strasse": "Ritzenseestra\u00dfe",
+        "Name": "Dr. VOCKNER, Helmut",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "6B",
+        "SKZ_HNR": "32970\/6B"
+      },
+      "geometry": {
+        "x": 413357.0531,
+        "y": 254079.0461
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 728,
+        "Strasse": "Priesterhausgasse",
+        "Name": "Dr. VOGL, Herbert",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "22",
+        "SKZ_HNR": "31636\/22"
+      },
+      "geometry": {
+        "x": 428460.03,
+        "y": 296151.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 729,
+        "Strasse": "Imbergstra\u00dfe",
+        "Name": "DDr. STRASSER, Wolfgang",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "18",
+        "SKZ_HNR": "31334\/18"
+      },
+      "geometry": {
+        "x": 428977.14,
+        "y": 295723.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 730,
+        "Strasse": "Sterneckstra\u00dfe",
+        "Name": "Dr. med. dent. STRECHA, Gordan",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "50",
+        "SKZ_HNR": "31793\/50"
+      },
+      "geometry": {
+        "x": 429690.92,
+        "y": 296792.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 731,
+        "Strasse": "B\u00fcrglsteinstra\u00dfe",
+        "Name": "Dr. med. dent. ZIMMERMANN, Martin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "25",
+        "SKZ_HNR": "31036\/25"
+      },
+      "geometry": {
+        "x": 429787.49,
+        "y": 295687.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 732,
+        "Strasse": "Kaisersch\u00fctzenstra\u00dfe",
+        "Name": "DDr. BUTTLER, Ernest",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "6",
+        "SKZ_HNR": "31383\/6"
+      },
+      "geometry": {
+        "x": 428294.7,
+        "y": 297301.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 733,
+        "Strasse": "Gaisbergstra\u00dfe",
+        "Name": "Dr. med. dent. BoeTTCHER, Sandra",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "11A",
+        "SKZ_HNR": "31196\/11A"
+      },
+      "geometry": {
+        "x": 430079.53,
+        "y": 295923.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 734,
+        "Strasse": "Saint-Julien-Stra\u00dfe",
+        "Name": "Dr. CHALUPSKY, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7A",
+        "SKZ_HNR": "31705\/7A"
+      },
+      "geometry": {
+        "x": 427985.62,
+        "y": 296979.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 735,
+        "Strasse": "Gaisbergstra\u00dfe",
+        "Name": "Dr. CICHOCKI-MATEJU, Claudia",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "40",
+        "SKZ_HNR": "31196\/40"
+      },
+      "geometry": {
+        "x": 430620.65,
+        "y": 295968.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 736,
+        "Strasse": "Aigner Stra\u00dfe",
+        "Name": "Dr. med. dent. SCHERER, Alexandra",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "30924\/35"
+      },
+      "geometry": {
+        "x": 430528.89,
+        "y": 295022.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 737,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. med. univ. SARMINI, Sehdi",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 738,
+        "Strasse": "Strubergasse",
+        "Name": "Dr. SCHACHNER, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "26",
+        "SKZ_HNR": "31802\/26"
+      },
+      "geometry": {
+        "x": 427402.34,
+        "y": 296806.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 739,
+        "Strasse": "F\u00fcrstenallee",
+        "Name": "Dr. TAUTSCHNIG, Wolfgang",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "9",
+        "SKZ_HNR": "31183\/9"
+      },
+      "geometry": {
+        "x": 428673.74,
+        "y": 294592.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 740,
+        "Strasse": "Alter Markt",
+        "Name": "DDr. TEUFELBERGER, Winfried",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "30940\/1"
+      },
+      "geometry": {
+        "x": 428473.21,
+        "y": 295756.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 741,
+        "Strasse": "Vierthalerstra\u00dfe",
+        "Name": "Dr. VASZI, Viktor",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31853\/10"
+      },
+      "geometry": {
+        "x": 428793.24,
+        "y": 296351.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 742,
+        "Strasse": "Salzburger Sch\u00fctzenstra\u00dfe",
+        "Name": "Dr. NACHTIGAL, Jaroslav",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "12",
+        "SKZ_HNR": "31710\/12"
+      },
+      "geometry": {
+        "x": 428518.81,
+        "y": 297823.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 743,
+        "Strasse": "Sterneckstra\u00dfe",
+        "Name": "Dr. med. dent. MueLLER, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "55",
+        "SKZ_HNR": "31793\/55"
+      },
+      "geometry": {
+        "x": 429834.05,
+        "y": 296857.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 744,
+        "Strasse": "Moosstra\u00dfe",
+        "Name": "Dr. HINZ, Stefan",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "31549\/4"
+      },
+      "geometry": {
+        "x": 427361.84,
+        "y": 295436.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 745,
+        "Strasse": "Dreifaltigkeitsgasse",
+        "Name": "DDr. HILLER-LEMACH, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31074\/3"
+      },
+      "geometry": {
+        "x": 428456.87,
+        "y": 295978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 746,
+        "Strasse": "Dreifaltigkeitsgasse",
+        "Name": "Dr. LEMACH, Gert",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31074\/3"
+      },
+      "geometry": {
+        "x": 428456.87,
+        "y": 295978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 747,
+        "Strasse": "Gaisbergstra\u00dfe",
+        "Name": "Dr. LENZ, Sorin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "11A",
+        "SKZ_HNR": "31196\/11A"
+      },
+      "geometry": {
+        "x": 430079.53,
+        "y": 295923.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 748,
+        "Strasse": "Paris-Lodron-Stra\u00dfe",
+        "Name": "Dr. LEXER-KOITZ, Sabine",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "16",
+        "SKZ_HNR": "31595\/16"
+      },
+      "geometry": {
+        "x": 428633.56,
+        "y": 296357.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 749,
+        "Strasse": "Franz-Josef-Stra\u00dfe",
+        "Name": "Dr. PALLHUBER, Reinhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "33",
+        "SKZ_HNR": "31153\/33"
+      },
+      "geometry": {
+        "x": 428754.6,
+        "y": 296404.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 750,
+        "Strasse": "Moosstra\u00dfe",
+        "Name": "Dr. PETER, Burghard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "105A",
+        "SKZ_HNR": "31549\/105A"
+      },
+      "geometry": {
+        "x": 426642.12,
+        "y": 292429.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 751,
+        "Strasse": "Getreidegasse",
+        "Name": "Dr. RoeMHILD, Hannes",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "50",
+        "SKZ_HNR": "31215\/50"
+      },
+      "geometry": {
+        "x": 428110.16,
+        "y": 295761.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 752,
+        "Strasse": "Getreidegasse",
+        "Name": "Dr. RoeMHILD, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "50",
+        "SKZ_HNR": "31215\/50"
+      },
+      "geometry": {
+        "x": 428110.16,
+        "y": 295761.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 753,
+        "Strasse": "Arnogasse",
+        "Name": "Zahnaerztin Dr. RINGER, Birgitte",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "30970\/4"
+      },
+      "geometry": {
+        "x": 429102.99,
+        "y": 296475
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 754,
+        "Strasse": "Reichenhaller Stra\u00dfe",
+        "Name": "Dr. ROBISCH, Gabriele",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31658\/10"
+      },
+      "geometry": {
+        "x": 427827.65,
+        "y": 295609.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 755,
+        "Strasse": "Elisabethstra\u00dfe",
+        "Name": "Dr. med. dent. ERDEM, Musa",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "59",
+        "SKZ_HNR": "31091\/59"
+      },
+      "geometry": {
+        "x": 428415.47,
+        "y": 297760.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 756,
+        "Strasse": "Sebastian-St\u00f6llner-Str.",
+        "Name": "Dr. FEICHTINGER, Bernhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "30",
+        "SKZ_HNR": "31753\/30"
+      },
+      "geometry": {
+        "x": 426868.33,
+        "y": 295834.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 757,
+        "Strasse": "Arnogasse",
+        "Name": "DDr. BRANDTNER, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "30970\/4"
+      },
+      "geometry": {
+        "x": 429102.99,
+        "y": 296475
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 758,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. FRae\u00dfLE-FUCHS, Dinah",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 759,
+        "Strasse": "Universit\u00e4tsplatz",
+        "Name": "DDr. FRANZELIN, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "8",
+        "SKZ_HNR": "31842\/8"
+      },
+      "geometry": {
+        "x": 428269.36,
+        "y": 295708.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 760,
+        "Strasse": "Schwarzstra\u00dfe",
+        "Name": "Dr. FISCHER, Thomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31746\/48"
+      },
+      "geometry": {
+        "x": 427991.48,
+        "y": 296701.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 761,
+        "Strasse": "Ernst-Sompek-Stra\u00dfe",
+        "Name": "Dr. BROCKELMANN, Erich",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31108\/3"
+      },
+      "geometry": {
+        "x": 427907.57,
+        "y": 295429.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 762,
+        "Strasse": "Schie\u00dfstattstra\u00dfe",
+        "Name": "Dr. BURKERT, Martin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31721\/7"
+      },
+      "geometry": {
+        "x": 427656.57,
+        "y": 297049.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 763,
+        "Strasse": "Schmiedingerstra\u00dfe",
+        "Name": "Dr. BALTZER, Wilhelm Ch.",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31733\/19"
+      },
+      "geometry": {
+        "x": 426323.09,
+        "y": 298183.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 764,
+        "Strasse": "Franz-Josef-Stra\u00dfe",
+        "Name": "Dr. med. ANDRE, Juergen",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31153\/19"
+      },
+      "geometry": {
+        "x": 428552.35,
+        "y": 296573.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 765,
+        "Strasse": "Neutorstra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. BERNAUER, Erwin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "52",
+        "SKZ_HNR": "31574\/52"
+      },
+      "geometry": {
+        "x": 427113.57,
+        "y": 295353.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 766,
+        "Strasse": "Franz-Josef-Kai",
+        "Name": "Dr. KRAUS, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31152\/1"
+      },
+      "geometry": {
+        "x": 428189.05,
+        "y": 295880.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 767,
+        "Strasse": "Ernest-Thun-Stra\u00dfe",
+        "Name": "Dr. HoeFLER, Erich",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "12",
+        "SKZ_HNR": "31105\/12"
+      },
+      "geometry": {
+        "x": 428150.55,
+        "y": 296666
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 768,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. KOCH, Raimar",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 769,
+        "Strasse": "Alpenstra\u00dfe",
+        "Name": "Dr. LEIBIG, Thomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48A",
+        "SKZ_HNR": "30938\/48A"
+      },
+      "geometry": {
+        "x": 430035.53,
+        "y": 294241.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 770,
+        "Strasse": "Alpenstra\u00dfe",
+        "Name": "Dr. med. dent. KRIEGBAUM, Bernhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48A",
+        "SKZ_HNR": "30938\/48A"
+      },
+      "geometry": {
+        "x": 430035.53,
+        "y": 294241.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 771,
+        "Strasse": "Moosstra\u00dfe",
+        "Name": "Dr. stom. KRNJIC, Mensur",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "9A",
+        "SKZ_HNR": "31549\/9A"
+      },
+      "geometry": {
+        "x": 427307.11,
+        "y": 295008.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 772,
+        "Strasse": "Teichstra\u00dfe",
+        "Name": "Dr. med. dent. HAMMINGER, Ida Maria",
+        "PLZ": 5322,
+        "Ort": "Hof bei Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "109957\/1"
+      },
+      "geometry": {
+        "x": 441365.4331,
+        "y": 297785.6041
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 773,
+        "Strasse": "Ferdinand-Porsche-Stra\u00dfe",
+        "Name": "Dr. HOLZNER, Karl",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31131\/3"
+      },
+      "geometry": {
+        "x": 428272.73,
+        "y": 297136.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 774,
+        "Strasse": "Paris-Lodron-Stra\u00dfe",
+        "Name": "Dr. FUCHSBERGER, Beate",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "17",
+        "SKZ_HNR": "31595\/17"
+      },
+      "geometry": {
+        "x": 428744.48,
+        "y": 296434.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 775,
+        "Strasse": "Vogelweiderstra\u00dfe",
+        "Name": "Dr. HAMPEL, Ulrike",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "21",
+        "SKZ_HNR": "31860\/21"
+      },
+      "geometry": {
+        "x": 429207.32,
+        "y": 296752.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 776,
+        "Strasse": "Joseph-Messner-Stra\u00dfe",
+        "Name": "DDr. HAUCH, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "12",
+        "SKZ_HNR": "31371\/12"
+      },
+      "geometry": {
+        "x": 430571.91,
+        "y": 295836.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 777,
+        "Strasse": "Bayernstra\u00dfe",
+        "Name": "Dr. GROSS, Johannes",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "30996\/1"
+      },
+      "geometry": {
+        "x": 427305.53,
+        "y": 295524.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 778,
+        "Strasse": "Haunspergstra\u00dfe",
+        "Name": "Dr. GERNEDEL, Isabella",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "11",
+        "SKZ_HNR": "31285\/11"
+      },
+      "geometry": {
+        "x": 427999.96,
+        "y": 297003.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 779,
+        "Strasse": "Imbergstra\u00dfe",
+        "Name": "Zahnarzt GIER, Andreas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "23",
+        "SKZ_HNR": "31334\/23"
+      },
+      "geometry": {
+        "x": 428763.24,
+        "y": 295860.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 780,
+        "Strasse": "M\u00fcnzgasse",
+        "Name": "Dr. GLANTSCHNIG, Guenther",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31560\/1"
+      },
+      "geometry": {
+        "x": 428062.52,
+        "y": 295823
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 781,
+        "Strasse": "M\u00fcnzgasse",
+        "Name": "Dr. GLANTSCHNIG-SCHEIBER, Eva-Maria",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31560\/1"
+      },
+      "geometry": {
+        "x": 428062.52,
+        "y": 295823
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 782,
+        "Strasse": "Lindhofstra\u00dfe",
+        "Name": "Dr. GLASER, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "20",
+        "SKZ_HNR": "31482\/20"
+      },
+      "geometry": {
+        "x": 427427.3,
+        "y": 296264.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 783,
+        "Strasse": "Schrannengasse",
+        "Name": "DDr. HoeNLINGER, Martin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "31738\/2"
+      },
+      "geometry": {
+        "x": 428403.62,
+        "y": 296346.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 784,
+        "Strasse": "Aigner Stra\u00dfe",
+        "Name": "Dr. INAMA, Thomas",
+        "PLZ": 5026,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "30924\/35"
+      },
+      "geometry": {
+        "x": 430528.89,
+        "y": 295022.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 785,
+        "Strasse": "Rudolf-Biebl-Stra\u00dfe",
+        "Name": "Dr. med. dent. ITZINGER, Genovaite",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31694\/1"
+      },
+      "geometry": {
+        "x": 427104.87,
+        "y": 296428.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 786,
+        "Strasse": "Ernst-Sompek-Stra\u00dfe",
+        "Name": "Dr. med. dent. JANSSEN-BROCKELMANN, Anna",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31108\/3"
+      },
+      "geometry": {
+        "x": 427907.57,
+        "y": 295429.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 787,
+        "Strasse": "Seitenbachweg",
+        "Name": "Dr. GEMEIER, Hermann",
+        "PLZ": 5023,
+        "Ort": "Salzburg",
+        "HNR": "12",
+        "SKZ_HNR": "31757\/12"
+      },
+      "geometry": {
+        "x": 430781,
+        "y": 298359.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 788,
+        "Strasse": "Schmiedkreuzstra\u00dfe",
+        "Name": "Dr. GoeTSCH-WEIBOLD, Roswitha",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "13",
+        "SKZ_HNR": "31734\/13"
+      },
+      "geometry": {
+        "x": 425526.94,
+        "y": 298588.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 789,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. ABT, Eva-Johanna",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 790,
+        "Strasse": "Lasserstra\u00dfe",
+        "Name": "Zahnarzt EBENBERGER, Johann",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "31458\/4"
+      },
+      "geometry": {
+        "x": 428872.87,
+        "y": 296570.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 791,
+        "Strasse": "Griesgasse",
+        "Name": "Dr. med. dent. EBNER HoeRL, Dagmar",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "29",
+        "SKZ_HNR": "31250\/29"
+      },
+      "geometry": {
+        "x": 428113.62,
+        "y": 295837.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 792,
+        "Strasse": "Schwesternweg",
+        "Name": "Dr. ECKER, Wolfgang",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31749\/7"
+      },
+      "geometry": {
+        "x": 429830.69,
+        "y": 294021.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 793,
+        "Strasse": "Paris-Lodron-Stra\u00dfe",
+        "Name": "Dr. JIRSA, Martin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31595\/19"
+      },
+      "geometry": {
+        "x": 428776.12,
+        "y": 296452.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 794,
+        "Strasse": "Schwesternweg",
+        "Name": "Zahnaerztin JOST-ENNEKING, Myriam",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31749\/7"
+      },
+      "geometry": {
+        "x": 429830.69,
+        "y": 294021.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 795,
+        "Strasse": "Graf-Zeppelin-Platz",
+        "Name": "Dr. KAHR-ALTENDORFER, Margit",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31247\/19"
+      },
+      "geometry": {
+        "x": 425269.69,
+        "y": 296689.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 796,
+        "Strasse": "Hofhaymerallee",
+        "Name": "Dr. KALTENBRUNNER, Andreas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "20A",
+        "SKZ_HNR": "31317\/20A"
+      },
+      "geometry": {
+        "x": 429088.28,
+        "y": 294182.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 797,
+        "Strasse": "Ignaz-Harrer-Stra\u00dfe",
+        "Name": "Dr. stom. KAMERER, Marta",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "57",
+        "SKZ_HNR": "31329\/57"
+      },
+      "geometry": {
+        "x": 426991.32,
+        "y": 297041.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 798,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. KOCH, Eva-Maria",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 799,
+        "Strasse": "Morzger Stra\u00dfe",
+        "Name": "Dr. KNOLL, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "67",
+        "SKZ_HNR": "31550\/67"
+      },
+      "geometry": {
+        "x": 429438.02,
+        "y": 292448.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 800,
+        "Strasse": "Roseggerstra\u00dfe",
+        "Name": "Dr. MAYER, Heinz",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "23",
+        "SKZ_HNR": "31687\/23"
+      },
+      "geometry": {
+        "x": 427302.66,
+        "y": 297006.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 801,
+        "Strasse": "Sigmund-Haffner-Gasse",
+        "Name": "Dr. MAYER, Helmut",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31765\/7"
+      },
+      "geometry": {
+        "x": 428417.14,
+        "y": 295695.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 802,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. MEISSNER, Nicola",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 803,
+        "Strasse": "Linzer Gasse",
+        "Name": "Dr. MENAPACE, Bernhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "27",
+        "SKZ_HNR": "31485\/27"
+      },
+      "geometry": {
+        "x": 428585.42,
+        "y": 296114.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 804,
+        "Strasse": "Schrannengasse",
+        "Name": "Dr. SONNLEITNER, Dietmar",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31738\/10"
+      },
+      "geometry": {
+        "x": 428512.38,
+        "y": 296399.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 805,
+        "Strasse": "Rechte Glanzeile",
+        "Name": "Dr. WIENER, Thomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "22",
+        "SKZ_HNR": "31652\/22"
+      },
+      "geometry": {
+        "x": 427132.53,
+        "y": 297668.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 806,
+        "Strasse": "Schrannengasse",
+        "Name": "Dr. STADLINGER, Wolfgang, MDSc",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "31738\/2"
+      },
+      "geometry": {
+        "x": 428403.62,
+        "y": 296346.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 807,
+        "Strasse": "Albert-Schweitzer-Stra\u00dfe",
+        "Name": "Dr. WAGNER, Bernhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "30928\/3"
+      },
+      "geometry": {
+        "x": 430458.4,
+        "y": 293326.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 808,
+        "Strasse": "Dr.-Adolf-Altmann-Stra\u00dfe",
+        "Name": "Dr. WALCHER, Alois",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "30",
+        "SKZ_HNR": "37623\/30"
+      },
+      "geometry": {
+        "x": 428377.3,
+        "y": 293321.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 809,
+        "Strasse": "Erzherzog-Eugen-Stra\u00dfe",
+        "Name": "Dr. WALKER, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "33",
+        "SKZ_HNR": "31112\/33"
+      },
+      "geometry": {
+        "x": 428251.36,
+        "y": 297842.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 810,
+        "Strasse": "Kapitelgasse",
+        "Name": "Dr. WAWRIK, Ulrich",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "9",
+        "SKZ_HNR": "31388\/9"
+      },
+      "geometry": {
+        "x": 428730.87,
+        "y": 295462.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 811,
+        "Strasse": "K\u00fcnstlerhausgasse",
+        "Name": "Dr. WOHLESER, Karin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31442\/1"
+      },
+      "geometry": {
+        "x": 429269.92,
+        "y": 295340.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 812,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. WEITGASSER-HaeMMERLE, Daniela",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "11",
+        "SKZ_HNR": "30995\/11"
+      },
+      "geometry": {
+        "x": 428927.56,
+        "y": 296509.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 813,
+        "Strasse": "Aigner Stra\u00dfe",
+        "Name": "Dr. WERNER, Joerg",
+        "PLZ": 5026,
+        "Ort": "Salzburg",
+        "HNR": "21",
+        "SKZ_HNR": "30924\/21"
+      },
+      "geometry": {
+        "x": 430298.35,
+        "y": 295316.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 814,
+        "Strasse": "Ludwig-Schmederer-Platz",
+        "Name": "Dr. PRIOL, Bertrun",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "31494\/2"
+      },
+      "geometry": {
+        "x": 431060.85,
+        "y": 296142.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 815,
+        "Strasse": "Beethovenstra\u00dfe",
+        "Name": "Dr. PUMMERER, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "30998\/4"
+      },
+      "geometry": {
+        "x": 428717.36,
+        "y": 294293.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 816,
+        "Strasse": "Eberhard-Fugger-Stra\u00dfe",
+        "Name": "Dr. PRUTZEK, Reinhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31077\/3"
+      },
+      "geometry": {
+        "x": 430072.51,
+        "y": 296022.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 817,
+        "Strasse": "Biberngasse",
+        "Name": "Dr. MAYR, Guenter Franz",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31010\/7"
+      },
+      "geometry": {
+        "x": 428953.72,
+        "y": 293821.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 818,
+        "Strasse": "Dr.-Franz-Rehrl-Platz",
+        "Name": "Dr. PITAMIC, Alexander",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "31066\/2"
+      },
+      "geometry": {
+        "x": 429143.73,
+        "y": 295677.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 819,
+        "Strasse": "Paracelsusstra\u00dfe",
+        "Name": "Dr. PIXNER, Indira",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "14",
+        "SKZ_HNR": "31594\/14"
+      },
+      "geometry": {
+        "x": 428703.13,
+        "y": 296751.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 820,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. PLANK, Thomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 821,
+        "Strasse": "Ernest-Thun-Stra\u00dfe",
+        "Name": "DDr. SCHULLER-GoeTZBURG, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "13",
+        "SKZ_HNR": "31105\/13"
+      },
+      "geometry": {
+        "x": 428141.17,
+        "y": 296693
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 822,
+        "Strasse": "Graf-Zeppelin-Platz",
+        "Name": "Dr. RADERBAUER, Franz",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "18",
+        "SKZ_HNR": "31247\/18"
+      },
+      "geometry": {
+        "x": 425301.29,
+        "y": 296730.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 823,
+        "Strasse": "Franz-Gruber-Stra\u00dfe",
+        "Name": "Dr. SKOPEK, Michael",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "23",
+        "SKZ_HNR": "31148\/23"
+      },
+      "geometry": {
+        "x": 428786.06,
+        "y": 293856.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 824,
+        "Strasse": "Saint-Julien-Stra\u00dfe",
+        "Name": "Dr. med. dent. SOBEK, Josef",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "15",
+        "SKZ_HNR": "31705\/15"
+      },
+      "geometry": {
+        "x": 428095.4,
+        "y": 296967
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 825,
+        "Strasse": "Schwarzenbrunnerstra\u00dfe",
+        "Name": "Dr. med. dent. KOHNHAUSER, Lorenz",
+        "PLZ": 5340,
+        "Ort": "Sankt Gilgen",
+        "HNR": "3",
+        "SKZ_HNR": "32669\/3"
+      },
+      "geometry": {
+        "x": 452341.8831,
+        "y": 292000.9861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 826,
+        "Strasse": "Aberseestra\u00dfe",
+        "Name": "Dr. RITZBERGER-LoeCKER, Bernhard",
+        "PLZ": 5340,
+        "Ort": "Sankt Gilgen",
+        "HNR": "11a",
+        "SKZ_HNR": "32634\/11a"
+      },
+      "geometry": {
+        "x": 452470.9621,
+        "y": 291841.6511
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 827,
+        "Strasse": "Aberseestra\u00dfe",
+        "Name": "Zahn\u00e4rztin Dr. STEINMETZ, Annette",
+        "PLZ": 5340,
+        "Ort": "Sankt Gilgen",
+        "HNR": "7",
+        "SKZ_HNR": "32634\/7"
+      },
+      "geometry": {
+        "x": 452461.5521,
+        "y": 291916.4721
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 828,
+        "Strasse": "Leo-Neumayer-Stra\u00dfe",
+        "Name": "Dr. HOFER, Klaus",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "10",
+        "SKZ_HNR": "94972\/10"
+      },
+      "geometry": {
+        "x": 440256.9951,
+        "y": 245503.0571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 829,
+        "Strasse": "Ing.-Ludwig-Pech-Stra\u00dfe",
+        "Name": "Dr. HETTEGGER, Johann B.",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "1",
+        "SKZ_HNR": "32825\/1"
+      },
+      "geometry": {
+        "x": 440153.5563,
+        "y": 245616.9591
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 830,
+        "Strasse": "Bundesstra\u00dfe",
+        "Name": "DDr. BERTRAM, Stefan",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "12A",
+        "SKZ_HNR": "65871\/12A"
+      },
+      "geometry": {
+        "x": 439573.4041,
+        "y": 245667.0191
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 831,
+        "Strasse": "Hauptstra\u00dfe",
+        "Name": "Dr. RANKOVIC, Zoltan",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "15",
+        "SKZ_HNR": "32823\/15"
+      },
+      "geometry": {
+        "x": 440349.3361,
+        "y": 245716.0821
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 832,
+        "Strasse": "Hans-Kappacher-Stra\u00dfe",
+        "Name": "Dr. med. dent. GueRTLER, Hans-Joachim",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "2",
+        "SKZ_HNR": "52559\/2"
+      },
+      "geometry": {
+        "x": 440087.3681,
+        "y": 245364.0571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 833,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "Dr. med. dent. JESNER, Florian",
+        "PLZ": 5582,
+        "Ort": "Sankt Michael im Lungau",
+        "HNR": "85",
+        "SKZ_HNR": "57344\/85"
+      },
+      "geometry": {
+        "x": 473251.2501,
+        "y": 217853.5571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 834,
+        "Strasse": "Kaltbachstra\u00dfe",
+        "Name": "Dr. FINGERLOS, Franz Josef",
+        "PLZ": 5582,
+        "Ort": "Sankt Michael im Lungau",
+        "HNR": "166",
+        "SKZ_HNR": "57338\/166"
+      },
+      "geometry": {
+        "x": 473018.9421,
+        "y": 217758.9431
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 835,
+        "Strasse": "Sportplatzstra\u00dfe",
+        "Name": "Dr. med. univ. SCHERER, Franz",
+        "PLZ": 5621,
+        "Ort": "Sankt Veit im Pongau",
+        "HNR": "4",
+        "SKZ_HNR": "57569\/4"
+      },
+      "geometry": {
+        "x": 436538.2381,
+        "y": 243486.5911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 836,
+        "Strasse": "Markt",
+        "Name": "Dr. SACHS, Siegmar",
+        "PLZ": 5620,
+        "Ort": "Schwarzach im Pongau",
+        "HNR": "11",
+        "SKZ_HNR": "32850\/11"
+      },
+      "geometry": {
+        "x": 436316.9361,
+        "y": 242424.7431
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 837,
+        "Strasse": "Salzburger Stra\u00dfe",
+        "Name": "Dr. PIAZZI, Josef",
+        "PLZ": 5620,
+        "Ort": "Schwarzach im Pongau",
+        "HNR": "26",
+        "SKZ_HNR": "32863\/26"
+      },
+      "geometry": {
+        "x": 436054.0051,
+        "y": 242436.5981
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 838,
+        "Strasse": "Rosenweg",
+        "Name": "Zahn\u00e4rztin Dr. HEIMANN, Marion Claudia",
+        "PLZ": 5164,
+        "Ort": "Seeham",
+        "HNR": "44",
+        "SKZ_HNR": "93028\/44"
+      },
+      "geometry": {
+        "x": 430822.7741,
+        "y": 314183.2401
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 839,
+        "Strasse": "Arnogasse",
+        "Name": "Dr. DACOL, Catarina",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "11",
+        "SKZ_HNR": "54330\/11"
+      },
+      "geometry": {
+        "x": 434325.4091,
+        "y": 305592.4251
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 840,
+        "Strasse": "Anton-Windhager-Stra\u00dfe",
+        "Name": "Dr. NUSSBAUMER, Petra",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "8",
+        "SKZ_HNR": "54329\/8"
+      },
+      "geometry": {
+        "x": 434388.4381,
+        "y": 306235.8271
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 841,
+        "Strasse": "Bayerham",
+        "Name": "DDr. ueBLAGGER, Gert",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "22",
+        "SKZ_HNR": "87768\/22"
+      },
+      "geometry": {
+        "x": 436946.7501,
+        "y": 308984.1601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 842,
+        "Strasse": "Anton-Windhager-Stra\u00dfe",
+        "Name": "Dr. KNOLL, Peter",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "1",
+        "SKZ_HNR": "54329\/1"
+      },
+      "geometry": {
+        "x": 434453.6911,
+        "y": 306197.2811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 843,
+        "Strasse": "Mayburgerplatz",
+        "Name": "Prim. Dr. LUGSTEIN, Alois",
+        "PLZ": 5204,
+        "Ort": "Stra\u00dfwalchen",
+        "HNR": "4",
+        "SKZ_HNR": "32708\/4"
+      },
+      "geometry": {
+        "x": 444229.0351,
+        "y": 315757.9811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 844,
+        "Strasse": "Mondseer Stra\u00dfe",
+        "Name": "Dr. med. univ. WURM, Thomas",
+        "PLZ": 5204,
+        "Ort": "Stra\u00dfwalchen",
+        "HNR": "14",
+        "SKZ_HNR": "32709\/14"
+      },
+      "geometry": {
+        "x": 444478.2031,
+        "y": 315323.7131
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 845,
+        "Strasse": "Mayburgerplatz",
+        "Name": "Dr. med. dent. VITKOV, Ljubomir",
+        "PLZ": 5204,
+        "Ort": "Stra\u00dfwalchen",
+        "HNR": "7",
+        "SKZ_HNR": "32708\/7"
+      },
+      "geometry": {
+        "x": 444209.4251,
+        "y": 315797.9931
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 846,
+        "Strasse": "Wei\u00dfenbach",
+        "Name": "Dr. KASERER, Franz",
+        "PLZ": 5350,
+        "Ort": "Strobl",
+        "HNR": "280",
+        "SKZ_HNR": "87809\/280"
+      },
+      "geometry": {
+        "x": 462486.5121,
+        "y": 286815.3961
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 847,
+        "Strasse": "Hans-Noggler-Stra\u00dfe",
+        "Name": "Dr. med. dent. MAYER, Georg",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "6",
+        "SKZ_HNR": "100366\/6"
+      },
+      "geometry": {
+        "x": 485805.7901,
+        "y": 221787.0671
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 848,
+        "Strasse": "Dechant-Franz-Fuchs-Stra\u00dfe",
+        "Name": "Dr. DI BORA, Jakob jun.",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "5",
+        "SKZ_HNR": "49713\/5"
+      },
+      "geometry": {
+        "x": 485883.9081,
+        "y": 221204.2431
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 849,
+        "Strasse": "Kuenburgstra\u00dfe",
+        "Name": "Dr. ROSIAN, Peter",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "9",
+        "SKZ_HNR": "53652\/9"
+      },
+      "geometry": {
+        "x": 486360.2101,
+        "y": 221169.0061
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 850,
+        "Strasse": "Sauerfelder Stra\u00dfe",
+        "Name": "Dr. PENNAUER, Peter Michael",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "7",
+        "SKZ_HNR": "49740\/7"
+      },
+      "geometry": {
+        "x": 486711.9831,
+        "y": 221132.5481
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 851,
+        "Strasse": "Hans-Noggler-Stra\u00dfe",
+        "Name": "Dr. med. dent. FLATISCHLER, Kristina",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "6",
+        "SKZ_HNR": "100366\/6"
+      },
+      "geometry": {
+        "x": 485805.7901,
+        "y": 221787.0671
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 852,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "DDr. LUGER, Bernhard",
+        "PLZ": 5660,
+        "Ort": "Taxenbach",
+        "HNR": "36",
+        "SKZ_HNR": "94207\/36"
+      },
+      "geometry": {
+        "x": 422032.3201,
+        "y": 239396.3601
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 853,
+        "Strasse": "Ischlerbahnstra\u00dfe",
+        "Name": "Dr. LUNDWALL-SPERRER, Gabriela",
+        "PLZ": 5303,
+        "Ort": "Thalgau",
+        "HNR": "30",
+        "SKZ_HNR": "47433\/30"
+      },
+      "geometry": {
+        "x": 444307.0001,
+        "y": 300585.0001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 854,
+        "Strasse": "Salzburger Stra\u00dfe",
+        "Name": "Dr. REITSAMER, Katharina",
+        "PLZ": 5303,
+        "Ort": "Thalgau",
+        "HNR": "1",
+        "SKZ_HNR": "47438\/1"
+      },
+      "geometry": {
+        "x": 444036.1531,
+        "y": 300334.6431
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 855,
+        "Strasse": "Kirchenstra\u00dfe",
+        "Name": "DDr. PueLZL-INNERHOFER, Katharina",
+        "PLZ": 5723,
+        "Ort": "Uttendorf",
+        "HNR": "11",
+        "SKZ_HNR": "57939\/11"
+      },
+      "geometry": {
+        "x": 392268.7761,
+        "y": 238856.1781
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 856,
+        "Strasse": "Markt",
+        "Name": "Dr. MICHALEK, Fritz",
+        "PLZ": 5602,
+        "Ort": "Wagrain",
+        "HNR": "75",
+        "SKZ_HNR": "69831\/75"
+      },
+      "geometry": {
+        "x": 447151.9511,
+        "y": 243827.4891
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 857,
+        "Strasse": "Tegetthoffstra\u00dfe",
+        "Name": "MR Dr. EDER, Herbert",
+        "PLZ": 5071,
+        "Ort": "Wals-Siezenheim",
+        "HNR": "6",
+        "SKZ_HNR": "32745\/6"
+      },
+      "geometry": {
+        "x": 423581.0331,
+        "y": 294863.7351
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 858,
+        "Strasse": "Tegetthoffstra\u00dfe",
+        "Name": "Dr. EDER, Klaus",
+        "PLZ": 5071,
+        "Ort": "Wals-Siezenheim",
+        "HNR": "6",
+        "SKZ_HNR": "32745\/6"
+      },
+      "geometry": {
+        "x": 423581.0331,
+        "y": 294863.7351
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 859,
+        "Strasse": "Franz-Br\u00f6tzner-Stra\u00dfe",
+        "Name": "Dr. med. dent. BERTRAM, Kerstin",
+        "PLZ": 5071,
+        "Ort": "Wals-Siezenheim",
+        "HNR": "5",
+        "SKZ_HNR": "105062\/5"
+      },
+      "geometry": {
+        "x": 423887.1181,
+        "y": 294944.5501
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 860,
+        "Strasse": "Franz-Br\u00f6tzner-Stra\u00dfe",
+        "Name": "DDr. BERTRAM, Stefan",
+        "PLZ": 5071,
+        "Ort": "Wals-Siezenheim",
+        "HNR": "5",
+        "SKZ_HNR": "105062\/5"
+      },
+      "geometry": {
+        "x": 423887.1181,
+        "y": 294944.5501
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 861,
+        "Strasse": "Schulstra\u00dfe",
+        "Name": "Dr. HAMPEL, Harald",
+        "PLZ": 5071,
+        "Ort": "Wals-Siezenheim",
+        "HNR": "8",
+        "SKZ_HNR": "32743\/8"
+      },
+      "geometry": {
+        "x": 423622.5221,
+        "y": 294928.1451
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 862,
+        "Strasse": "Markt",
+        "Name": "Dr. GERINGER, Manfred",
+        "PLZ": 5450,
+        "Ort": "Werfen",
+        "HNR": "37",
+        "SKZ_HNR": "74935\/37"
+      },
+      "geometry": {
+        "x": 439244.5721,
+        "y": 259709.7821
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 863,
+        "Strasse": "Markt",
+        "Name": "Dr. GERINGER-HAMEDINGER, Sabine",
+        "PLZ": 5450,
+        "Ort": "Werfen",
+        "HNR": "37",
+        "SKZ_HNR": "74935\/37"
+      },
+      "geometry": {
+        "x": 439244.5721,
+        "y": 259709.7821
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 864,
+        "Strasse": "Gartenstra\u00dfe",
+        "Name": "Dr. SCHoePP, Hermann",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "7",
+        "SKZ_HNR": "33019\/7"
+      },
+      "geometry": {
+        "x": 409300.9171,
+        "y": 242816.3301
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 865,
+        "Strasse": "Seeuferstra\u00dfe",
+        "Name": "Dr. SCHoePP, Reinhard",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "6A",
+        "SKZ_HNR": "52535\/6A"
+      },
+      "geometry": {
+        "x": 411000.5001,
+        "y": 243443.1101
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 866,
+        "Strasse": "Karl-Vogt-Stra\u00dfe",
+        "Name": "DDr. SCHAUBENSTEINER, Alexandra",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "7A",
+        "SKZ_HNR": "33026\/7A"
+      },
+      "geometry": {
+        "x": 409400.5621,
+        "y": 241134.1861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 867,
+        "Strasse": "Mozartstra\u00dfe",
+        "Name": "Praesident OMR Dr. SENONER, Erwin",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "6",
+        "SKZ_HNR": "33034\/6"
+      },
+      "geometry": {
+        "x": 409354.7941,
+        "y": 242768.3391
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 868,
+        "Strasse": "Seegasse",
+        "Name": "Zahn\u00e4rztin Dr. HRALA, Aleksandra",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "2",
+        "SKZ_HNR": "33055\/2"
+      },
+      "geometry": {
+        "x": 409629.2241,
+        "y": 242926.1761
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 869,
+        "Strasse": "Seegasse",
+        "Name": "Dr. med. dent. HRALA, Boris",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "2",
+        "SKZ_HNR": "33055\/2"
+      },
+      "geometry": {
+        "x": 409629.2241,
+        "y": 242926.1761
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 870,
+        "Strasse": "Oberndorferstra\u00dfe",
+        "Name": "Dr. med. univ. CSa'SZa'R, Zso'fia",
+        "PLZ": 5541,
+        "Ort": "Altenmarkt im Pongau",
+        "HNR": "1",
+        "SKZ_HNR": "10532\/1"
+      },
+      "geometry": {
+        "x": 456373.8121,
+        "y": 249195.3151
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 871,
+        "Strasse": "Oberndorferstra\u00dfe",
+        "Name": "Dr. med. dent. PASSRUCKER Claudia",
+        "PLZ": 5541,
+        "Ort": "Altenmarkt im Pongau",
+        "HNR": "1",
+        "SKZ_HNR": "10532\/1"
+      },
+      "geometry": {
+        "x": 456373.8121,
+        "y": 249195.3151
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 872,
+        "Strasse": "Hellbrunnerstra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. LEITGEB, Philip",
+        "PLZ": 5081,
+        "Ort": "Anif",
+        "HNR": "18",
+        "SKZ_HNR": "101439\/18"
+      },
+      "geometry": {
+        "x": 430034.9161,
+        "y": 290190.3971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 873,
+        "Strasse": "Poserstra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. SALBRECHTER, Lukas",
+        "PLZ": 5640,
+        "Ort": "Bad Gastein",
+        "HNR": "10",
+        "SKZ_HNR": "1899\/10"
+      },
+      "geometry": {
+        "x": 435072.1553,
+        "y": 218944.5631
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 874,
+        "Strasse": "Handelspark",
+        "Name": "Dr. med. dent HOSNER, Lukas",
+        "PLZ": 5161,
+        "Ort": "Elixhausen",
+        "HNR": "2",
+        "SKZ_HNR": "100783\/2"
+      },
+      "geometry": {
+        "x": 430140.0381,
+        "y": 303612.4911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 875,
+        "Strasse": "Auwiesenstra\u00dfe",
+        "Name": "Dr. med univ. SANGER, Rajinder",
+        "PLZ": 5161,
+        "Ort": "Elixhausen",
+        "HNR": "18",
+        "SKZ_HNR": "32974\/18"
+      },
+      "geometry": {
+        "x": 429405.0581,
+        "y": 302553.7131
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 876,
+        "Strasse": "Krautgasse",
+        "Name": "Dr. med. Univ. EIRISCH, Gerhard",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "5",
+        "SKZ_HNR": "32058\/5"
+      },
+      "geometry": {
+        "x": 432065.2081,
+        "y": 282406.9401
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 877,
+        "Strasse": "Salzachtalstra\u00dfe",
+        "Name": "Dr. med. dent. F\u00dcRNKRANZ, Raphaela",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "5",
+        "SKZ_HNR": "32135\/5"
+      },
+      "geometry": {
+        "x": 432566.0081,
+        "y": 282703.8001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 878,
+        "Strasse": "Ederstra\u00dfe",
+        "Name": "Dr. med. dent. SELIMOVIC, Eldin",
+        "PLZ": 5400,
+        "Ort": "Hallein",
+        "HNR": "6",
+        "SKZ_HNR": "31967\/6"
+      },
+      "geometry": {
+        "x": 432089.2331,
+        "y": 282708.3791
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 879,
+        "Strasse": "Wilhelm-Fazokas-Stra\u00dfe",
+        "Name": "Dipl. Stomat. OTTO, Olaf",
+        "PLZ": 5710,
+        "Ort": "Kaprun",
+        "HNR": "2b-e",
+        "SKZ_HNR": "32855\/2b-e"
+      },
+      "geometry": {
+        "x": 406583.4313,
+        "y": 237227.0501
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 880,
+        "Strasse": "Tauernweg",
+        "Name": "Zahnarzt FUJS, Bostjan",
+        "PLZ": 5751,
+        "Ort": "Maishofen",
+        "HNR": "12",
+        "SKZ_HNR": "93712\/12"
+      },
+      "geometry": {
+        "x": 410109.2531,
+        "y": 246874.4091
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 881,
+        "Strasse": "Passauer Stra\u00dfe",
+        "Name": "Dr. med. dent. AL ZAHER, Amer",
+        "PLZ": 5163,
+        "Ort": "Mattsee",
+        "HNR": "30",
+        "SKZ_HNR": "49429\/30"
+      },
+      "geometry": {
+        "x": 432815.3401,
+        "y": 315028.3021
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 882,
+        "Strasse": "Halleiner Landesstra\u00dfe",
+        "Name": "Dr. med. dent. MARTINI, Ralph Uwe",
+        "PLZ": 5411,
+        "Ort": "Oberalm",
+        "HNR": "22",
+        "SKZ_HNR": "66447\/22"
+      },
+      "geometry": {
+        "x": 432604.5811,
+        "y": 284127.2181
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 883,
+        "Strasse": "Ramseiderstra\u00dfe",
+        "Name": "Dr. med. dent. NEUHAUSER, Daniel",
+        "PLZ": 5760,
+        "Ort": "Saalfelden am Steinernen Meer",
+        "HNR": "3",
+        "SKZ_HNR": "32969\/3"
+      },
+      "geometry": {
+        "x": 413570.6631,
+        "y": 254252.9991
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 884,
+        "Strasse": "Aigner Stra\u00dfe",
+        "Name": "Dr. med. dent. DAUM, David",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "78",
+        "SKZ_HNR": "30924\/78"
+      },
+      "geometry": {
+        "x": 431093.75,
+        "y": 293900.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 885,
+        "Strasse": "Bayernstra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. GROSS, Sebastian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "30996\/1"
+      },
+      "geometry": {
+        "x": 427305.53,
+        "y": 295524.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 886,
+        "Strasse": "B\u00fcrglsteinstra\u00dfe",
+        "Name": "Dr. med. dent. GLOCKENGIESSER, J\u00f6rg",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "4",
+        "SKZ_HNR": "31036\/4"
+      },
+      "geometry": {
+        "x": 429299.47,
+        "y": 295588.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 887,
+        "Strasse": "Franz-Josef-Kai",
+        "Name": "Dr. med. dent. KRAUS, Rudolf",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31152\/1"
+      },
+      "geometry": {
+        "x": 428189.05,
+        "y": 295880.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 888,
+        "Strasse": "Schwarzstra\u00dfe",
+        "Name": "Zahn\u00e4rztin WOLF, Saskia MSc",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31746\/48"
+      },
+      "geometry": {
+        "x": 428552.35,
+        "y": 296573.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 889,
+        "Strasse": "Griesgasse",
+        "Name": "Dr. med. dent. SCHIFFL, Martin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "31",
+        "SKZ_HNR": "31250\/31"
+      },
+      "geometry": {
+        "x": 428095.95,
+        "y": 295838.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 890,
+        "Strasse": "Gst\u00e4ttengasse",
+        "Name": "Dr. MAYR, Wilhelm",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "21",
+        "SKZ_HNR": "31255\/21"
+      },
+      "geometry": {
+        "x": 427999.96,
+        "y": 295894.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 891,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. med. dent. KELLER, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 892,
+        "Strasse": "Lindhofstra\u00dfe",
+        "Name": "Dr. med. dent. GLASER, Johanna",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "20",
+        "SKZ_HNR": "31482\/20"
+      },
+      "geometry": {
+        "x": 427427.3,
+        "y": 296264.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 893,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Prim. Univ.-Prof. DDr. GAGGL, Alexander",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 894,
+        "Strasse": "Saint-Julien-Stra\u00dfe",
+        "Name": "Dr. med. dent. MIERL, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "15",
+        "SKZ_HNR": "31705\/15"
+      },
+      "geometry": {
+        "x": 428095.4,
+        "y": 296967
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 895,
+        "Strasse": "Schwarzstra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. FISCHER, Matthias",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31746\/48"
+      },
+      "geometry": {
+        "x": 427991.48,
+        "y": 296701.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 896,
+        "Strasse": "Vogelweiderstra\u00dfe",
+        "Name": "Dr. med. dent. ADILI, Emine",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "38",
+        "SKZ_HNR": "31860\/38"
+      },
+      "geometry": {
+        "x": 429211.09,
+        "y": 296984
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 897,
+        "Strasse": "Leo-Neumayer-Stra\u00dfe",
+        "Name": "Dr. med. dent. HOFER, Matthias",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "10",
+        "SKZ_HNR": "94972\/10"
+      },
+      "geometry": {
+        "x": 440256.9951,
+        "y": 245503.0571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 898,
+        "Strasse": "Sportplatzstra\u00dfe",
+        "Name": "Dr. med. dent. ASGHARZADEH, Farbod",
+        "PLZ": 5621,
+        "Ort": "Sankt Veit im Pongau",
+        "HNR": "4",
+        "SKZ_HNR": "57569\/4"
+      },
+      "geometry": {
+        "x": 436538.2381,
+        "y": 243486.5911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 899,
+        "Strasse": "Mayerlehen",
+        "Name": "Dr. med. dent. LUPPERTZ, Armin",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "37",
+        "SKZ_HNR": "87774\/37"
+      },
+      "geometry": {
+        "x": 430785.9183,
+        "y": 306324.1051
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 900,
+        "Strasse": "Kuenburgstra\u00dfe",
+        "Name": "Dr. med. dent. JERKOVIC-VERIC, Ana",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "9",
+        "SKZ_HNR": "53652\/9"
+      },
+      "geometry": {
+        "x": 486360.2101,
+        "y": 221169.0061
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 901,
+        "Strasse": "Stadtplatz",
+        "Name": "Dr. med. dent. POLIHRONOU-PANAGIOTOU, Ekaterini",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "2",
+        "SKZ_HNR": "33060\/2"
+      },
+      "geometry": {
+        "x": 409590.8981,
+        "y": 242837.4791
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 902,
+        "Strasse": "Schulstra\u00dfe",
+        "Name": "Dr. MAYRBaeURL, Hildegard",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "8",
+        "SKZ_HNR": "33052\/8"
+      },
+      "geometry": {
+        "x": 409372.9071,
+        "y": 242805.1671
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 903,
+        "Strasse": "Mondseer Stra\u00dfe",
+        "Name": "Dr. med. dent. DEURING, Erwin jun.",
+        "PLZ": 5204,
+        "Ort": "Stra\u00dfwalchen",
+        "HNR": "5",
+        "SKZ_HNR": "32709\/5"
+      },
+      "geometry": {
+        "x": 444184.8431,
+        "y": 315382.1611
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 904,
+        "Strasse": "Dr.-Hans-Liebherr-Stra\u00dfe",
+        "Name": "Dr. med. dent. MAYR, Magdalena",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "34",
+        "SKZ_HNR": "75735\/34"
+      },
+      "geometry": {
+        "x": 441568.6901,
+        "y": 250873.5861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 905,
+        "Strasse": "Dr.-Hans-Liebherr-Stra\u00dfe",
+        "Name": "Dr. med. univ. Dr. med. dent. MAYR, Matthias",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "34",
+        "SKZ_HNR": "75735\/34"
+      },
+      "geometry": {
+        "x": 441568.6901,
+        "y": 250873.5861
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 906,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "DDr. REICHEGGER, Hans",
+        "PLZ": 5741,
+        "Ort": "Neukirchen",
+        "HNR": "487",
+        "SKZ_HNR": "94126\/487"
+      },
+      "geometry": {
+        "x": 370938.5751,
+        "y": 235523.4145
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 907,
+        "Strasse": "Marktstra\u00dfe",
+        "Name": "Dr. HEINKE, Frank",
+        "PLZ": 5741,
+        "Ort": "Neukirchen",
+        "HNR": "487",
+        "SKZ_HNR": "94126\/487"
+      },
+      "geometry": {
+        "x": 370938.5751,
+        "y": 235523.4145
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 908,
+        "Strasse": "Faistauergasse 3",
+        "Name": "Dr. SCHINDLER Thomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31123\/3"
+      },
+      "geometry": {
+        "x": 429991.35,
+        "y": 294685
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 909,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Zahnarzt BAGDONAS, Tomas",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 910,
+        "Strasse": "Bayerhamerstra\u00dfe 53",
+        "Name": "Dr. BueRKLE, Verena",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 911,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. stom. CENGIC, Bernhard",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 912,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. DANNINGER, Tanja",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 913,
+        "Strasse": "Baxyerhamerstra\u00dfe",
+        "Name": "Dr. CSASZAR, Zsofia",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 914,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. DUPOVAC-SELIMOVIC, Merima",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 915,
+        "Strasse": "Mozartplatz",
+        "Name": "Fr. ECKER, Wolfgang",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "8",
+        "SKZ_HNR": "31553\/8"
+      },
+      "geometry": {
+        "x": 428733.9304,
+        "y": 295627.0167
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 916,
+        "Strasse": "Rochusgasse",
+        "Name": "Dr. FRITSCH, Tilman",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "13",
+        "SKZ_HNR": "31682\/13"
+      },
+      "geometry": {
+        "x": 426598.2,
+        "y": 295352.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 917,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. FRITSCH-SCHMIDT, Gabriele",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 918,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. FUCHS, Lisa",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 919,
+        "Strasse": "Innsbrucker Bundesstra\u00dfe",
+        "Name": "Dr. FueRNKRANZ, Raphaela",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "35",
+        "SKZ_HNR": "31335\/35"
+      },
+      "geometry": {
+        "x": 426549.59,
+        "y": 296256
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 920,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. GIEBNER, Susanne",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 921,
+        "Strasse": "Bayxerhamerstra\u00dfe",
+        "Name": "MUDr. HESSE, Eva",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 922,
+        "Strasse": "Faberstra\u00dfe",
+        "Name": "DDr. HILLER-LEMACH, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2A",
+        "SKZ_HNR": "31120\/2A"
+      },
+      "geometry": {
+        "x": 428472.57,
+        "y": 296328.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 923,
+        "Strasse": "Ferdinand-Porsche-Stra\u00dfe",
+        "Name": "Dr. HOLZNER-WURNIG, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "3",
+        "SKZ_HNR": "31131\/3"
+      },
+      "geometry": {
+        "x": 428272.73,
+        "y": 297136.3
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 924,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "ZA HaeRTEL, Anna Lena",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 925,
+        "Strasse": "Ignaz-Harrer-Stra\u00dfe",
+        "Name": "Dr. KAMERER, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "57",
+        "SKZ_HNR": "31329\/57"
+      },
+      "geometry": {
+        "x": 426991.32,
+        "y": 297041.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 926,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. KNAUSENBERGER, Stefan",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 927,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Prim. Dr. KOREN, Andrea",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 928,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. LEICHTFRIED, Klaus",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 929,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. med. dent. LEITGEB, Eva",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 930,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. LISZTES, Judit",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 931,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "ZA LUCACI, Gabriel",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 932,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. MAKIC, Gorana",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 933,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. MALLI, Silvia",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 934,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. MARINKOVIC, Miroslav",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 935,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. MITTERLECHNER, Elisabeth",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 936,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. OLSZEWSKA, EWA",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 937,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. REISCHL, Helga",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 938,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. RoeNFELD, Julia-Elisabeth",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 939,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. SCHULTZ, Gerda",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 940,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "Dr. SUKALO, Maja",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 941,
+        "Strasse": "Faberstra\u00dfe ",
+        "Name": "Dr. LAUTERBRUNNER, Nina-Bianca",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2A",
+        "SKZ_HNR": "31120\/2A"
+      },
+      "geometry": {
+        "x": 428472.57,
+        "y": 296328.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 942,
+        "Strasse": "Stieglstra\u00dfe",
+        "Name": "Dr. NIES, Peter Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "7",
+        "SKZ_HNR": "31797\/7"
+      },
+      "geometry": {
+        "x": 426786.98,
+        "y": 295291.9
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 943,
+        "Strasse": "Schanzlgasse",
+        "Name": "Zahnarzt RAUBINGER, Johannes",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "1",
+        "SKZ_HNR": "31715\/1"
+      },
+      "geometry": {
+        "x": 428986.87,
+        "y": 295389.1646
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 944,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. RIPPEL, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 945,
+        "Strasse": "Strubergasse",
+        "Name": "Dr. RIPPEL, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "26",
+        "SKZ_HNR": "31802\/26"
+      },
+      "geometry": {
+        "x": 427402.34,
+        "y": 296806.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 946,
+        "Strasse": "Paris-Lodron-Stra\u00dfe",
+        "Name": "ZA SCHERER, Harry",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31595\/19"
+      },
+      "geometry": {
+        "x": 428776.12,
+        "y": 296452.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 947,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "ZA ROGL, Teresa",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 948,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. SCHIFFL-HARDT, Miriam",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 949,
+        "Strasse": "Linzer Bundesstra\u00dfe",
+        "Name": "Dr. SIVIC, Ensad",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "21A",
+        "SKZ_HNR": "31484\/21A"
+      },
+      "geometry": {
+        "x": 430161.32,
+        "y": 297232.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 950,
+        "Strasse": "Alpenstra\u00dfe",
+        "Name": "Dr. SOBEK, Josef",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48\/A",
+        "SKZ_HNR": "30938\/48A"
+      },
+      "geometry": {
+        "x": 430035.53,
+        "y": 294241.6
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 951,
+        "Strasse": "Graf-Zeppelin-Platz",
+        "Name": "Zahn\u00e4rztin SQUINOBAL, Jessika",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "19",
+        "SKZ_HNR": "31247\/19"
+      },
+      "geometry": {
+        "x": 425269.69,
+        "y": 296689.7
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 952,
+        "Strasse": "Faberstra\u00dfe",
+        "Name": "Dr. STADLINGER, Wolfgang, MDSc",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "2",
+        "SKZ_HNR": "31120\/2"
+      },
+      "geometry": {
+        "x": 428480.43,
+        "y": 296310.2354
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 953,
+        "Strasse": "Strubergasse",
+        "Name": "DDr. Steiner, Christoph, MSc",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "21",
+        "SKZ_HNR": "31802\/21"
+      },
+      "geometry": {
+        "x": 427432.8754,
+        "y": 296748.4
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 954,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "DDr. TRIESSNIG, Robin",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 955,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. VOGEL, Melsanie",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 956,
+        "Strasse": "Bayerhamerstra\u00dfe",
+        "Name": "Dr. WICH-HERRLEIN, Tobias",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "53",
+        "SKZ_HNR": "30995\/53"
+      },
+      "geometry": {
+        "x": 428836.88,
+        "y": 297195.2
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 957,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. WUTSCHER_SCH\u00dcFFL, Roswitha",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 958,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. BRANDTNER, Christian",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 959,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. RoeMHILD, Hannes",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 960,
+        "Strasse": "M\u00fcllner Hauptstra\u00dfe",
+        "Name": "Dr. SCHACHNER, Peter",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "48",
+        "SKZ_HNR": "31558\/48"
+      },
+      "geometry": {
+        "x": 427406.69,
+        "y": 296541.8
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 961,
+        "Strasse": "Mayerlehen",
+        "Name": "Dr. DECKER, Berit",
+        "PLZ": 5201,
+        "Ort": "Seekirchen am Wallersee",
+        "HNR": "37",
+        "SKZ_HNR": "87774\/37"
+      },
+      "geometry": {
+        "x": 430795.75,
+        "y": 306354.5
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 962,
+        "Strasse": "Mayburgerplatz",
+        "Name": "DDr. LINECKER, Alexander",
+        "PLZ": 5204,
+        "Ort": "Seekirchen",
+        "HNR": "4",
+        "SKZ_HNR": "32708\/4"
+      },
+      "geometry": {
+        "x": 444229.0351,
+        "y": 315757.9811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 963,
+        "Strasse": "Engelbert-Wei\u00df-Weg",
+        "Name": "DDr. BRIEDL Johann",
+        "PLZ": 5020,
+        "Ort": "Salzburg",
+        "HNR": "10",
+        "SKZ_HNR": "31097\/10"
+      },
+      "geometry": {
+        "x": 428500.41,
+        "y": 297452.1
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 964,
+        "Strasse": "Urstein Nord",
+        "Name": "Zahnarzt LUNCESCU, Christian",
+        "PLZ": 5412,
+        "Ort": "Puch bei Hallein",
+        "HNR": "73",
+        "SKZ_HNR": "113086\/73"
+      },
+      "geometry": {
+        "x": 431413.0874,
+        "y": 289015.6229
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 965,
+        "Strasse": "Gasteiner Stra\u00dfe",
+        "Name": "MUDr. DUKAT, Barbora",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "29",
+        "SKZ_HNR": "32771\/29"
+      },
+      "geometry": {
+        "x": 441296.4826,
+        "y": 252630.5615
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 966,
+        "Strasse": "Gasteiner Stra\u00dfe",
+        "Name": "Dr. STEFANOVIC, Dragan",
+        "PLZ": 5500,
+        "Ort": "Bischofshofen",
+        "HNR": "29",
+        "SKZ_HNR": "32771\/29"
+      },
+      "geometry": {
+        "x": 441296.4826,
+        "y": 252630.5615
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 967,
+        "Strasse": "Hans-Kappacher-Stra\u00dfe",
+        "Name": "Dott. TRASARTI, Stefano",
+        "PLZ": 5600,
+        "Ort": "Sankt Johann im Pongau",
+        "HNR": "2",
+        "SKZ_HNR": "52559\/2"
+      },
+      "geometry": {
+        "x": 440087.3681,
+        "y": 245364.0571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 968,
+        "Strasse": "Br\u00f6llsteig",
+        "Name": "Dr. JERKOVIC-VERIC, Ana",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "1",
+        "SKZ_HNR": "53647\/1"
+      },
+      "geometry": {
+        "x": 485921.9393,
+        "y": 221482.5156
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 969,
+        "Strasse": "Br\u00f6llsteig",
+        "Name": "Dr. KRAKOLINIG, Aron",
+        "PLZ": 5580,
+        "Ort": "Tamsweg",
+        "HNR": "1",
+        "SKZ_HNR": "53647\/1"
+      },
+      "geometry": {
+        "x": 485921.9393,
+        "y": 221482.5156
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 970,
+        "Strasse": "Wilhwlm-Fazokas-Stra\u00dfe",
+        "Name": "Dr. med. dent. FOIDL, Marco",
+        "PLZ": 5710,
+        "Ort": "Kaprun",
+        "HNR": "12A",
+        "SKZ_HNR": "32855\/12A"
+      },
+      "geometry": {
+        "x": 406578.7515,
+        "y": 237182.5104
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 971,
+        "Strasse": "Landesstra\u00dfe",
+        "Name": "Dr. med. dent. VIZI, Kathrin",
+        "PLZ": 5710,
+        "Ort": "Kaprun",
+        "HNR": "30A",
+        "SKZ_HNR": "48636\/30A"
+      },
+      "geometry": {
+        "x": 406450.0313,
+        "y": 237706.0938
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 972,
+        "Strasse": "Am Feld",
+        "Name": "Dr. HASENAUER-STOTTER, Linda",
+        "PLZ": 5751,
+        "Ort": "Maishofen",
+        "HNR": "17",
+        "SKZ_HNR": "93651\/17"
+      },
+      "geometry": {
+        "x": 410314.1921,
+        "y": 247355.9641
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 973,
+        "Strasse": "Felberstra\u00dfe",
+        "Name": "Dr. SUBOTIC, Miroslav",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "1",
+        "SKZ_HNR": "42479\/1"
+      },
+      "geometry": {
+        "x": 385797.6484,
+        "y": 238367.9396
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 974,
+        "Strasse": "Klausgasse",
+        "Name": "Dr. WOLF, Hans-Peter",
+        "PLZ": 5730,
+        "Ort": "Mittersill",
+        "HNR": "49",
+        "SKZ_HNR": "42579\/49"
+      },
+      "geometry": {
+        "x": 385884.1101,
+        "y": 237691.4971
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 975,
+        "Strasse": "Stadtplatz",
+        "Name": "ZA KIRIAZIS, Joannis",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "2",
+        "SKZ_HNR": "33060\/2"
+      },
+      "geometry": {
+        "x": 409590.8981,
+        "y": 242837.4791
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 976,
+        "Strasse": "Stadtplatz",
+        "Name": "ZA SGOUROPOULOS, Wassilios",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "2",
+        "SKZ_HNR": "33060\/2"
+      },
+      "geometry": {
+        "x": 409590.8981,
+        "y": 242837.4791
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 977,
+        "Strasse": "Ebenbergstra\u00dfe",
+        "Name": "Dr. UNTERBERGER, Ulrike",
+        "PLZ": 5700,
+        "Ort": "Zell am See",
+        "HNR": "3",
+        "SKZ_HNR": "49145\/3"
+      },
+      "geometry": {
+        "x": 409326.7763,
+        "y": 242715.7188
       }
     }
   ]

@@ -1,0 +1,3104 @@
+{
+  "features": [
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "ID": 1,
+        "KA_NUMMER": 5001,
+        "BEZEICHN": "Ambulatorium f\u00fcr digitale Bilddiagnostik",
+        "TYP": "Ambulatorium f\u00fcr digitale Bilddiagnostik (Computertomographie)",
+        "STRASSE": "Berchtesgadenerstrasse",
+        "HAUSNR": "66",
+        "PLZ": 5020,
+        "ORT": "Salzburr"
+      },
+      "geometry": {
+        "x": 428224.76970351,
+        "y": 293124.42956538
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "ID": 2,
+        "KA_NUMMER": 5020,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sportorthop\u00e4die und Trainingsther",
+        "TYP": "Sportmedizin",
+        "STRASSE": "Aignerstrasse",
+        "HAUSNR": "29",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 430505.37258564,
+        "y": 295066.04006318
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "ID": 3,
+        "KA_NUMMER": 5021,
+        "BEZEICHN": "Ambulatorium f\u00fcr Schielbehandlung und Neuroophthal",
+        "TYP": "Sehschule",
+        "STRASSE": "Augustinergasse",
+        "HAUSNR": "11",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427486.78519082,
+        "y": 296057.59462411
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "ID": 4,
+        "KA_NUMMER": 5022,
+        "BEZEICHN": "Institut f\u00fcr Computertomographie",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Schallmooser Hauptstrasse",
+        "HAUSNR": "49-51",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429298.46263251,
+        "y": 296536.81843255
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "ID": 5,
+        "KA_NUMMER": 5023,
+        "BEZEICHN": "Tagesklinik Dr. Damisch",
+        "TYP": "Tagesklinik",
+        "STRASSE": "Firmianstrasse",
+        "HAUSNR": "5",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427520.90487086,
+        "y": 294281.18220645
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "ID": 6,
+        "KA_NUMMER": 5024,
+        "BEZEICHN": "Klimatrix; Institut f\u00fcr klimakterische Beschwerden",
+        "TYP": "Ambulatorium f\u00fcr klimakterisches Syndrom",
+        "STRASSE": "Schallmooser Hauptstrasse",
+        "HAUSNR": "51\/1",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429308.00733652,
+        "y": 296538.09100856
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "ID": 7,
+        "KA_NUMMER": 5025,
+        "BEZEICHN": "Ambulatorium f\u00fcr Herz-Kreislauf-Diagnostik und The",
+        "TYP": "Ambulatorium f\u00fcr Herz-Kreislauf-Diagnostik und Therapie",
+        "STRASSE": "Imbergstrasse",
+        "HAUSNR": "22",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429049.14423228,
+        "y": 295728.9720318
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "ID": 8,
+        "KA_NUMMER": 5026,
+        "BEZEICHN": "Ambulatorium f\u00fcr Unterwassertherapie; Dr. H. Beind",
+        "TYP": "Ambulatorium f\u00fcr Unterwassertherapie",
+        "STRASSE": "Kaltnergasse",
+        "HAUSNR": "5",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429777.61552896,
+        "y": 295260.48793536
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "ID": 9,
+        "KA_NUMMER": 5027,
+        "BEZEICHN": "Institut f\u00fcr Sportmedizin des Landes Salzburg",
+        "TYP": "Ambulatorium f\u00fcr Unfallchirugie, Sportmedizin oder Rehabilitation",
+        "STRASSE": "Lindhofstrasse",
+        "HAUSNR": "20",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427414.37431076,
+        "y": 296264.9241603
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "ID": 10,
+        "KA_NUMMER": 5028,
+        "BEZEICHN": "Dialyseambulatorium Dr. Bolzano",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Maxglaner Hauptstrasse",
+        "HAUSNR": "72",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 426467.62973388,
+        "y": 295924.53785598
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "ID": 11,
+        "KA_NUMMER": 5029,
+        "BEZEICHN": "Institut f\u00fcr hypostatische Beinleiden",
+        "TYP": "Ambulatorium f\u00fcr hypostatische Beinleiden",
+        "STRASSE": "Plainstrasse",
+        "HAUSNR": "32",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428156.11562345,
+        "y": 297279.52256124
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "ID": 12,
+        "KA_NUMMER": 5030,
+        "BEZEICHN": "Sehschule Dr. Rudolf Pekar",
+        "TYP": "Sehschule",
+        "STRASSE": "Schwarzstrasse",
+        "HAUSNR": "21",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428122.23811942,
+        "y": 296184.24934422
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "ID": 13,
+        "KA_NUMMER": 5043,
+        "BEZEICHN": "Zahnambulatorium der Vers. der \u00f6sterr. Eisenbahner",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "S\u00fcdtirolerplatz",
+        "HAUSNR": "1",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428466.59779974,
+        "y": 297203.44550517
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "ID": 14,
+        "KA_NUMMER": 5044,
+        "BEZEICHN": "Zahnambulatorium der Vers. \u00f6ffentl. Bediensteter",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Faberstrasse",
+        "HAUSNR": "2a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428476.59229575,
+        "y": 296330.13427236
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "ID": 15,
+        "KA_NUMMER": 5045,
+        "BEZEICHN": "Ambulatorium f\u00fcr entwicklungsgest\u00f6rte Kinder, Juge",
+        "TYP": "Ambulatorium f\u00fcr Behinderte",
+        "STRASSE": "Ernest-Thun-Strasse",
+        "HAUSNR": "9",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428026.42627933,
+        "y": 296680.18022469
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "ID": 16,
+        "KA_NUMMER": 5047,
+        "BEZEICHN": "Dr. Ernst Doringer - Institut f\u00fcr CT und MRT",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Innbrucker Bundesstrasse",
+        "HAUSNR": "83a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 425808.78326926,
+        "y": 295615.2494077
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "ID": 17,
+        "KA_NUMMER": 5049,
+        "BEZEICHN": "Allergieambulatorium DDr. Wagner",
+        "TYP": "Allergieambulatorium",
+        "STRASSE": "Ferdinand-Porsche-Strasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428273.77936756,
+        "y": 297143.49260912
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "ID": 18,
+        "KA_NUMMER": 5052,
+        "BEZEICHN": "Tagesklinik f\u00fcr Mund-, Kiefer- und Gesichtschirugi",
+        "TYP": "Tagesklinik f\u00fcr Mund-, Kiefer- und Gesichtschirugie",
+        "STRASSE": "Ferdinand-Porsche-Strasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428277.59709556,
+        "y": 297139.25068911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "ID": 19,
+        "KA_NUMMER": 5053,
+        "BEZEICHN": "Therapie am Rainberg",
+        "TYP": "Physikalische Therapie",
+        "STRASSE": "Rainbergtsrasse",
+        "HAUSNR": "3a",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 427639.28208697,
+        "y": 295383.97670348
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 20,
+        "ID": 20,
+        "KA_NUMMER": 5055,
+        "BEZEICHN": "Dr. Holzer-Medizin.-diagn. Laboratorium",
+        "TYP": "Medizinische Labordiagnostik",
+        "STRASSE": "Bergstrasse",
+        "HAUSNR": "14",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428482.55709575,
+        "y": 296185.18476823
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 21,
+        "ID": 21,
+        "KA_NUMMER": 5056,
+        "BEZEICHN": "Inst. f\u00fcr Physikalische Therapie Herrnau",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Stumpfeggergasse",
+        "HAUSNR": "3",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429717.2427929,
+        "y": 293620.42751784
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 22,
+        "ID": 22,
+        "KA_NUMMER": 5057,
+        "BEZEICHN": "Amb. f\u00fcr Psychosomatik und Psychotherapie",
+        "TYP": "Amb. f\u00fcr Psychosomatik und Psychotherapie",
+        "STRASSE": "Guggenbichlerstrasse",
+        "HAUSNR": "20",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 430786.4749219,
+        "y": 294435.5287026
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 23,
+        "ID": 23,
+        "KA_NUMMER": 5059,
+        "BEZEICHN": "Servicestuhl der niedergelassenen Zahn\u00e4rzte",
+        "TYP": "Ambulatorium f\u00fcr Zahnmedizin",
+        "STRASSE": "Bergstrasse",
+        "HAUSNR": "14",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428476.83037575,
+        "y": 296181.79123222
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "ID": 24,
+        "KA_NUMMER": 5064,
+        "BEZEICHN": "Tageshospiz Kleingmainerhof",
+        "TYP": "Tageshospiz f\u00fcr palliative care",
+        "STRASSE": "Morzgertrasse",
+        "HAUSNR": "27",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 429300.97732051,
+        "y": 293562.11634978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 25,
+        "ID": 25,
+        "KA_NUMMER": 5002,
+        "BEZEICHN": "Haut-Vorsorge-Zentrum EMCO-Privatklinik-Allergieam",
+        "TYP": "Allergieambulatorium",
+        "STRASSE": "Martin-Hell-Strasse",
+        "HAUSNR": "7-9",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431885.77245892,
+        "y": 280344.47896147
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 26,
+        "ID": 26,
+        "KA_NUMMER": 5051,
+        "BEZEICHN": "Amb. f\u00fcr physikalische Therapie in der EMCO-Klinik",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Martin-Hell-Strasse",
+        "HAUSNR": "7-9",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431875.16740291,
+        "y": 280366.96139349
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 27,
+        "ID": 27,
+        "KA_NUMMER": 5003,
+        "BEZEICHN": "Inst. f\u00fcr Rheumatologie, Rehab. und Ganzheitssmedi",
+        "TYP": "Ambulatorium f\u00fcr Unterwassertherapie",
+        "STRASSE": "Badbergstrasse",
+        "HAUSNR": "1",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein"
+      },
+      "geometry": {
+        "x": 435260.13303806,
+        "y": 220085.97112935
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 28,
+        "ID": 28,
+        "KA_NUMMER": 5004,
+        "BEZEICHN": "B\u00e4renhof am Felsenbad",
+        "TYP": "Di\u00e4tambulatorium",
+        "STRASSE": "Pyrkerh\u00f6henstrasse",
+        "HAUSNR": "11",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein"
+      },
+      "geometry": {
+        "x": 434920.13585375,
+        "y": 219287.90162461
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "ID": 29,
+        "KA_NUMMER": 5005,
+        "BEZEICHN": "Hotel Palace Gastein",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Alexander-Moser-Allee",
+        "HAUSNR": "13",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432972.50525993,
+        "y": 225375.07577428
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
+        "ID": 30,
+        "KA_NUMMER": 5006,
+        "BEZEICHN": "Gesundheitszentrum \"St. Georg\"",
+        "TYP": "Di\u00e4tambulatorium",
+        "STRASSE": "Dr. Zimmermann-Strasse",
+        "HAUSNR": "7",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432408.15197941,
+        "y": 225786.75219066
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 31,
+        "ID": 31,
+        "KA_NUMMER": 5007,
+        "BEZEICHN": "Kur- und Sporthotel Norica",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Rudolf-Bachbauer-Gasse",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432805.60401178,
+        "y": 225845.37798272
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 32,
+        "ID": 32,
+        "KA_NUMMER": 5008,
+        "BEZEICHN": "Inst. f\u00fcr Rheumatologie, Rehab. und Sportmedizin",
+        "TYP": "Ambulatorium f\u00fcr Rheumatologie",
+        "STRASSE": "Senator-Wilfling-Platz",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432765.84925974,
+        "y": 225702.16108658
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 33,
+        "ID": 33,
+        "KA_NUMMER": 5046,
+        "BEZEICHN": "Dialyse im Kurzentrum Bad Hofgastein",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Senator-Wilfling-Platz",
+        "HAUSNR": "1",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein"
+      },
+      "geometry": {
+        "x": 432773.08330775,
+        "y": 225701.33420658
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 34,
+        "ID": 34,
+        "KA_NUMMER": 5011,
+        "BEZEICHN": "Gasteiner Heilstollen",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Heilstollenstrasse",
+        "HAUSNR": "19",
+        "PLZ": 5645,
+        "ORT": "B\u00f6ckstein"
+      },
+      "geometry": {
+        "x": 433358.96516429,
+        "y": 216475.08370199
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 35,
+        "ID": 35,
+        "KA_NUMMER": 5009,
+        "BEZEICHN": "Amb. f\u00fcr digitale Diagnostik Dr. Mosshammer",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Alte Bundesstrasse",
+        "HAUSNR": "34",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441173.24817957,
+        "y": 253234.90709623
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 36,
+        "ID": 36,
+        "KA_NUMMER": 5010,
+        "BEZEICHN": "Ambulatorium \"Linea\" Dr. Hans Walkner",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Salzburger Strasse",
+        "HAUSNR": "72",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441197.97624359,
+        "y": 253806.21180076
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 37,
+        "ID": 37,
+        "KA_NUMMER": 5037,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Bischofshofen",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Gasteinerstrasse",
+        "HAUSNR": "29",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen"
+      },
+      "geometry": {
+        "x": 441293.10661168,
+        "y": 252632.92181566
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 38,
+        "ID": 38,
+        "KA_NUMMER": 5035,
+        "BEZEICHN": "Inst. f\u00fcr digitale Diagnostik Zell am See",
+        "TYP": "Ambulatorium f\u00fcr digitale Diagnostik",
+        "STRASSE": "Paracelsusstrasse",
+        "HAUSNR": "8",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 410895.91208737,
+        "y": 244613.5676962
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 39,
+        "ID": 39,
+        "KA_NUMMER": 5036,
+        "BEZEICHN": "Feriendialyse Zell am See GesmbH",
+        "TYP": "Dialyseambulatorium",
+        "STRASSE": "Paracelsusstrasse",
+        "HAUSNR": "8",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 410874.74549535,
+        "y": 244618.3300642
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 40,
+        "ID": 40,
+        "KA_NUMMER": 5042,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Zell am See",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Ebenbergstrasse",
+        "HAUSNR": "3",
+        "PLZ": 5700,
+        "ORT": "Zell am See"
+      },
+      "geometry": {
+        "x": 409325.02261391,
+        "y": 242717.10100643
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 41,
+        "ID": 41,
+        "KA_NUMMER": 5013,
+        "BEZEICHN": "Sport-Physiotherapie Hallein",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Wichtelhuberstrasse",
+        "HAUSNR": "5-7",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 431910.80951494,
+        "y": 282712.02251568
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 42,
+        "ID": 42,
+        "KA_NUMMER": 5060,
+        "BEZEICHN": "Amb. f\u00fcr physikal. Therapie Editha Wehrle",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Bayrhammerplatz",
+        "HAUSNR": "7",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 432120.06570714,
+        "y": 282647.97003562
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 43,
+        "ID": 43,
+        "KA_NUMMER": 5016,
+        "BEZEICHN": "Inst. f\u00fcr physikalische Medizin und Rehabilitation",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Salzburger Strasse",
+        "HAUSNR": "35",
+        "PLZ": 5110,
+        "ORT": "Oberndorf"
+      },
+      "geometry": {
+        "x": 420910.0136007,
+        "y": 311137.15995015
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 44,
+        "ID": 44,
+        "KA_NUMMER": 5018,
+        "BEZEICHN": "Physiotherapeutisches Ambulatorium Radstadt",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Stadtplatz",
+        "HAUSNR": "10",
+        "PLZ": 5550,
+        "ORT": "Radstadt"
+      },
+      "geometry": {
+        "x": 459865.43379698,
+        "y": 249502.34619675
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 45,
+        "ID": 45,
+        "KA_NUMMER": 5032,
+        "BEZEICHN": "Private Krankenanstalt Wieshof",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Wiesenhofgasse",
+        "HAUSNR": "10",
+        "PLZ": 5600,
+        "ORT": "St. Johann im Pongau"
+      },
+      "geometry": {
+        "x": 439369.37899389,
+        "y": 245238.60628878
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 46,
+        "ID": 46,
+        "KA_NUMMER": 5048,
+        "BEZEICHN": "Kurhaus St. Josef",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Dorf",
+        "HAUSNR": "1",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg"
+      },
+      "geometry": {
+        "x": 431817.56842686,
+        "y": 280676.31076978
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 47,
+        "ID": 47,
+        "KA_NUMMER": 5062,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sport-Physiotherapie Abtenau",
+        "TYP": "Ambulatorium f\u00fcr physikal. Therapie",
+        "STRASSE": "Markt",
+        "HAUSNR": "220",
+        "PLZ": 5441,
+        "ORT": "Abtenau"
+      },
+      "geometry": {
+        "x": 451189.8971489,
+        "y": 269258.15498315
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 48,
+        "ID": 49,
+        "KA_NUMMER": 5039,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Mittersill",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Gerlosstrasse",
+        "HAUSNR": "4",
+        "PLZ": 5730,
+        "ORT": "Mittersill"
+      },
+      "geometry": {
+        "x": 385547.07059177,
+        "y": 238334.86765835
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 49,
+        "ID": 50,
+        "KA_NUMMER": 5038,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Hallein",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Burgfriedstrasse",
+        "HAUSNR": "2",
+        "PLZ": 5400,
+        "ORT": "Hallein"
+      },
+      "geometry": {
+        "x": 432499.19197949,
+        "y": 282787.91525175
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 50,
+        "ID": 51,
+        "KA_NUMMER": 5040,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Salzburg",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Markus-Sittikus-Strasse",
+        "HAUSNR": "22",
+        "PLZ": 5020,
+        "ORT": "Salzburg"
+      },
+      "geometry": {
+        "x": 428297.84515958,
+        "y": 296676.07193668
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 51,
+        "ID": 52,
+        "KA_NUMMER": 5017,
+        "BEZEICHN": "Kurhotel Vollererhof",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Thurnberg",
+        "HAUSNR": "158",
+        "PLZ": 5412,
+        "ORT": "Puch bei Hallein"
+      },
+      "geometry": {
+        "x": 433656.72286057,
+        "y": 288683.87788124
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 52,
+        "ID": 53,
+        "KA_NUMMER": 5019,
+        "BEZEICHN": "Ambulante Tageschirurgie Saalfelden",
+        "TYP": "Tagesklinik",
+        "STRASSE": "Loferer Strasse",
+        "HAUSNR": "24",
+        "PLZ": 5760,
+        "ORT": "Saalfelden"
+      },
+      "geometry": {
+        "x": 413533.02927383,
+        "y": 254333.55490525
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 53,
+        "ID": 54,
+        "KA_NUMMER": 5034,
+        "BEZEICHN": "Inst. f\u00fcr physikalische Medizin Dr. Schiefer Gesmb",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "St. Leonhardgasse",
+        "HAUSNR": "122a",
+        "PLZ": 5580,
+        "ORT": "Tamsweg"
+      },
+      "geometry": {
+        "x": 486119.26524543,
+        "y": 220881.57970609
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 54,
+        "ID": 55,
+        "KA_NUMMER": 5041,
+        "BEZEICHN": "Zahnambulatorium der SGKK - Tamsweg",
+        "TYP": "Zahnambulatorium",
+        "STRASSE": "Br\u00f6llsteigweg",
+        "HAUSNR": "625",
+        "PLZ": 5580,
+        "ORT": "Tamsweg"
+      },
+      "geometry": {
+        "x": 485919.31823724,
+        "y": 221454.66207463
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 55,
+        "ID": 56,
+        "KA_NUMMER": 5050,
+        "BEZEICHN": "Ambulatorium Vigaun",
+        "TYP": "Amb. f\u00fcr Unfallchirurgie, Sportmedizin u. Rehabilitation",
+        "STRASSE": "Karl-R\u00f6dhammerweg",
+        "HAUSNR": "91",
+        "PLZ": 5424,
+        "ORT": "Bad Vigaun"
+      },
+      "geometry": {
+        "x": 435109.92554992,
+        "y": 281353.15736241
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 56,
+        "ID": 57,
+        "KA_NUMMER": 5063,
+        "BEZEICHN": "Hildegardzentrum",
+        "TYP": "Amb. f\u00fcr Physiotherapie und Psychotherapie",
+        "STRASSE": "Winkl",
+        "HAUSNR": "80",
+        "PLZ": 5340,
+        "ORT": "St. Gilgen"
+      },
+      "geometry": {
+        "x": 453889.20979141,
+        "y": 293136.45081339
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 57,
+        "ID": 58,
+        "KA_NUMMER": 5058,
+        "BEZEICHN": "Sportmedizinische Ambulatorium Olympiast\u00fctzpunkt S",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "Obertauern",
+        "HAUSNR": "154",
+        "PLZ": 5562,
+        "ORT": "Obertauen"
+      },
+      "geometry": {
+        "x": 467242.86177185,
+        "y": 234685.97498295
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 58,
+        "ID": 59,
+        "KA_NUMMER": 5012,
+        "BEZEICHN": "Physiotherapeutische Station Gesinger",
+        "TYP": "Ambulatorium f\u00fcr Physiotherapie",
+        "STRASSE": "Hofmark",
+        "HAUSNR": "9",
+        "PLZ": 5622,
+        "ORT": "Goldegg"
+      },
+      "geometry": {
+        "x": 432378.52330738,
+        "y": 242071.40679783
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 59,
+        "ID": 60,
+        "KA_NUMMER": 5014,
+        "BEZEICHN": "Ambulatorium f\u00fcr Sportmedizin",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "H\u00e4uslhofstrasse",
+        "HAUSNR": "668",
+        "PLZ": 5710,
+        "ORT": "Kaprun"
+      },
+      "geometry": {
+        "x": 406947.4308037,
+        "y": 237421.2886495
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 60,
+        "ID": 61,
+        "KA_NUMMER": 5015,
+        "BEZEICHN": "Ambulatorium f\u00fcr physikalische Therapie Dr. Hubner",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Markt",
+        "HAUSNR": "107",
+        "PLZ": 5570,
+        "ORT": "Mauterndorf"
+      },
+      "geometry": {
+        "x": 476489.89794046,
+        "y": 221701.08537086
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 61,
+        "ID": 62,
+        "KA_NUMMER": 5131,
+        "BEZEICHN": "Sehschule Dr. Wilhelm Jordan",
+        "TYP": "Sehschule",
+        "STRASSE": "Markt",
+        "HAUSNR": "3",
+        "PLZ": 5620,
+        "ORT": "Schwarzach"
+      },
+      "geometry": {
+        "x": 436350.70430308,
+        "y": 242454.34311819
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 62,
+        "ID": 63,
+        "KA_NUMMER": 5033,
+        "BEZEICHN": "Alpenmoorbad Schlo\u00df Strobl Prof. Wiesinger",
+        "TYP": "Amb. f\u00fcr Physiotherapie und physikal. Therapie",
+        "STRASSE": "Ischlerstrasse",
+        "HAUSNR": "27",
+        "PLZ": 5350,
+        "ORT": "Strobl"
+      },
+      "geometry": {
+        "x": 461406.87994242,
+        "y": 286859.02642354
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 63,
+        "ID": 64,
+        "KA_NUMMER": 5054,
+        "BEZEICHN": "Ambulatorium Glemmtal",
+        "TYP": "Ambulatorium f\u00fcr Sportmedizin",
+        "STRASSE": "Hinterglemm",
+        "HAUSNR": "162",
+        "PLZ": 5754,
+        "ORT": "Saalbach-Hinterglemm"
+      },
+      "geometry": {
+        "x": 394407.69012002,
+        "y": 249141.63477241
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 64,
+        "ID": 65,
+        "KA_NUMMER": 5061,
+        "BEZEICHN": "Privat Krankenanstalt Gro\u00dfgmainerhof",
+        "TYP": "Amb. f\u00fcr Regenerationskur nach Dr. F.X. Mayr",
+        "STRASSE": "Sanatoriumstrasse",
+        "HAUSNR": "287",
+        "PLZ": 5084,
+        "ORT": "Gro\u00dfgmain"
+      },
+      "geometry": {
+        "x": 418418.82665438,
+        "y": 287320.71371997
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 929,
+        "ID": 70092,
+        "BEZEICHN": "Tauern-Apotheke",
+        "STRASSE": "Kirchgasse",
+        "PLZ": 5730,
+        "ORT": "Mittersill",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 385638.0357874,
+        "y": 238313.44480078
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 930,
+        "ID": 70106,
+        "BEZEICHN": "Apotheke \"Zum goldenen Engel\"",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5202,
+        "ORT": "Neumarkt am Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 441940.99468784,
+        "y": 311733.18970116
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 931,
+        "ID": 70017,
+        "BEZEICHN": "Apotheke  Abtenau",
+        "STRASSE": "Markt",
+        "PLZ": 5441,
+        "ORT": "Abtenau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "253 A"
+      },
+      "geometry": {
+        "x": 450817.0466641,
+        "y": 269594.27516591
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 932,
+        "ID": 70076,
+        "BEZEICHN": "Burgfried-Apotheke",
+        "STRASSE": "Davisstrasse",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2a"
+      },
+      "geometry": {
+        "x": 432394.31019895,
+        "y": 282691.91921011
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 933,
+        "ID": 70025,
+        "BEZEICHN": "Kurapotheke",
+        "STRASSE": "B\u00f6cksteiner Bundesstra\u00dfe",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1c"
+      },
+      "geometry": {
+        "x": 434918.8319933,
+        "y": 218934.16894273
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 934,
+        "ID": 70033,
+        "BEZEICHN": "Kurapotheke Bad Hofgastein",
+        "STRASSE": "Pyrkerstrasse",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 432977.70059949,
+        "y": 225770.7761811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 935,
+        "ID": 70041,
+        "BEZEICHN": "Marien-Apotheke",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 441380.94739132,
+        "y": 253048.4581905
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 936,
+        "ID": 70068,
+        "BEZEICHN": "Stadtapotheke Hallein",
+        "STRASSE": "Bayrhamerplatz",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 432120.86181469,
+        "y": 282646.16420207
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 937,
+        "ID": 70114,
+        "BEZEICHN": "Apotheke \"Zur Mariahilf\"",
+        "STRASSE": "Br\u00fcckenstrasse",
+        "PLZ": 5110,
+        "ORT": "Oberndorf bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 420737.06538809,
+        "y": 311312.31405276
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 938,
+        "ID": 70122,
+        "BEZEICHN": "Stadtapotheke",
+        "STRASSE": "Ernest Thun-Gasse",
+        "PLZ": 5550,
+        "ORT": "Radstadt",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 2"
+      },
+      "geometry": {
+        "x": 459797.33537647,
+        "y": 249614.8064753
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 939,
+        "ID": 70130,
+        "BEZEICHN": "Stadtapotheke \"Zum heiligen Antonius\"",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1A"
+      },
+      "geometry": {
+        "x": 413345.45565321,
+        "y": 254361.46651173
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 940,
+        "ID": 70149,
+        "BEZEICHN": "Alte f.e. Hofapotheke",
+        "STRASSE": "Alter Markt",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 428484.58392331,
+        "y": 295681.57970221
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 941,
+        "ID": 70203,
+        "BEZEICHN": "St. Erhard-Apotheke",
+        "STRASSE": "Petersbrunnstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "13"
+      },
+      "geometry": {
+        "x": 428995.29182778,
+        "y": 295101.84184567
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 942,
+        "ID": 70211,
+        "BEZEICHN": "Elisabeth-Apotheke",
+        "STRASSE": "Elisabethstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1a"
+      },
+      "geometry": {
+        "x": 428209.51301105,
+        "y": 296864.53291931
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 943,
+        "ID": 70238,
+        "BEZEICHN": "Salvator-Apotheke",
+        "STRASSE": "Mirabellplatz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 428334.53528317,
+        "y": 296349.62610283
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 944,
+        "ID": 70246,
+        "BEZEICHN": "Apotheke \"Zum heiligen Rupertus\"",
+        "STRASSE": "Maxglaner Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "13"
+      },
+      "geometry": {
+        "x": 426926.37489786,
+        "y": 295369.81656592
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 945,
+        "ID": 70157,
+        "BEZEICHN": "Apotheke \"Zum goldenen Biber\"",
+        "STRASSE": "Getreidegasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 428381.55096321,
+        "y": 295764.49611828
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 946,
+        "ID": 70165,
+        "BEZEICHN": "Engel-Apotheke",
+        "STRASSE": "Linzer Gasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 428487.25617931,
+        "y": 295999.2839585
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 947,
+        "ID": 70173,
+        "BEZEICHN": "Borrom\u00e4us-Apotheke",
+        "STRASSE": "Gaisbergstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "20"
+      },
+      "geometry": {
+        "x": 430147.75109285,
+        "y": 295937.87199045
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 948,
+        "ID": 70181,
+        "BEZEICHN": "Wolf-Dietrich-Apotheke",
+        "STRASSE": "Linzer Gasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 428804.7065476,
+        "y": 296260.64306275
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 949,
+        "ID": 70254,
+        "BEZEICHN": "Landesapotheke am St. Johanns-Spital",
+        "STRASSE": "M\u00fcllner Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 50"
+      },
+      "geometry": {
+        "x": 427376.74712227,
+        "y": 296500.66175097
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 950,
+        "ID": 70262,
+        "BEZEICHN": "Gnigler Apotheke",
+        "STRASSE": "Linzer Bundesstrasse",
+        "PLZ": 5023,
+        "ORT": "Salzburg-Gnigl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "30a"
+      },
+      "geometry": {
+        "x": 430208.65074091,
+        "y": 297260.59320768
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 951,
+        "ID": 70270,
+        "BEZEICHN": "Johannes Stadtapotheke",
+        "STRASSE": "Hans-Kappacher-Strasse",
+        "PLZ": 5600,
+        "ORT": "Sankt Johann im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": " 8"
+      },
+      "geometry": {
+        "x": 440138.26412616,
+        "y": 245355.34976734
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 952,
+        "ID": 70289,
+        "BEZEICHN": "Apotheke zur Sonnenterrasse",
+        "STRASSE": "Salzburger Strasse",
+        "PLZ": 5620,
+        "ORT": "Schwarzach im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "29"
+      },
+      "geometry": {
+        "x": 436021.70591433,
+        "y": 242398.43110858
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 953,
+        "ID": 70343,
+        "BEZEICHN": "Josefiau-Apotheke",
+        "STRASSE": "Friedensstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 429998.04293272,
+        "y": 294167.6429968
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 954,
+        "ID": 70351,
+        "BEZEICHN": "Paracelsus-Apotheke",
+        "STRASSE": "Raintal",
+        "PLZ": 5340,
+        "ORT": "Sankt Gilgen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 452245.99840944,
+        "y": 292080.27749085
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 955,
+        "ID": 70378,
+        "BEZEICHN": "Riedenburg-Apotheke",
+        "STRASSE": "Neutorstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "32"
+      },
+      "geometry": {
+        "x": 427453.00165035,
+        "y": 295506.45848604
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 956,
+        "ID": 70386,
+        "BEZEICHN": "Paracelsus-Apotheke",
+        "STRASSE": "M\u00fcnchner Bundesstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "17"
+      },
+      "geometry": {
+        "x": 426476.94148944,
+        "y": 297795.71301618
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 957,
+        "ID": 70394,
+        "BEZEICHN": "Untersberg-Apotheke",
+        "STRASSE": "Marktstrasse",
+        "PLZ": 5082,
+        "ORT": "Gr\u00f6dig",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "19"
+      },
+      "geometry": {
+        "x": 428027.72933088,
+        "y": 288885.98788788
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 958,
+        "ID": 70408,
+        "BEZEICHN": "Adler-Apotheke",
+        "STRASSE": "Klessheimer Allee",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "96"
+      },
+      "geometry": {
+        "x": 425496.61086452,
+        "y": 297092.61099952
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 959,
+        "ID": 70416,
+        "BEZEICHN": "Adler-Apotheke",
+        "STRASSE": "Brucker Bundesstrasse",
+        "PLZ": 5700,
+        "ORT": "Zell am See-Sch\u00fcttdorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "29-31"
+      },
+      "geometry": {
+        "x": 409197.37558534,
+        "y": 240974.99616326
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 960,
+        "ID": 70424,
+        "BEZEICHN": "L\u00f6wen-Apotheke",
+        "STRASSE": "Gasteinerstra\u00dfe",
+        "PLZ": 5500,
+        "ORT": "Bischofshofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "44"
+      },
+      "geometry": {
+        "x": 441232.68441518,
+        "y": 252489.00903798
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 961,
+        "ID": 70475,
+        "BEZEICHN": "Antonius Apotheke",
+        "STRASSE": "Itzlinger Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2a"
+      },
+      "geometry": {
+        "x": 428431.99518726,
+        "y": 297878.85733625
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 962,
+        "ID": 70483,
+        "BEZEICHN": "Apotheke \"Zum heiligen Michael\"",
+        "STRASSE": "Marktstrasse",
+        "PLZ": 5582,
+        "ORT": "Sankt Michael im Lungau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "87"
+      },
+      "geometry": {
+        "x": 473222.17961297,
+        "y": 217834.55108571
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 963,
+        "ID": 70491,
+        "BEZEICHN": "Apotheke Himmelreich",
+        "STRASSE": "Fachmarktstra\u00df",
+        "PLZ": 5073,
+        "ORT": "Wals-Siezenheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1, Top 215"
+      },
+      "geometry": {
+        "x": 424042.19383917,
+        "y": 294970.82987755
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 964,
+        "ID": 70505,
+        "BEZEICHN": "Apotheke \"Zum heiligen Martin\"",
+        "STRASSE": "Marktplatz",
+        "PLZ": 5204,
+        "ORT": "Strasswalchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 444142.55174589,
+        "y": 315669.18816882
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 965,
+        "ID": 70564,
+        "BEZEICHN": "Apotheke Zum heiligen Josef",
+        "STRASSE": "Markt",
+        "PLZ": 5431,
+        "ORT": "Kuchl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "26\/1"
+      },
+      "geometry": {
+        "x": 435959.55929027,
+        "y": 276481.25456433
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 966,
+        "ID": 70572,
+        "BEZEICHN": "Apotheke \"Zum heiligen Lukas\"",
+        "STRASSE": "Karl-Zillner-Platz",
+        "PLZ": 5111,
+        "ORT": "B\u00fcrmoos",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 419133.7776426,
+        "y": 316300.60295341
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 967,
+        "ID": 70580,
+        "BEZEICHN": "St. Rupertus-Apotheke",
+        "STRASSE": "Markt",
+        "PLZ": 5090,
+        "ORT": "Lofer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "107"
+      },
+      "geometry": {
+        "x": 401928.56783457,
+        "y": 272042.93872019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 968,
+        "ID": 70599,
+        "BEZEICHN": "Apotheke \"Zum heiligen Georg\"",
+        "STRASSE": "Dorfstrasse",
+        "PLZ": 5101,
+        "ORT": "Bergheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 426867.7003378,
+        "y": 300153.16447437
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 969,
+        "ID": 70645,
+        "BEZEICHN": "Anna Apotheke",
+        "STRASSE": "Siebenst\u00e4dterstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "14"
+      },
+      "geometry": {
+        "x": 427588.12401847,
+        "y": 297114.45272754
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 970,
+        "ID": 70653,
+        "BEZEICHN": "Bahnhof-Apotheke",
+        "STRASSE": "Karl-Wurmb-Stra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 428452.28881928,
+        "y": 297326.08402374
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 971,
+        "ID": 70661,
+        "BEZEICHN": "Moos-Apotheke",
+        "STRASSE": "Moosstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "108"
+      },
+      "geometry": {
+        "x": 426720.27832166,
+        "y": 293005.41022772
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 972,
+        "ID": 70688,
+        "BEZEICHN": "Schloss-Apotheke",
+        "STRASSE": "Salzachtal Bundestra\u00dfe",
+        "PLZ": 5081,
+        "ORT": "Anif",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 430082.73816479,
+        "y": 289794.27300872
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 973,
+        "ID": 70742,
+        "BEZEICHN": "Anna Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5600,
+        "ORT": "Sankt Johann im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 439700.33286175,
+        "y": 245307.65210329
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 974,
+        "ID": 70750,
+        "BEZEICHN": "Theresien-Apotheke im Europark",
+        "STRASSE": "Europastrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 425519.27569654,
+        "y": 297542.05906394
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 975,
+        "ID": 70769,
+        "BEZEICHN": "Apotheke Wartenfels",
+        "STRASSE": "Salzburger Strasse",
+        "PLZ": 5303,
+        "ORT": "Thalgau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 443849.04000162,
+        "y": 300304.77996251
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 976,
+        "ID": 70777,
+        "BEZEICHN": "Nautilus Apotheke",
+        "STRASSE": "Gemeindeweg",
+        "PLZ": 5061,
+        "ORT": "Elsbethen-Glasenbach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 431824.84235842,
+        "y": 292304.87403506
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 977,
+        "ID": 70300,
+        "BEZEICHN": "St. Leonhard-Apotheke",
+        "STRASSE": "Amtsgasse",
+        "PLZ": 5580,
+        "ORT": "Tamsweg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "6"
+      },
+      "geometry": {
+        "x": 486336.41117719,
+        "y": 220874.93918454
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 978,
+        "ID": 70319,
+        "BEZEICHN": "See-Apotheke Zell am See",
+        "STRASSE": "Bahnhofstrasse",
+        "PLZ": 5700,
+        "ORT": "Zell am See",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 409593.50780971,
+        "y": 242774.81389293
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 979,
+        "ID": 70327,
+        "BEZEICHN": "Lehener L\u00f6wen-Apotheke",
+        "STRASSE": "Ignaz-Harrer-Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "54"
+      },
+      "geometry": {
+        "x": 427083.427634,
+        "y": 297057.68773549
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 980,
+        "ID": 70335,
+        "BEZEICHN": "Flachgau-Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5201,
+        "ORT": "Seekirchen am Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "16a"
+      },
+      "geometry": {
+        "x": 434583.86770499,
+        "y": 306051.45215986
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 981,
+        "ID": 70432,
+        "BEZEICHN": "Apotheke \"Zum heiligen Geist\"",
+        "STRASSE": "Aigner Strasse",
+        "PLZ": 5026,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "50"
+      },
+      "geometry": {
+        "x": 430675.78379735,
+        "y": 294648.83160525
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 982,
+        "ID": 70440,
+        "BEZEICHN": "Salzach-Apotheke",
+        "STRASSE": "Ginzkeyplatz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "9"
+      },
+      "geometry": {
+        "x": 430420.27666111,
+        "y": 292761.35057949
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 983,
+        "ID": 70459,
+        "BEZEICHN": "Apotheke Oberalm",
+        "STRASSE": "Halleiner Landesstrasse",
+        "PLZ": 5411,
+        "ORT": "Oberalm",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "34"
+      },
+      "geometry": {
+        "x": 432553.5207591,
+        "y": 284403.7638837
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 984,
+        "ID": 70467,
+        "BEZEICHN": "Apotheke \"Zur Gemse\"",
+        "STRASSE": "Markt",
+        "PLZ": 5440,
+        "ORT": "Golling an der Salzach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "43"
+      },
+      "geometry": {
+        "x": 437642.03097183,
+        "y": 273352.77161741
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 985,
+        "ID": 70513,
+        "BEZEICHN": "Alpen-Apotheke",
+        "STRASSE": "Glemmtaler Landesstrasse",
+        "PLZ": 5753,
+        "ORT": "Saalbach",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 397090.71682207,
+        "y": 250452.39738809
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 986,
+        "ID": 70521,
+        "BEZEICHN": "F\u00fcrstenallee-Apotheke",
+        "STRASSE": "Nonntaler Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "61"
+      },
+      "geometry": {
+        "x": 429003.76952379,
+        "y": 294085.00574872
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 987,
+        "ID": 70548,
+        "BEZEICHN": "Pinzgau-Apotheke",
+        "STRASSE": "Leoganger Strasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "39"
+      },
+      "geometry": {
+        "x": 412846.49091674,
+        "y": 254671.60808001
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 988,
+        "ID": 70556,
+        "BEZEICHN": "B\u00e4ren-Apotheke",
+        "STRASSE": "Zeller Strasse",
+        "PLZ": 5671,
+        "ORT": "Bruck an der Grossglocknerstrasse",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "9"
+      },
+      "geometry": {
+        "x": 411480.09257947,
+        "y": 238921.30041735
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 989,
+        "ID": 70602,
+        "BEZEICHN": "Tauern-Apotheke",
+        "STRASSE": "Obere Marktstra\u00dfe",
+        "PLZ": 5541,
+        "ORT": "Altenmarkt im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "46"
+      },
+      "geometry": {
+        "x": 456439.98202934,
+        "y": 249150.88621887
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 990,
+        "ID": 70610,
+        "BEZEICHN": "Virgil-Apotheke",
+        "STRASSE": "Gabelsbergerstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7-9"
+      },
+      "geometry": {
+        "x": 428636.95992345,
+        "y": 296823.34789527
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 991,
+        "ID": 70629,
+        "BEZEICHN": "Steinbock-Apotheke",
+        "STRASSE": "Sigmund Thun Stra\u00dfe",
+        "PLZ": 5710,
+        "ORT": "Kaprun",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "22"
+      },
+      "geometry": {
+        "x": 406549.00233488,
+        "y": 237278.23142382
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 992,
+        "ID": 70637,
+        "BEZEICHN": "Sonnen-Apotheke",
+        "STRASSE": "Markt",
+        "PLZ": 5450,
+        "ORT": "Werfen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 439179.65644527,
+        "y": 259825.49608481
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 993,
+        "ID": 70696,
+        "BEZEICHN": "Apotheke \"Zum heiligen Petrus\"",
+        "STRASSE": "M\u00fcnchner Bundesstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "116"
+      },
+      "geometry": {
+        "x": 425448.86308848,
+        "y": 299099.67007339
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 994,
+        "ID": 70718,
+        "BEZEICHN": "Die Apotheke",
+        "STRASSE": "Kirchenstrasse",
+        "PLZ": 5301,
+        "ORT": "Eugendorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 434724.37842512,
+        "y": 302848.51276488
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 995,
+        "ID": 70726,
+        "BEZEICHN": "Salus-Apotheke",
+        "STRASSE": "Handelsstrasse",
+        "PLZ": 5162,
+        "ORT": "Obertrum",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 431288.31262992,
+        "y": 310983.42579646
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 996,
+        "ID": 70734,
+        "BEZEICHN": "Raphael-Apotheke",
+        "STRASSE": "Hans-Schmid-Platz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 426453.44478541,
+        "y": 296242.92895073
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 997,
+        "ID": 70785,
+        "BEZEICHN": "Barbara-Apotheke",
+        "STRASSE": "Wiener Bundesstrasse",
+        "PLZ": 5300,
+        "ORT": "Hallwang-Mayrwies",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "5a"
+      },
+      "geometry": {
+        "x": 431410.70552603,
+        "y": 299179.41292147
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 998,
+        "ID": 70793,
+        "BEZEICHN": "Arnika Apotheke",
+        "STRASSE": "Halleiner Landesstrasse",
+        "PLZ": 5412,
+        "ORT": "Puch bei Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "7"
+      },
+      "geometry": {
+        "x": 431822.27218241,
+        "y": 286249.79575742
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 999,
+        "ID": 70807,
+        "BEZEICHN": "Apotheke zum Lebensbaum",
+        "STRASSE": "Berchtesgadner Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "35b"
+      },
+      "geometry": {
+        "x": 428207.99742705,
+        "y": 292906.45067562
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1000,
+        "ID": 70815,
+        "BEZEICHN": "Aesculus Apotheke",
+        "STRASSE": "Almerstrasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden am Steinernen Meer",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "24"
+      },
+      "geometry": {
+        "x": 413622.00957346,
+        "y": 253890.42926329
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1001,
+        "ID": 70823,
+        "BEZEICHN": "Wallersee-Apotheke",
+        "STRASSE": "Hauptstrasse",
+        "PLZ": 5302,
+        "ORT": "Henndorf\/Wallersee",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "34"
+      },
+      "geometry": {
+        "x": 439037.39007713,
+        "y": 306528.74579231
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1002,
+        "ID": 70297,
+        "BEZEICHN": "Apotheke Wals",
+        "STRASSE": "Walserfeldstrasse",
+        "PLZ": 5071,
+        "ORT": "Wals-Siezenheim",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "36"
+      },
+      "geometry": {
+        "x": 423172.21457436,
+        "y": 294616.40690122
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1003,
+        "ID": 70831,
+        "BEZEICHN": "Linden-Apotheke",
+        "STRASSE": "Andreas-Thalhammer-Stra\u00dfe",
+        "PLZ": 5204,
+        "ORT": "Strasswalchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "17"
+      },
+      "geometry": {
+        "x": 444561.48576228,
+        "y": 315381.52858455
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1004,
+        "ID": 70858,
+        "BEZEICHN": "Wiestal-Apotheke",
+        "STRASSE": "Kletzlgutweg",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 433035.96715955,
+        "y": 282867.01316227
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1005,
+        "ID": 170513,
+        "BEZEICHN": "Alpen-Apotheke Hinterglemm",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5754,
+        "ORT": "Saalbach-Hinterglemm",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "374"
+      },
+      "geometry": {
+        "x": 394174.86926735,
+        "y": 249067.6455148
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1006,
+        "ID": 70866,
+        "BEZEICHN": "Weidmoos-Apotheke",
+        "STRASSE": "Holzhauserweg",
+        "PLZ": 5112,
+        "ORT": "Lamprechtshausen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 421841.64574112,
+        "y": 317100.42394616
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1007,
+        "ID": 170629,
+        "BEZEICHN": "Filialapotheke Piesendorf",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5721,
+        "ORT": "Piesendorf",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 403374.55554792,
+        "y": 239417.98003381
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1008,
+        "ID": 70874,
+        "BEZEICHN": "Herz-Apotheke",
+        "STRASSE": "F\u00fcrbergstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18-20"
+      },
+      "geometry": {
+        "x": 429954.91774868,
+        "y": 296651.18251911
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1009,
+        "ID": 70882,
+        "BEZEICHN": "Apotheke Hof",
+        "STRASSE": "Wolfgangseestra\u00dfe",
+        "PLZ": 5322,
+        "ORT": "Hof bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 440669.12921465,
+        "y": 297931.6986163
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1010,
+        "ID": 70890,
+        "BEZEICHN": "VitaMia-Apotheke",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5751,
+        "ORT": "Maishofen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 410318.84662639,
+        "y": 247053.27060092
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1011,
+        "ID": 170602,
+        "BEZEICHN": "Apotheke am Dorfplatz",
+        "STRASSE": "Dorfplatz",
+        "PLZ": 5531,
+        "ORT": "Eben im Pongau",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "60"
+      },
+      "geometry": {
+        "x": 454761.66996378,
+        "y": 252029.30151755
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1012,
+        "ID": 70904,
+        "BEZEICHN": "Kristall Apotheke",
+        "STRASSE": "Sportstra\u00dfe",
+        "PLZ": 5733,
+        "ORT": "Bramberg am Wildkogel",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "331"
+      },
+      "geometry": {
+        "x": 375991.52179442,
+        "y": 237626.96364814
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1013,
+        "ID": 70920,
+        "BEZEICHN": "Iris-Apotheke",
+        "STRASSE": "M\u00fchlbachstra\u00dfe",
+        "PLZ": 5201,
+        "ORT": "Seekirchen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "23"
+      },
+      "geometry": {
+        "x": 434034.49484047,
+        "y": 306375.07936017
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1014,
+        "ID": 70947,
+        "BEZEICHN": "Apotheke Leogang",
+        "STRASSE": "Nr.",
+        "PLZ": 5771,
+        "ORT": "Leogang",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "19"
+      },
+      "geometry": {
+        "x": 406907.35023921,
+        "y": 255768.29307304
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1015,
+        "ID": 70955,
+        "BEZEICHN": "Apotheke Itzling \"Zur Sonne\"",
+        "STRASSE": "Bahnhofstra\u00dfe",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "33"
+      },
+      "geometry": {
+        "x": 428893.87320369,
+        "y": 298261.31052061
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1016,
+        "ID": 70939,
+        "BEZEICHN": "Wald-Apotheke Wagrain",
+        "STRASSE": "Markt",
+        "PLZ": 5602,
+        "ORT": "Wagrain",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "96"
+      },
+      "geometry": {
+        "x": 447336.76979686,
+        "y": 243945.31911002
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1017,
+        "ID": 70912,
+        "BEZEICHN": "Naturpark Apotheke",
+        "STRASSE": "Aigner Stra\u00dfe",
+        "PLZ": 5026,
+        "ORT": "Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "78"
+      },
+      "geometry": {
+        "x": 431092.16267774,
+        "y": 293907.11557255
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1018,
+        "ID": 70963,
+        "BEZEICHN": "Apotheke Gro\u00dfarl",
+        "STRASSE": "Unterberg",
+        "PLZ": 5611,
+        "ORT": "Gro\u00dfarl",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "133"
+      },
+      "geometry": {
+        "x": 439637.17740569,
+        "y": 233588.41708438
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1019,
+        "ID": 70971,
+        "BEZEICHN": "Helios-Apotheke",
+        "STRASSE": "Dorfstra\u00dfe",
+        "PLZ": 5161,
+        "ORT": "Elixhausen",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 430013.24638873,
+        "y": 303182.24230119
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 1020,
+        "ID": 70998,
+        "BEZEICHN": "Karolinen Apotheke",
+        "STRASSE": "Paracelsusstra\u00dfe",
+        "PLZ": 5110,
+        "ORT": "Oberndorf bei Salzburg",
+        "ANMERKUNG": null,
+        "HAUSNUMMER": "45"
+      },
+      "geometry": {
+        "x": 421096.65194843,
+        "y": 310960.75718844
+      }
+    }
+    {
+      "attributes": {
+        "OBJECTID": 1,
+        "ID": 1,
+        "KA_NUMMER": 524,
+        "BEZEICHN": "St. Johanns Spital - Landeskrankenhaus",
+        "ART": "Zentralkrankenanstalt",
+        "STRASSE": "M\u00fcllner Hauptstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "48"
+      },
+      "geometry": {
+        "x": 427404.37563173,
+        "y": 296543.68578573
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 2,
+        "ID": 2,
+        "KA_NUMMER": 525,
+        "BEZEICHN": "Unfallkrankenhaus Salzburg",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Dr. Franz Rehrl-Platz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "5"
+      },
+      "geometry": {
+        "x": 429274.11668947,
+        "y": 295701.85000894
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 3,
+        "ID": 3,
+        "KA_NUMMER": 526,
+        "BEZEICHN": "Diakonissenkrankenhaus Salzburg",
+        "ART": "Sanatorium",
+        "STRASSE": "Guggenbichlerstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "20"
+      },
+      "geometry": {
+        "x": 430801.61441889,
+        "y": 294426.26575176
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 4,
+        "ID": 4,
+        "KA_NUMMER": 527,
+        "BEZEICHN": "A\u00f6 Krankenhaus der Barmherzigen Br\u00fcder",
+        "ART": "Standardkrankenanstalt",
+        "STRASSE": "Kajetanerplatz",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 428928.33851315,
+        "y": 295495.03196075
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 5,
+        "ID": 5,
+        "KA_NUMMER": 528,
+        "BEZEICHN": "Christian-Doppler-Klinik - Landesnervenklinik",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Ignaz-Harrer-Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "79"
+      },
+      "geometry": {
+        "x": 426568.30702295,
+        "y": 297191.47919433
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 6,
+        "ID": 6,
+        "KA_NUMMER": 530,
+        "BEZEICHN": "Privatklinik Wehrle",
+        "ART": "Sanatorium",
+        "STRASSE": "Haydnstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "18"
+      },
+      "geometry": {
+        "x": 428536.47291278,
+        "y": 296668.80732184
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 7,
+        "ID": 7,
+        "KA_NUMMER": 540,
+        "BEZEICHN": "Sonderkrankenhaus f\u00fcr Alkohol- und Medikamentenabh",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Weizensteinerstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "11"
+      },
+      "geometry": {
+        "x": 427054.2643994,
+        "y": 294967.94050426
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 8,
+        "ID": 8,
+        "KA_NUMMER": 543,
+        "BEZEICHN": "Genesungsheim f\u00fcr alkoholkranke u. med.abh. M\u00e4nner",
+        "ART": "Genesungsheim",
+        "STRASSE": "Ignaz-Harrer-Strasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "90"
+      },
+      "geometry": {
+        "x": 426772.45780714,
+        "y": 297202.79849034
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 9,
+        "ID": 9,
+        "KA_NUMMER": 549,
+        "BEZEICHN": "Dr. Pierer Sanatorium Salzburg",
+        "ART": "Sanatorium",
+        "STRASSE": "Sinnhubstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "2"
+      },
+      "geometry": {
+        "x": 427353.47361568,
+        "y": 295179.34504846
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 10,
+        "ID": 11,
+        "KA_NUMMER": 546,
+        "BEZEICHN": "EMCO Privatklinik - Sanatorium",
+        "ART": "Sanatorium",
+        "STRASSE": "Prof. Martin-Hell-Strasse",
+        "PLZ": 5422,
+        "ORT": "Bad D\u00fcrrnberg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "7-9"
+      },
+      "geometry": {
+        "x": 431882.1666119,
+        "y": 280354.65972265
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 11,
+        "ID": 12,
+        "KA_NUMMER": 545,
+        "BEZEICHN": "Rehabilitationszentrum Gro\u00dfgmain - Salzburg",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Salzburgerstrasse",
+        "PLZ": 5084,
+        "ORT": "Gro\u00dfgmain",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "520"
+      },
+      "geometry": {
+        "x": 418954.99373586,
+        "y": 287772.45787356
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 12,
+        "ID": 13,
+        "KA_NUMMER": 538,
+        "BEZEICHN": "SKA der Sozialversicherungsanstalt der Bauern",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Hans-Kudlich-Strasse",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "14"
+      },
+      "geometry": {
+        "x": 434446.13743029,
+        "y": 218179.07054475
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 13,
+        "ID": 14,
+        "KA_NUMMER": 505,
+        "BEZEICHN": "Rehabilitationszentrum Bad Hofgastein",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Salzburgerstrasse",
+        "PLZ": 5630,
+        "ORT": "Bad Hofgastein",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "26-30"
+      },
+      "geometry": {
+        "x": 432724.02082068,
+        "y": 226279.13327229
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 14,
+        "ID": 15,
+        "KA_NUMMER": 517,
+        "BEZEICHN": "A\u00f6 Krankenhaus Oberndorf",
+        "ART": "Standardkrankenanstalt",
+        "STRASSE": "Paracelsustrasse",
+        "PLZ": 5110,
+        "ORT": "Oberndorf",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "37"
+      },
+      "geometry": {
+        "x": 421192.92884194,
+        "y": 310972.56643917
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 15,
+        "ID": 10,
+        "KA_NUMMER": 512,
+        "BEZEICHN": "A\u00f6 Krankenhaus der Stadt Hallein",
+        "ART": "Standardkrankenanstalt",
+        "STRASSE": "B\u00fcrgermeisterstrasse",
+        "PLZ": 5400,
+        "ORT": "Hallein",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "34"
+      },
+      "geometry": {
+        "x": 433479.03829338,
+        "y": 282984.6695811
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 16,
+        "ID": 16,
+        "KA_NUMMER": 533,
+        "BEZEICHN": "Landeskrankenhaus St. Veit im Pongau",
+        "ART": "Sonderkrankenhaus",
+        "STRASSE": "St. Veiter Strasse",
+        "PLZ": 5621,
+        "ORT": "St. Veit im Pongau",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "46"
+      },
+      "geometry": {
+        "x": 437116.65570477,
+        "y": 243604.19184843
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 17,
+        "ID": 17,
+        "KA_NUMMER": 535,
+        "BEZEICHN": "A\u00f6 Krankenhaus der Marktgemeinde Tamsweg",
+        "ART": "Standardkrankenanstalt",
+        "STRASSE": "Reg. Rat Haas-Platz",
+        "PLZ": 5580,
+        "ORT": "Tamsweg",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "154"
+      },
+      "geometry": {
+        "x": 486174.95411846,
+        "y": 221248.68309161
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 18,
+        "ID": 18,
+        "KA_NUMMER": 518,
+        "BEZEICHN": "Krankenanstalt Radstadt Dr. Aufmesser",
+        "ART": "Sanatorium",
+        "STRASSE": "Judenb\u00fchel",
+        "PLZ": 5550,
+        "ORT": "Radstadt",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "3"
+      },
+      "geometry": {
+        "x": 460133.30673421,
+        "y": 249627.23134203
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 19,
+        "ID": 19,
+        "KA_NUMMER": 548,
+        "BEZEICHN": "B\u00e4renhof am Felsenbad",
+        "ART": "Pflegeanst. f\u00fcr chron. Kranke",
+        "STRASSE": "Pyrkerh\u00f6henstrasse",
+        "PLZ": 5640,
+        "ORT": "Bad Gastein",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "11"
+      },
+      "geometry": {
+        "x": 434913.90984672,
+        "y": 219292.26888178
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 20,
+        "ID": 20,
+        "KA_NUMMER": 544,
+        "BEZEICHN": "Sanatorium Ritzensee",
+        "ART": "Sanatorium",
+        "STRASSE": "Schmalenbergham",
+        "PLZ": 5760,
+        "ORT": "Saalfelden a.St. M.",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 413660.57760293,
+        "y": 253280.81214544
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 21,
+        "ID": 21,
+        "KA_NUMMER": 541,
+        "BEZEICHN": "Sanatorium der PVA der Arbeiter",
+        "ART": "Sonderkrankenanstalt",
+        "STRASSE": "Thorerstrasse",
+        "PLZ": 5760,
+        "ORT": "Saalfelden a.St.M.",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "26"
+      },
+      "geometry": {
+        "x": 412856.09657818,
+        "y": 253601.51742574
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 22,
+        "ID": 22,
+        "KA_NUMMER": 534,
+        "BEZEICHN": "A\u00f6 Krankenhaus der Kard. Schwarzenbergschen KH-Bet",
+        "ART": "Schwerpunktkrankenanstalt",
+        "STRASSE": "Kardinal Schwarzenbegstrasse",
+        "PLZ": 5620,
+        "ORT": "Schwarzach im Pongau",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "2-6"
+      },
+      "geometry": {
+        "x": 436510.57468021,
+        "y": 242596.15575149
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 23,
+        "ID": 23,
+        "KA_NUMMER": 519,
+        "BEZEICHN": "Sanatorium \"Oberthurnhof\" St. Jakob am Thurn",
+        "ART": "Sanatorium",
+        "STRASSE": "Dorf",
+        "PLZ": 5412,
+        "ORT": "St. Jakob am Thrun",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "4"
+      },
+      "geometry": {
+        "x": 432199.41896419,
+        "y": 289107.0585788
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 24,
+        "ID": 24,
+        "KA_NUMMER": 536,
+        "BEZEICHN": "A\u00f6 Krankenhaus Zell am See",
+        "ART": "Schwerpunktkrankenanstalt",
+        "STRASSE": "Paracelsusstrasse",
+        "PLZ": 5700,
+        "ORT": "Zell am See",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "8"
+      },
+      "geometry": {
+        "x": 410888.86585635,
+        "y": 244615.48170537
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 25,
+        "ID": 25,
+        "KA_NUMMER": 547,
+        "BEZEICHN": "Privatklinik Vigaun",
+        "ART": "Sanatorium",
+        "STRASSE": "Karl-R\u00f6dhammer-Weg",
+        "PLZ": 5400,
+        "ORT": "Bad Vigaun",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "91"
+      },
+      "geometry": {
+        "x": 435105.9569509,
+        "y": 281355.80301958
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 26,
+        "ID": 26,
+        "KA_NUMMER": 550,
+        "BEZEICHN": "Krankenanstalt Altenmarkt",
+        "ART": "Sanatorium",
+        "STRASSE": "Schattauergasse",
+        "PLZ": 5541,
+        "ORT": "Altenmarkt",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "351"
+      },
+      "geometry": {
+        "x": 456914.81380321,
+        "y": 248520.270701
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 27,
+        "ID": 27,
+        "KA_NUMMER": 501,
+        "BEZEICHN": "Krankenhaus Abtenau",
+        "ART": "Pflegeanst. f\u00fcr chron. Kranke",
+        "STRASSE": "Markt",
+        "PLZ": 5441,
+        "ORT": "Abtenau",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "252"
+      },
+      "geometry": {
+        "x": 451066.99658176,
+        "y": 269650.88089668
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 28,
+        "ID": 28,
+        "KA_NUMMER": 529,
+        "BEZEICHN": "Privatklinik Lasserstrasse",
+        "ART": "Sanatorium",
+        "STRASSE": "Lasserstrasse",
+        "PLZ": 5020,
+        "ORT": "Salzburg",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "37"
+      },
+      "geometry": {
+        "x": 428556.8459048,
+        "y": 296731.7782019
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 29,
+        "ID": 29,
+        "KA_NUMMER": 514,
+        "BEZEICHN": "A\u00f6 Krankenhaus Mittersill",
+        "ART": "Standardkrankenanstalt",
+        "STRASSE": "Felberstrasse",
+        "PLZ": 5730,
+        "ORT": "Mittersill",
+        "FONDS_KA": 1,
+        "HAUSNUMMER": "1"
+      },
+      "geometry": {
+        "x": 385771.38103295,
+        "y": 238343.00118753
+      }
+    },
+    {
+      "attributes": {
+        "OBJECTID": 30,
+        "ID": 30,
+        "KA_NUMMER": 518,
+        "BEZEICHN": "Krankenanstalt Obertauern Dr. Aufmesser",
+        "ART": "Sanatorium",
+        "STRASSE": "Obertauern",
+        "PLZ": 5562,
+        "ORT": "Obertauern",
+        "FONDS_KA": 0,
+        "HAUSNUMMER": "115"
+      },
+      "geometry": {
+        "x": 467060.92120466,
+        "y": 234368.22486382
+      }
+    }
+  ]
+}
