@@ -25,7 +25,7 @@ function createOutputFile(inputfile, outJson){
 
   const outfile = {}
 
-  for(int i = 0; i < inputfile.length; i++){
+  for(var i = 0; i < inputfile.length; i++){
 
     const field_value = inputfile["features"][i]["attributes"];
     outJson["diensstelle_text_de"] = field_value.DienstSt
