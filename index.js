@@ -6,7 +6,6 @@ const testFolder = 'JSON_Rohdaten';
 
 
 fs.readdir(testFolder, (err, files) => { //preprocessing the files
-
   files.forEach(file => { // loops over every file in resources
     let plaintext = read.sync(`${testFolder}/${file}`, 'utf8'); //reads the input of the txt-file
     const outstream = new stream;
@@ -15,12 +14,10 @@ fs.readdir(testFolder, (err, files) => { //preprocessing the files
     const outJson = {}
 
     outstream = createOutputFile(input, outJson);
-
   });
-
 })
 
-
+//write all important data in one file
 function createOutputFile(inputfile, outJson){
 
   const outfile = {}
@@ -37,7 +34,6 @@ function createOutputFile(inputfile, outJson){
     outJson["popu_f"] = field_value.Typ
 
     outfile += outJson;
-
   }
 
   return outfile
