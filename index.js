@@ -4,6 +4,8 @@ const stream = require('stream')
 const request = require('sync-request')
 const testFolder = 'JSON_Rohdaten';
 
+//for adding all data in one Object
+let documents = []
 
 fs.readdir(testFolder, (err, files) => { //preprocessing the files
   files.forEach(file => { // loops over every file in resources
@@ -36,52 +38,10 @@ function createOutputFile(inputfile, outJson){
     outfile += outJson;
   }
 
-  return outfile
+  //return outfile
+  //accumulate JSON objects in one Object before they are sent to solr
+  accumData(outfile);
 }
-
-
-
-
-//////////////////////////////////////////
-
-let documents = []
-
-// read file through fs readstream
-const instream = fs.createReadStream('RotesKreuz.json') // simplewiki file has to be named 'simplewiki.json'
-const outstream = new stream
-const rl = readline.createInterface(instream, outstream)
-
-// do this for every line in the stream
-rl.on('line', function(line) {
-
-    // extract only the relevant properties of the input JSON file
-    const lineJson = JSON.parse(line);
-    const outJson = {}
-
-    // write relevant properties to output JSON file
-    outJson["aux_txt_sort"] = lineJson.auxiliary_text
-    outJson["title_txt_en"] = lineJson.title
-    outJson["text_txt_en"] = lineJson.text
-    outJson["heading_txt_sort"] = lineJson.heading
-    outJson["link_txt_sort"] = lineJson.outgoing_link
-    outJson["popu_f"] = lineJson.popularity_score
-    // opening_text is optional
-    if(lineJson.opening_text) outJson["opening_txt_en"] = lineJson.opening_text
-    else outJson["opening_txt_en"] = ""
-    // coordinates is optional
-    if(lineJson.coordinates) outJson["location"] = lineJson.coordinates
-    else outJson["location"] = []
-
-    //accumulate JSON objects before they are sent
-    accumData(outJson)
-})
-
-// send rest of Data when filestream is over
-// otherwise the last <10k Objects are not sent
-rl.on('close', function() {
-    sendData(documents)
-    documents = []
-});
 
 // accumulates JSON objects in array until 10k before they are sent
 function accumData(postData) {
@@ -111,3 +71,10 @@ function sendData(postData){
       console.log('sent')
     }
 }
+
+// send rest of Data when filestream is over
+// otherwise the last <10k Objects are not sent
+rl.on('close', function() {
+    sendData(documents)
+    documents = []
+});
