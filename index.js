@@ -5,9 +5,10 @@ const stream = require('stream')
 const testFolder = 'JSON_Rohdaten';
 const read = require('read-file');
 
+//for adding all data in one Object
+let documents = []
 
 fs.readdir(testFolder, (err, files) => { //preprocessing the files
-
   files.forEach(file => { // loops over every file in resources
     let plaintext = read.sync(`${testFolder}/${file}`, 'utf8'); //reads the input of the txt-file
     //const outstream = new stream;
@@ -15,12 +16,16 @@ fs.readdir(testFolder, (err, files) => { //preprocessing the files
     const input = JSON.parse(plaintext);
     const outJson = {}
 
+<<<<<<< HEAD
     createOutputFile(input, outJson);
 
+=======
+    outstream = createOutputFile(input, outJson);
+>>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
   });
-
 })
 
+<<<<<<< HEAD
 let documents = []
 
 function createOutputFile(inputfile, outJson){
@@ -54,6 +59,33 @@ function createOutputFile(inputfile, outJson){
   //return outfile
 }
 
+=======
+//write all important data in one file
+function createOutputFile(inputfile, outJson){
+
+  const outfile = {}
+
+  for(var i = 0; i < inputfile.length; i++){
+
+    const field_value = inputfile["features"][i]["attributes"];
+    outJson["diensstelle_text_de"] = field_value.DienstSt
+    outJson["art_text_de"] = field_value.Art
+    outJson["ort_text_de"] = field_value.Ort
+    outJson["str"] = field_value.Strasse
+    outJson["link_txt_sort"] = field_value.Hnr
+    outJson["popu_f"] = field_value.Bezirk
+    outJson["popu_f"] = field_value.Typ
+
+    outfile += outJson;
+  }
+
+  //return outfile
+  //accumulate JSON objects in one Object before they are sent to solr
+  accumData(outfile);
+}
+
+// accumulates JSON objects in array until 10k before they are sent
+>>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
 function accumData(postData) {
     documents.push(postData)
     if(documents.length == 10){
@@ -84,7 +116,14 @@ function sendData(postData){
 
 // send rest of Data when filestream is over
 // otherwise the last <10k Objects are not sent
+<<<<<<< HEAD
 /*rl.on('close', function() {
     sendData(documents)
     documents = []
 });*/
+=======
+rl.on('close', function() {
+    sendData(documents)
+    documents = []
+});
+>>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
