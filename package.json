@@ -4,7 +4,8 @@
   "description": "Das ist ein Projekt über Ärzte und Krankenhäuser in dem Land Salzburg. Man kann nach bestimmten Postleitzahlen filtern.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
   "homepage": "https://github.com/fhs39951/GesPlaS_SolrProjekt#readme",
   "dependencies": {
     "fs": "0.0.1-security",
+    "read-file": "^0.2.0",
     "readline": "^1.3.0",
     "stream": "0.0.2",
     "sync-request": "^6.0.0"
