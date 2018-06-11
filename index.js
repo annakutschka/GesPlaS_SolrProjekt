@@ -1,14 +1,13 @@
 const fs = require('fs')
 const readline = require('readline')
 const stream = require('stream')
-//const request = require('sync-request')
+const request = require('sync-request')
 const testFolder = 'JSON_Rohdaten';
 const read = require('read-file');
 
-//for adding all data in one Object
-let documents = []
-
+/*
 fs.readdir(testFolder, (err, files) => { //preprocessing the files
+
   files.forEach(file => { // loops over every file in resources
     let plaintext = read.sync(`${testFolder}/${file}`, 'utf8'); //reads the input of the txt-file
     //const outstream = new stream;
@@ -16,79 +15,48 @@ fs.readdir(testFolder, (err, files) => { //preprocessing the files
     const input = JSON.parse(plaintext);
     const outJson = {}
 
-<<<<<<< HEAD
     createOutputFile(input, outJson);
 
-=======
-    outstream = createOutputFile(input, outJson);
->>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
   });
-})
 
-<<<<<<< HEAD
+})*/
+
 let documents = []
 
-function createOutputFile(inputfile, outJson){
+// read file through fs readstream
+const instream = fs.createReadStream('JSON_Rohdaten/Ambukrankpotheken.json') // simplewiki file has to be named 'simplewiki.json'
+const outstream = new stream
+let outJson = {}
+const rl = readline.createInterface(instream, outstream)
 
-  //const outfile = {}
+rl.on('inputfile', function(inputfile, outJson) {
   //console.log(inputfile["features"][0]["attributes"])
   for(let i = 0; i < inputfile["features"].length; i++){
     outJson = {}
 
     const field_value = inputfile["features"][i]["attributes"];
     //console.log(field_value)
-    //console.log("_________")
     outJson["ka_i"] = field_value.KA_NUMMER == undefined ? null : field_value.KA_NUMMER
     outJson["bezeichn_text_de"] = field_value.BEZEICHN
     outJson["art_text_de"] = field_value.ART
     outJson["ort_text_de"] = field_value.ORT
     let strasse = [field_value.STRASSE, field_value.HAUSNUMMER]
-    //strasse.push(field_value.STRASSE)
-    //strasse.push(field_value.HAUSNUMMER)
     outJson["str_txt_sort"] = strasse
 
-
-    //jsonArr.push(outJson)
     accumData(outJson)
-    //outfile += outJson;
-
   }
+})
 
+// send rest of Data when filestream is over
+// otherwise the last <10k Objects are not sent
+rl.on('close', function() {
+    sendData(documents)
+    documents = []
+});
 
-
-  //return outfile
-}
-
-=======
-//write all important data in one file
-function createOutputFile(inputfile, outJson){
-
-  const outfile = {}
-
-  for(var i = 0; i < inputfile.length; i++){
-
-    const field_value = inputfile["features"][i]["attributes"];
-    outJson["diensstelle_text_de"] = field_value.DienstSt
-    outJson["art_text_de"] = field_value.Art
-    outJson["ort_text_de"] = field_value.Ort
-    outJson["str"] = field_value.Strasse
-    outJson["link_txt_sort"] = field_value.Hnr
-    outJson["popu_f"] = field_value.Bezirk
-    outJson["popu_f"] = field_value.Typ
-
-    outfile += outJson;
-  }
-
-  //return outfile
-  //accumulate JSON objects in one Object before they are sent to solr
-  accumData(outfile);
-}
-
-// accumulates JSON objects in array until 10k before they are sent
->>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
 function accumData(postData) {
     documents.push(postData)
-    if(documents.length == 10){
+    if(documents.length == 10000){
         // send array of JSON objects to solr server
         console.log('sending')
         sendData(documents)
@@ -113,17 +81,3 @@ function sendData(postData){
       console.log('sent')
     }
 }
-
-// send rest of Data when filestream is over
-// otherwise the last <10k Objects are not sent
-<<<<<<< HEAD
-/*rl.on('close', function() {
-    sendData(documents)
-    documents = []
-});*/
-=======
-rl.on('close', function() {
-    sendData(documents)
-    documents = []
-});
->>>>>>> 957386e1f3d3b52d5e703beaab0de8dff5ec16ef
