@@ -50,17 +50,18 @@ function createOutputFile(inputfile, outJson) {
 
     outJson["ort_text_de"] = field_value.ORT
 
-    let hnr;
     let strasse;
     if(field_value.HAUSNUMMER){
       strasse = [field_value.STRASSE, field_value.HAUSNUMMER]
+      outJson["str_txt_sort"] = strasse
     }
     else if(field_value.HAUSNR){
       strasse = [field_value.STRASSE, field_value.HAUSNR]
+      outJson["str_txt_sort"] = strasse
     }
 
 
-    outJson["str_txt_sort"] = strasse
+
 
     accumData(outJson)
   }
