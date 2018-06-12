@@ -39,9 +39,27 @@ function createOutputFile(inputfile, outJson) {
     outJson["ka_i"] = field_value.KA_NUMMER == undefined ? null : field_value.KA_NUMMER
     outJson["bezeichn_text_de"] = field_value.BEZEICHN
     //TODO: if bei Typ statt Art
-    outJson["art_text_de"] = field_value.ART
+
+    if(field_value.ART){
+      outJson["art_text_de"] = field_value.ART
+    }else if(field_value.TYP){
+      outJson["art_text_de"] = field_value.TYP
+    }else{
+      outJson["art_text_de"] = "Apotheke"
+    }
+
     outJson["ort_text_de"] = field_value.ORT
-    let strasse = [field_value.STRASSE, field_value.HAUSNUMMER]
+
+    let hnr;
+    let strasse;
+    if(field_value.HAUSNUMMER){
+      strasse = [field_value.STRASSE, field_value.HAUSNUMMER]
+    }
+    else if(field_value.HAUSNR){
+      strasse = [field_value.STRASSE, field_value.HAUSNR]
+    }
+
+
     outJson["str_txt_sort"] = strasse
 
     accumData(outJson)
