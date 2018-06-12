@@ -1,41 +1,35 @@
 <html>
     <head>
-        <style>
-            .content {
-                width: 100vw;
-                height: 100vh;
-
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-            }
-
-            .wrapper-search {
-                display: flex;
-                flex-direction: column;
-                justify-content: center;
-                align-items: center;
-            }
-
-        </style>
-
+        <link rel="stylesheet" href="index.css">
+        <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     </head>
     <body>
+        <div class="headline">
+            <img src="./images/logo.png" >
+            <h1>GesPlaS</h1>
+            <p>Gesundheitsplattform Salzburg</p>
+            <hr>
+        </div>
         <div class="content">
             <div class="wrapper-search">
-                <h1>Suchmaschine</h1>
+                <h2>Suchmaschine</h2>
+                <p id="introduction">Auf dieser Plattform können Sie nach Apotheken, Krankenanstalten oder Ambulatorien suchen. 
+                    Bitte geben Sie einen Suchbegriff ein (zb. PLZ oder Straßennamen) oer wählen Sie eine gewünschte Kategorie.</p>
                 <input type="text" class="input-text" id="search-input" placeholder="Suchbegriffe...">
                 <div class="wrapper-filter">
                     <input type="checkbox" name="filter" id="filter-pharmacy">
                     <label for="filter-pharmacy">Apotheken</label><br>
                     <input type="checkbox" name="filter" id="filter-hospital">
-                    <label for="filter-hospital">Krankenanstalt</label><br>
+                    <label for="filter-hospital">Krankenanstalt und Ambulatorien</label><br>
                 </div>
                 <button type="submit" id="search-button">Suchen</button>
             </div>
             <div class="wrapper-result">
             </div>
+            <p id="impressum">
+                    Marion Menzl, Isabella Sperr, Melanie Reisenbichler, Anna Kutschka <br>
+                    FH Salzburg - MMT
+            </p>
         </div>
     </body>
 
