@@ -57,7 +57,7 @@ function createOutputFile(inputfile, outJson) {
 
 function accumData(postData) {
     documents.push(postData)
-    if(documents.length == 10){
+    if(documents.length == 180){
         // send array of JSON objects to solr server
         console.log('sending')
         sendData(documents)
