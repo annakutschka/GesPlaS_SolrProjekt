@@ -38,7 +38,10 @@ function createOutputFile(inputfile, outJson) {
     //console.log(field_value)
     outJson["ka_i"] = field_value.KA_NUMMER == undefined ? null : field_value.KA_NUMMER
     outJson["bezeichn_text_de"] = field_value.BEZEICHN
-    //TODO: if bei Typ statt Art
+
+    //For indexing spell suggestions
+    outJson["_text_"] = field_value.BEZEICHN
+    // outJson["default_text_"] = field_value.BEZEICHN
 
     if(field_value.ART){
       outJson["art_text_de"] = field_value.ART
@@ -59,9 +62,6 @@ function createOutputFile(inputfile, outJson) {
       strasse = [field_value.STRASSE, field_value.HAUSNR]
       outJson["str_txt_sort"] = strasse
     }
-
-
-
 
     accumData(outJson)
   }
